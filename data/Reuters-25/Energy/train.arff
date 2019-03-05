@@ -1,0 +1,1239 @@
+@relation 'F__reuters_RetuersData_Train-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-I-N0-L-S-stemmerweka.core.stemmers.LovinsStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Remove-R2-14,16-102,693-714,1307-1310,1315-1316,1321,1691,1695,1775-1776-weka.filters.unsupervised.attribute.Remove-R2,593,1185-1194,1354,1561-1564-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N 1000'
+
+@attribute gasol numeric
+@attribute gulf numeric
+@attribute attack numeric
+@attribute iran numeric
+@attribute barrel numeric
+@attribute protect numeric
+@attribute ship numeric
+@attribute kuwait numeric
+@attribute reagan numeric
+@attribute oil numeric
+@attribute flag numeric
+@attribute compan numeric
+@attribute octan numeric
+@attribute opec numeric
+@attribute dlr numeric
+@attribute tanker numeric
+@attribute pric numeric
+@attribute war numeric
+@attribute nav numeric
+@attribute forc numeric
+@attribute crus numeric
+@attribute unit numeric
+@attribute produc numeric
+@attribute regl numeric
+@attribute export numeric
+@attribute output numeric
+@attribute milit numeric
+@attribute pas numeric
+@attribute energ numeric
+@attribute sen numeric
+@attribute bil numeric
+@attribute debt numeric
+@attribute bpd numeric
+@attribute congres numeric
+@attribute republican numeric
+@attribute fly numeric
+@attribute mln numeric
+@attribute unlead numeric
+@attribute act numeric
+@attribute keros numeric
+@attribute waterwa numeric
+@attribute frig numeric
+@attribute month numeric
+@attribute washingt numeric
+@attribute petroleum numeric
+@attribute governm numeric
+@attribute mo numeric
+@attribute introduc numeric
+@attribute warship numeric
+@attribute american numeric
+@attribute se numeric
+@attribute sought numeric
+@attribute rid numeric
+@attribute democrat numeric
+@attribute reflag numeric
+@attribute democr numeric
+@attribute revolt numeric
+@attribute last-minut numeric
+@attribute weinberger numeric
+@attribute caspar numeric
+@attribute cabinet numeric
+@attribute import numeric
+@attribute affair numeric
+@attribute abl numeric
+@attribute vot numeric
+@attribute aver numeric
+@attribute petrol numeric
+@attribute contract numeric
+@attribute fal numeric
+@attribute diesel numeric
+@attribute commis numeric
+@attribute merger numeric
+@attribute portray numeric
+@attribute post-d numeric
+@attribute rank numeric
+@attribute spre numeric
+@attribute shap numeric
+@attribute sector numeric
+@attribute sap numeric
+@attribute rationalis numeric
+@attribute rashid numeric
+@attribute recession-hit numeric
+@attribute reactiv numeric
+@attribute debt-rid numeric
+@attribute crash numeric
+@attribute depositor numeric
+@attribute debtor numeric
+@attribute default numeric
+@attribute al-rashid numeric
+@attribute banker numeric
+@attribute vit numeric
+@attribute contraction numeric
+@attribute chequ numeric
+@attribute collater numeric
+@attribute one-half numeric
+@attribute much-need numeric
+@attribute oil-reli numeric
+@attribute pieceme numeric
+@attribute outstand numeric
+@attribute petrodol numeric
+@attribute gdp numeric
+@attribute dinar numeric
+@attribute edict numeric
+@attribute high-grad numeric
+@attribute guaranteed numeric
+@attribute heft numeric
+@attribute threaten numeric
+@attribute account numeric
+@attribute sum numeric
+@attribute go-ahead numeric
+@attribute gm numeric
+@attribute exhaust numeric
+@attribute model numeric
+@attribute nitr numeric
+@attribute butyl numeric
+@attribute forest numeric
+@attribute prem numeric
+@attribute mtb numeric
+@attribute motor numeric
+@attribute vehicl numeric
+@attribute marketer numeric
+@attribute low-pollut numeric
+@attribute emis numeric
+@attribute compulsor numeric
+@attribute methyl numeric
+@attribute oxid numeric
+@attribute ether numeric
+@attribute pt numeric
+@attribute beef numeric
+@attribute oregon numeric
+@attribute abdullah numeric
+@attribute wak numeric
+@attribute hatfield numeric
+@attribute defeat numeric
+@attribute patrol numeric
+@attribute restrict numeric
+@attribute warrant numeric
+@attribute alask numeric
+@attribute week numeric
+@attribute wa numeric
+@attribute virtu numeric
+@attribute schedl numeric
+@attribute warn numeric
+@attribute west numeric
+@attribute sam numeric
+@attribute aid numeric
+@attribute sal numeric
+@attribute retail numeric
+@attribute saud numeric
+@attribute wer numeric
+@attribute wel numeric
+@attribute welcom numeric
+@attribute upgrad numeric
+@attribute secons numeric
+@attribute vancouver numeric
+@attribute urg numeric
+@attribute typ numeric
+@attribute anti-ship numeric
+@attribute secres numeric
+@attribute unchang numeric
+@attribute unfound numeric
+@attribute schem numeric
+@attribute season numeric
+@attribute alger numeric
+@attribute alloc numeric
+@attribute vic numeric
+@attribute vast numeric
+@attribute amount numeric
+@attribute ves numeric
+@attribute americ numeric
+@attribute alvit numeric
+@attribute run numeric
+@attribute abu numeric
+@attribute risk numeric
+@attribute rosenberg numeric
+@attribute -flag numeric
+@attribute yesterda numeric
+@attribute affect numeric
+@attribute abil numeric
+@attribute agre numeric
+@attribute adopt numeric
+@attribute adhes numeric
+@attribute riv numeric
+@attribute rl numeric
+@attribute ros numeric
+@attribute accept numeric
+@attribute aegean numeric
+@attribute robers numeric
+@attribute actu numeric
+@attribute wid numeric
+@attribute whos numeric
+@attribute agri numeric
+@attribute widespread numeric
+@attribute whes numeric
+@attribute wh numeric
+@attribute rush numeric
+@attribute whil numeric
+@attribute whit numeric
+@attribute year numeric
+@attribute revis numeric
+@attribute ris numeric
+@attribute year-to-d numeric
+@attribute yen numeric
+@attribute wil numeric
+@attribute agreement numeric
+@attribute rur numeric
+@attribute wright numeric
+@attribute writ numeric
+@attribute switch numeric
+@attribute surpris numeric
+@attribute targes numeric
+@attribute tac numeric
+@attribute taper numeric
+@attribute suppl numeric
+@attribute super numeric
+@attribute spur numeric
+@attribute sta numeric
+@attribute st numeric
+@attribute spc numeric
+@attribute taxpayer numeric
+@attribute spain numeric
+@attribute ten numeric
+@attribute term numeric
+@attribute spokesman numeric
+@attribute tarragon numeric
+@attribute spr numeric
+@attribute speaker numeric
+@attribute spec numeric
+@attribute task numeric
+@attribute strateg numeric
+@attribute stream numeric
+@attribute stock numeric
+@attribute stor numeric
+@attribute suggest numeric
+@attribute subsidi numeric
+@attribute stud numeric
+@attribute stretch numeric
+@attribute suffer numeric
+@attribute strong numeric
+@attribute standard numeric
+@attribute sulphur numeric
+@attribute staff numeric
+@attribute stale numeric
+@attribute summer numeric
+@attribute stead numeric
+@attribute stil numeric
+@attribute suit numeric
+@attribute start numeric
+@attribute status numeric
+@attribute stat numeric
+@attribute tough numeric
+@attribute tot numeric
+@attribute shar numeric
+@attribute shel numeric
+@attribute sharp numeric
+@attribute told numeric
+@attribute toda numeric
+@attribute tonight numeric
+@attribute shol numeric
+@attribute ton numeric
+@attribute truck numeric
+@attribute sekiyu numeric
+@attribute tw numeric
+@attribute tuesda numeric
+@attribute turnover numeric
+@attribute trad numeric
+@attribute sev numeric
+@attribute toughes numeric
+@attribute sel numeric
+@attribute trader numeric
+@attribute transport numeric
+@attribute smoother numeric
+@attribute solut numeric
+@attribute sit numeric
+@attribute slight numeric
+@attribute test-markes numeric
+@attribute south numeric
+@attribute terti numeric
+@attribute som numeric
+@attribute test numeric
+@attribute sourc numeric
+@attribute thre numeric
+@attribute thos numeric
+@attribute tim numeric
+@attribute short numeric
+@attribute threat numeric
+@attribute sic numeric
+@attribute singapor numeric
+@attribute simil numeric
+@attribute ther numeric
+@attribute show numeric
+@attribute tetr numeric
+@attribute espinos numeric
+@attribute escal numeric
+@attribute escort numeric
+@attribute evan numeric
+@attribute europ numeric
+@attribute evalu numeric
+@attribute emir numeric
+@attribute electr numeric
+@attribute emerg numeric
+@attribute equival numeric
+@attribute england numeric
+@attribute equ numeric
+@attribute fact numeric
+@attribute exxon numeric
+@attribute fac numeric
+@attribute feel numeric
+@attribute fahd numeric
+@attribute febru numeric
+@attribute expenditur numeric
+@attribute exceed numeric
+@attribute exchang numeric
+@attribute explos numeric
+@attribute exporter numeric
+@attribute expers numeric
+@attribute explor numeric
+@attribute discov numeric
+@attribute difficult numeric
+@attribute direct numeric
+@attribute disput numeric
+@attribute discover numeric
+@attribute discus numeric
+@attribute develop numeric
+@attribute determ numeric
+@attribute determin numeric
+@attribute dhab numeric
+@attribute differ numeric
+@attribute developm numeric
+@attribute development numeric
+@attribute ecuador numeric
+@attribute earn numeric
+@attribute earthquak numeric
+@attribute egypt numeric
+@attribute ecuadorean numeric
+@attribute effort numeric
+@attribute doesn numeric
+@attribute distribut numeric
+@attribute divid numeric
+@attribute duba numeric
+@attribute ear numeric
+@attribute don numeric
+@attribute dril numeric
+@attribute hisham numeric
+@attribute hernandez numeric
+@attribute highest numeric
+@attribute hold numeric
+@attribute hit numeric
+@attribute hodel numeric
+@attribute half numeric
+@attribute growth numeric
+@attribute guarantee numeric
+@attribute harm numeric
+@attribute head numeric
+@attribute halt numeric
+@attribute hard numeric
+@attribute indic numeric
+@attribute incom numeric
+@attribute ind numeric
+@attribute initi numeric
+@attribute indones numeric
+@attribute init numeric
+@attribute hydr numeric
+@attribute hormuz numeric
+@attribute hug numeric
+@attribute improv numeric
+@attribute incentiv numeric
+@attribute hydrocracker numeric
+@attribute implem numeric
+@attribute flow numeric
+@attribute fl numeric
+@attribute float numeric
+@attribute found numeric
+@attribute forecast numeric
+@attribute form numeric
+@attribute fic numeric
+@attribute fees numeric
+@attribute fernand numeric
+@attribute fir numeric
+@attribute fitzwater numeric
+@attribute field numeric
+@attribute fil numeric
+@attribute greater numeric
+@attribute gholamrez numeric
+@attribute grav numeric
+@attribute grisant numeric
+@attribute greec numeric
+@attribute greek numeric
+@attribute french numeric
+@attribute fourth numeric
+@attribute fre numeric
+@attribute gcc numeric
+@attribute ges numeric
+@attribute frida numeric
+@attribute fund numeric
+@attribute brent numeric
+@attribute bought numeric
+@attribute brazil numeric
+@attribute britain numeric
+@attribute bring numeric
+@attribute brit numeric
+@attribute benchmark numeric
+@attribute began numeric
+@attribute belief numeric
+@attribute bl numeric
+@attribute block numeric
+@attribute benefit numeric
+@attribute bid numeric
+@attribute center numeric
+@attribute cash numeric
+@attribute ceil numeric
+@attribute chang numeric
+@attribute champlin numeric
+@attribute chanc numeric
+@attribute businessm numeric
+@attribute brought numeric
+@attribute built numeric
+@attribute cam numeric
+@attribute cancel numeric
+@attribute buy numeric
+@attribute buyer numeric
+@attribute asses numeric
+@attribute arriv numeric
+@attribute artur numeric
+@attribute athen numeric
+@attribute assign numeric
+@attribute assist numeric
+@attribute appar numeric
+@attribute anyth numeric
+@attribute ape numeric
+@attribute aramc numeric
+@attribute arm numeric
+@attribute approach numeric
+@attribute aqazadeh numeric
+@attribute bank numeric
+@attribute bal numeric
+@attribute bala numeric
+@attribute befor numeric
+@attribute basin numeric
+@attribute bay numeric
+@attribute author numeric
+@attribute august numeric
+@attribute austral numeric
+@attribute award numeric
+@attribute bahrain numeric
+@attribute av numeric
+@attribute awa numeric
+@attribute customer numeric
+@attribute cub numeric
+@attribute curb numeric
+@attribute dec numeric
+@attribute damag numeric
+@attribute deal numeric
+@attribute cover numeric
+@attribute cour numeric
+@attribute court numeric
+@attribute cris numeric
+@attribute ct numeric
+@attribute cpc numeric
+@attribute credit numeric
+@attribute den numeric
+@attribute deliv numeric
+@attribute deliver numeric
+@attribute destroy numeric
+@attribute deput numeric
+@attribute desir numeric
+@attribute declin numeric
+@attribute december numeric
+@attribute decis numeric
+@attribute defens numeric
+@attribute deleg numeric
+@attribute decreas numeric
+@attribute def numeric
+@attribute coast numeric
+@attribute clos numeric
+@attribute coal numeric
+@attribute commerc numeric
+@attribute colomb numeric
+@attribute combin numeric
+@attribute chevron numeric
+@attribute charg numeric
+@attribute cheat numeric
+@attribute cit numeric
+@attribute clear numeric
+@attribute chief numeric
+@attribute chin numeric
+@attribute contin numeric
+@attribute confirm numeric
+@attribute connect numeric
+@attribute council numeric
+@attribute control numeric
+@attribute cooper numeric
+@attribute complec numeric
+@attribute communiqu numeric
+@attribute compens numeric
+@attribute condit numeric
+@attribute confid numeric
+@attribute comples numeric
+@attribute con numeric
+@attribute design numeric
+@attribute deples numeric
+@attribute deregl numeric
+@attribute dict numeric
+@attribute despit numeric
+@attribute detail numeric
+@attribute demand numeric
+@attribute deficit numeric
+@attribute del numeric
+@attribute depens numeric
+@attribute departm numeric
+@attribute departmes numeric
+@attribute drop numeric
+@attribute domest numeric
+@attribute draw numeric
+@attribute dunham numeric
+@attribute du numeric
+@attribute dual numeric
+@attribute disloc numeric
+@attribute diplomat numeric
+@attribute discount numeric
+@attribute dol numeric
+@attribute distil numeric
+@attribute dlrs/barrel numeric
+@attribute corpor numeric
+@attribute corn numeric
+@attribute corp numeric
+@attribute countr numeric
+@attribute coruna-bas numeric
+@attribute cost numeric
+@attribute consumer numeric
+@attribute construc numeric
+@attribute consum numeric
+@attribute cool numeric
+@attribute continu numeric
+@attribute convers numeric
+@attribute dd numeric
+@attribute dat numeric
+@attribute day numeric
+@attribute decl numeric
+@attribute de numeric
+@attribute dealer numeric
+@attribute cur numeric
+@attribute cre numeric
+@attribute crown numeric
+@attribute dam numeric
+@attribute daniel numeric
+@attribute cut numeric
+@attribute da numeric
+@attribute experi numeric
+@attribute exist numeric
+@attribute expect numeric
+@attribute facil numeric
+@attribute expir numeric
+@attribute extens numeric
+@attribute excis numeric
+@attribute ethyl numeric
+@attribute european numeric
+@attribute exempt numeric
+@attribute exclus numeric
+@attribute execut numeric
+@attribute firm numeric
+@attribute find numeric
+@attribute finland numeric
+@attribute follow numeric
+@attribute fisc numeric
+@attribute fiv numeric
+@attribute feas numeric
+@attribute fe numeric
+@attribute fear numeric
+@attribute figur numeric
+@attribute fin numeric
+@attribute feder numeric
+@attribute fel numeric
+@attribute edmont numeric
+@attribute ec numeric
+@attribute econom numeric
+@attribute elder numeric
+@attribute effect numeric
+@attribute ei numeric
+@attribute earl numeric
+@attribute dupont numeric
+@attribute dur numeric
+@attribute eastern numeric
+@attribute eas numeric
+@attribute east numeric
+@attribute es numeric
+@attribute ens numeric
+@attribute environm numeric
+@attribute ethanol numeric
+@attribute espanol numeric
+@attribute estim numeric
+@attribute empres numeric
+@attribute elim numeric
+@attribute emp numeric
+@attribute enh numeric
+@attribute enhancer numeric
+@attribute encour numeric
+@attribute endanger numeric
+@attribute ar numeric
+@attribute approv numeric
+@attribute april numeric
+@attribute archi numeric
+@attribute arab numeric
+@attribute arches numeric
+@attribute annu numeric
+@attribute analyst numeric
+@attribute announc numeric
+@attribute appl numeric
+@attribute anticompetit numeric
+@attribute ap numeric
+@attribute ban numeric
+@attribute avers numeric
+@attribute back numeric
+@attribute bear numeric
+@attribute bar numeric
+@attribute bas numeric
+@attribute attempt numeric
+@attribute associ numeric
+@attribute assum numeric
+@attribute avail numeric
+@attribute averag numeric
+@attribute attens numeric
+@attribute automat numeric
+@attribute administer numeric
+@attribute addres numeric
+@attribute adm numeric
+@attribute afford numeric
+@attribute advant numeric
+@attribute advisor numeric
+@attribute achief numeric
+@attribute abov numeric
+@attribute accord numeric
+@attribute addit numeric
+@attribute acis numeric
+@attribute ad numeric
+@attribute alread numeric
+@attribute albers numeric
+@attribute algecir numeric
+@attribute amoc numeric
+@attribute als numeric
+@attribute alter numeric
+@attribute agribus numeric
+@attribute ag numeric
+@attribute agreed numeric
+@attribute air numeric
+@attribute al numeric
+@attribute ahead numeric
+@attribute aim numeric
+@attribute chairman numeric
+@attribute cents/litr numeric
+@attribute ceps numeric
+@attribute ci numeric
+@attribute cheap numeric
+@attribute chem numeric
+@attribute cent/gallon numeric
+@attribute celan numeric
+@attribute cent numeric
+@attribute cents/gallon numeric
+@attribute centr numeric
+@attribute cents/barrel numeric
+@attribute concern numeric
+@attribute compes numeric
+@attribute competit numeric
+@attribute consensus numeric
+@attribute confer numeric
+@attribute conoc numeric
+@attribute col numeric
+@attribute cnp numeric
+@attribute cod numeric
+@attribute community-w numeric
+@attribute compar numeric
+@attribute committe numeric
+@attribute commun numeric
+@attribute bolster numeric
+@attribute billion numeric
+@attribute board numeric
+@attribute bp numeric
+@attribute bon numeric
+@attribute boost numeric
+@attribute begin numeric
+@attribute becaus numeric
+@attribute becom numeric
+@attribute bilba numeric
+@attribute beutel numeric
+@attribute biggest numeric
+@attribute capit numeric
+@attribute canad numeric
+@attribute cap numeric
+@attribute caus numeric
+@attribute car numeric
+@attribute cas numeric
+@attribute bulletin numeric
+@attribute budges numeric
+@attribute build numeric
+@attribute caltic numeric
+@attribute campaign numeric
+@attribute bus numeric
+@attribute cal numeric
+@attribute opppos numeric
+@attribute onstream numeric
+@attribute oper numeric
+@attribute oy numeric
+@attribute opt numeric
+@attribute order numeric
+@attribute october numeric
+@attribute number numeric
+@attribute oblig numeric
+@attribute onl numeric
+@attribute offer numeric
+@attribute offic numeric
+@attribute petroleo numeric
+@attribute peter numeric
+@attribute petrole numeric
+@attribute pip numeric
+@attribute petronor numeric
+@attribute phillip numeric
+@attribute partner numeric
+@attribute panel numeric
+@attribute part numeric
+@attribute period numeric
+@attribute permis numeric
+@attribute paul numeric
+@attribute pct numeric
+@attribute mor numeric
+@attribute mobil numeric
+@attribute monopol numeric
+@attribute nac numeric
+@attribute mountain numeric
+@attribute mov numeric
+@attribute mil numeric
+@attribute midland numeric
+@attribute midwest numeric
+@attribute mis numeric
+@attribute minim numeric
+@attribute minister numeric
+@attribute nippon numeric
+@attribute neutr numeric
+@attribute nin numeric
+@attribute npol numeric
+@attribute nort numeric
+@attribute notic numeric
+@attribute nationw numeric
+@attribute naphth numeric
+@attribute nat numeric
+@attribute nest numeric
+@attribute network numeric
+@attribute natur numeric
+@attribute neo numeric
+@attribute recommens numeric
+@attribute react numeric
+@attribute receiv numeric
+@attribute refiner numeric
+@attribute reduc numeric
+@attribute refin numeric
+@attribute rain numeric
+@attribute quot numeric
+@attribute r-kan numeric
+@attribute raw numeric
+@attribute rais numeric
+@attribute ran numeric
+@attribute request numeric
+@attribute report numeric
+@attribute reporter numeric
+@attribute respons numeric
+@attribute reserv numeric
+@attribute residu numeric
+@attribute reg numeric
+@attribute refiner-own numeric
+@attribute reform numeric
+@attribute repeat numeric
+@attribute replac numeric
+@attribute rel numeric
+@attribute reli numeric
+@attribute pres numeric
+@attribute practic numeric
+@attribute pred numeric
+@attribute prev numeric
+@attribute presid numeric
+@attribute pressur numeric
+@attribute plant numeric
+@attribute pipel numeric
+@attribute plan numeric
+@attribute post numeric
+@attribute pollut numeric
+@attribute pos numeric
+@attribute purpos numeric
+@attribute proxim numeric
+@attribute pump numeric
+@attribute quest numeric
+@attribute put numeric
+@attribute qu numeric
+@attribute producer numeric
+@attribute prim numeric
+@attribute problem numeric
+@attribute propos numeric
+@attribute prospect numeric
+@attribute prohibit numeric
+@attribute prompt numeric
+@attribute herringt numeric
+@attribute held numeric
+@attribute henr numeric
+@attribute highes numeric
+@attribute hes numeric
+@attribute high numeric
+@attribute hav numeric
+@attribute ha numeric
+@attribute hardship numeric
+@attribute heav numeric
+@attribute health numeric
+@attribute heat numeric
+@attribute inclus numeric
+@attribute impl numeric
+@attribute impos numeric
+@attribute inform numeric
+@attribute increas numeric
+@attribute industr numeric
+@attribute hous numeric
+@attribute hoechst numeric
+@attribute hop numeric
+@attribute immedi numeric
+@attribute impact numeric
+@attribute hundred numeric
+@attribute idemitsu numeric
+@attribute gain numeric
+@attribute futur numeric
+@attribute ga numeric
+@attribute gener numeric
+@attribute gallon numeric
+@attribute gav numeric
+@attribute founder numeric
+@attribute foreign numeric
+@attribute forml numeric
+@attribute fuel numeric
+@attribute franchis numeric
+@attribute ftc numeric
+@attribute grow numeric
+@attribute ground numeric
+@attribute group numeric
+@attribute guidel numeric
+@attribute grower numeric
+@attribute gsol numeric
+@attribute giv numeric
+@attribute georg numeric
+@attribute german numeric
+@attribute grad numeric
+@attribute gros numeric
+@attribute good numeric
+@attribute governor numeric
+@attribute lor numeric
+@attribute litr numeric
+@attribute loc numeric
+@attribute lpg numeric
+@attribute los numeric
+@attribute lower numeric
+@attribute lift numeric
+@attribute legisl numeric
+@attribute level numeric
+@attribute lin numeric
+@attribute lik numeric
+@attribute limis numeric
+@attribute mees numeric
+@attribute mater numeric
+@attribute measur numeric
+@attribute mid-grad numeric
+@attribute member numeric
+@attribute mes numeric
+@attribute major numeric
+@attribute mad numeric
+@attribute main numeric
+@attribute march numeric
+@attribute markes numeric
+@attribute mak numeric
+@attribute mar numeric
+@attribute jes numeric
+@attribute janu numeric
+@attribute japan numeric
+@attribute job numeric
+@attribute jim numeric
+@attribute jl numeric
+@attribute intens numeric
+@attribute institut numeric
+@attribute int numeric
+@attribute investm numeric
+@attribute intern numeric
+@attribute inventor numeric
+@attribute law numeric
+@attribute latest numeric
+@attribute launch numeric
+@attribute leader numeric
+@attribute lawmaker numeric
+@attribute lead numeric
+@attribute kk numeric
+@attribute john numeric
+@attribute jun numeric
+@attribute larg numeric
+@attribute lat numeric
+@attribute kosan numeric
+@attribute lak numeric
+@attribute nbc numeric
+@attribute nakason numeric
+@attribute navig numeric
+@attribute nicaraguan numeric
+@attribute neighbour numeric
+@attribute nic numeric
+@attribute monitor numeric
+@attribute mohammad numeric
+@attribute moment numeric
+@attribute multin numeric
+@attribute moor numeric
+@attribute morger numeric
+@attribute par numeric
+@attribute oth numeric
+@attribute overse numeric
+@attribute perplec numeric
+@attribute parliam numeric
+@attribute peninsl numeric
+@attribute non-belliger numeric
+@attribute nicos numeric
+@attribute nobod numeric
+@attribute object numeric
+@attribute occas numeric
+@attribute non-produc numeric
+@attribute noth numeric
+@attribute lan numeric
+@attribute kuait numeric
+@attribute kun numeric
+@attribute leadership numeric
+@attribute lank numeric
+@attribute lavan numeric
+@attribute junius numeric
+@attribute jayeward numeric
+@attribute join numeric
+@attribute kharraz numeric
+@attribute khur numeric
+@attribute kam numeric
+@attribute keg numeric
+@attribute merch numeric
+@attribute marshal numeric
+@attribute men numeric
+@attribute missour numeric
+@attribute minesweeper numeric
+@attribute minor numeric
+@attribute liquif numeric
+@attribute leg numeric
+@attribute liber numeric
+@attribute mark numeric
+@attribute marlin numeric
+@attribute loser numeric
+@attribute maj numeric
+@attribute roth numeric
+@attribute rhetor numeric
+@attribute rostam numeric
+@attribute saad numeric
+@attribute rout numeric
+@attribute rumor numeric
+@attribute repl numeric
+@attribute refurb numeric
+@attribute reluc numeric
+@attribute reshadat numeric
+@attribute resolut numeric
+@attribute republ numeric
+@attribute resalat numeric
+@attribute sh numeric
+@attribute servicem numeric
+@attribute seven-ship numeric
+@attribute sim numeric
+@attribute shaheen numeric
+@attribute shultz numeric
+@attribute sailor numeric
+@attribute saf numeric
+@attribute safes numeric
+@attribute seiz numeric
+@attribute sens numeric
+@attribute sassan numeric
+@attribute sealan numeric
+@attribute premadas numeric
+@attribute pre-summis numeric
+@attribute prefer numeric
+@attribute princ numeric
+@attribute preserv numeric
+@attribute prevent numeric
+@attribute pit numeric
+@attribute pers numeric
+@attribute personnel numeric
+@attribute powder numeric
+@attribute prais numeric
+@attribute pla numeric
+@attribute pledg numeric
+@attribute re-register numeric
+@attribute ranasingh numeric
+@attribute rand numeric
+@attribute redman numeric
+@attribute reaffirm numeric
+@attribute recogn numeric
+@attribute prolong numeric
+@attribute proceed numeric
+@attribute progres numeric
+@attribute rafsanjan numeric
+@attribute rakhsh numeric
+@attribute pullout numeric
+@attribute @@class@@ {gas,crude,ship,gnp,acq}
+
+@data
+{1 1.577224,2 2.602745,3 1.746576,4 0.478492,5 1.642731,9 0.067381,17 1.544943,21 1.011821,22 1.029329,26 1.563428,32 1.776537,36 0.561603,42 0.902561,45 1.151855,66 2.624967,107 1.989842,139 0.759796,144 1.892967,149 0.579492,172 10.315981,190 2.950748,203 0.447851,234 2.189248,241 2.950748,251 2.552329,262 0.932061,280 3.582647,283 1.383014,298 2.102492,304 2.144514,326 7.210561,347 1.956024,349 1.622039,375 1.781826,380 3.388298,437 1.340992,446 2.717524,451 2.144514,463 2.102492,472 2.189248,518 2.404231,536 2.102492,537 1.080668,539 1.923778,551 2.34392,565 1.301373,598 0.676594,602 1.228342,639 0.747889,643 1.368722,644 2.404231,680 1.151855,700 1.397607,707 3.178073,718 1.459261,722 0.681825,729 2.953525,752 1.509389,763 1.509389,766 1.732294,781 1.037655,791 1.563428,804 0.671402,805 0.828881,807 1.756618,810 1.327532,815 0.995118,816 2.603668,850 2.34392,856 1.183608,868 2.365198,973 5.683474,983 4.921974,1000 crude}
+{4 0.478492,9 0.042513,22 0.514665,44 0.747889,50 1.239992,150 2.042468,153 1.664061,198 0.692408,276 2.062873,342 1.492274,438 2.34392,485 4.031076,504 1.923778,525 1.340992,537 0.681825,561 1.956024,638 4.676826,642 1.875974,761 0.888269,781 1.037655,805 0.522966,828 1.892967,1000 crude}
+{9 0.109894,11 0.730774,13 0.924567,16 0.584037,22 0.815724,23 2.189248,28 0.795712,38 1.162278,44 0.747889,45 1.151855,49 1.397607,61 1.121493,68 1.492274,137 2.288438,180 2.717524,183 1.892967,184 1.58242,196 1.162278,211 2.42014,233 2.470295,256 1.055429,289 1.513703,366 2.237071,406 2.470295,508 2.745621,531 1.756618,533 2.125422,541 1.172861,587 2.543326,626 3.304826,633 3.304826,639 0.747889,663 3.585873,664 1.412514,702 2.144514,743 2.16595,754 2.824373,755 1.037655,758 1.427748,777 0.970794,794 1.443325,795 2.189248,805 0.828881,814 1.020326,815 1.577224,819 1.923778,830 1.183608,835 1.956024,852 1.892967,880 3.398974,1000 crude}
+{9 0.085026,21 1.011821,44 0.747889,49 1.397607,149 1.345539,150 3.617709,198 0.692408,217 0.666248,251 2.022673,342 2.365198,497 3.398974,511 1.544943,590 1.354718,609 2.102492,656 2.102492,746 1.58242,815 0.995118,825 2.262934,837 1.443325,880 2.144514,1000 crude}
+{0 1.622039,4 1.516784,9 0.085026,20 0.977473,32 1.407872,36 2.246413,44 0.747889,49 1.397607,61 1.121493,138 2.615519,139 0.293929,171 1.835171,184 2.508076,199 8.283798,231 3.719604,232 2.189248,249 1.276165,265 1.397607,511 1.544943,521 2.102492,537 0.681825,572 3.164839,586 1.228342,609 4.204984,634 1.028936,687 1.544943,691 3.585873,700 1.397607,722 1.080668,753 2.192025,765 2.34392,776 1.58242,792 1.892967,799 2.189248,815 0.995118,832 2.708377,837 1.443325,869 1.301373,880 2.144514,1000 crude}
+{4 1.111024,9 0.098712,20 1.431972,22 1.543994,25 1.131467,36 1.304002,42 1.805121,44 1.495779,49 1.397607,61 1.777525,139 0.587859,149 0.579492,196 1.162278,198 1.384816,200 2.042468,201 2.824373,213 2.338724,231 1.601946,262 0.932061,286 1.664061,309 3.351298,349 1.622039,350 3.627089,415 2.543326,466 1.807985,505 2.411228,511 2.448677,512 2.795214,533 1.340992,537 1.58315,538 2.824127,609 4.881835,670 1.863467,719 1.863467,722 2.045476,723 0.970794,746 1.58242,761 0.888269,805 0.522966,814 1.020326,825 1.131467,856 2.748252,862 1.58242,880 2.144514,1000 crude}
+{4 0.758392,9 0.042513,20 0.616717,22 0.815724,25 1.131467,36 0.89012,139 0.293929,448 3.398974,634 1.028936,674 2.125422,722 1.080668,746 1.58242,801 1.340992,825 1.131467,874 3.814304,1000 crude}
+{9 0.085026,11 0.730774,22 1.195014,36 1.57662,42 0.902561,162 2.470295,210 1.892967,217 0.666248,243 2.34392,249 1.276165,251 2.022673,274 2.062873,284 1.892967,309 2.287617,448 6.020411,504 1.923778,511 1.544943,569 2.908677,572 2.508076,722 0.681825,746 1.58242,761 0.888269,793 1.863467,825 1.793332,828 1.892967,874 2.603668,906 2.717524,1000 crude}
+{2 2.602745,4 0.478492,9 0.098712,11 0.730774,14 0.631208,19 1.288654,20 0.616717,26 1.563428,28 0.795712,36 0.561603,90 2.624967,139 0.293929,149 0.918473,255 0.895378,316 1.228342,361 2.404231,365 2.062873,431 2.288438,467 1.427748,469 1.756618,474 1.544943,477 2.144514,484 4.031076,499 2.470295,503 1.956024,504 1.923778,528 1.686067,533 1.340992,544 1.686067,577 1.526938,586 1.228342,597 2.950748,670 1.863467,723 0.970794,734 1.158249,762 1.622039,766 1.732294,769 2.624967,773 1.383014,780 2.312873,781 1.037655,818 2.144514,826 1.509389,828 1.892967,830 1.183608,852 1.892967,860 0.995118,862 2.508076,1000 crude}
+{4 0.758392,9 0.127539,14 0.631208,16 0.925677,20 1.233434,25 2.627185,28 0.795712,32 2.296141,36 0.561603,38 1.162278,44 0.747889,45 2.674524,61 1.121493,68 2.365198,177 3.332371,198 1.384816,200 1.288654,211 3.053877,230 2.717524,255 0.895378,262 0.932061,265 1.397607,281 1.183608,283 2.192025,285 1.756618,316 2.852123,319 1.781826,321 2.624967,340 1.526938,349 1.622039,357 2.470295,373 2.237071,380 4.096662,415 2.543326,429 4.921974,442 7.140018,460 1.863467,500 3.715025,503 1.956024,505 1.205614,508 1.732294,512 2.215154,520 2.144514,526 1.020326,528 2.672353,531 1.756618,537 0.681825,538 1.781826,541 1.172861,549 3.545673,550 1.630826,564 2.543326,565 2.062627,575 2.918521,594 2.824373,598 1.072376,604 2.824127,615 2.737443,617 1.807985,618 2.470295,632 1.732294,646 2.237071,648 2.144514,662 2.144514,664 1.412514,674 2.125422,697 1.544943,705 1.892967,722 0.681825,763 1.509389,764 2.42014,773 1.383014,784 1.492274,802 1.563428,803 1.526938,805 0.828881,811 2.824373,815 0.995118,832 2.708377,856 1.183608,866 1.397607,868 1.492274,879 2.288438,1000 crude}
+{9 0.119349,11 0.730774,16 0.584037,20 0.977473,22 0.514665,28 0.795712,44 0.747889,45 2.977502,139 0.587859,149 0.579492,153 1.664061,183 1.892967,193 1.892967,196 1.842168,198 0.692408,210 3.000281,211 4.84028,217 0.666248,222 1.708795,229 1.863467,245 1.708795,255 1.41914,278 1.046485,289 1.513703,295 9.269347,310 2.624967,316 2.852123,323 2.189248,366 2.237071,372 2.189248,411 3.126856,428 2.470295,429 6.21084,432 5.086652,437 2.125422,442 5.086652,465 2.624967,468 1.427748,492 3.810617,497 2.144514,549 2.237071,554 4.676826,571 2.144514,575 1.459261,592 3.585873,598 0.676594,604 1.781826,606 1.601946,615 2.737443,617 1.807985,629 2.624967,634 1.630826,635 2.637474,639 0.747889,645 1.046485,646 2.237071,660 1.781826,664 1.412514,678 1.708795,680 1.151855,697 2.448677,703 1.863467,722 1.363651,723 0.970794,734 0.730774,752 2.392326,761 0.888269,763 1.509389,771 1.807985,776 1.58242,781 1.037655,795 4.378497,802 1.563428,803 1.526938,804 0.671402,805 1.045932,810 1.327532,815 2.310592,836 2.717524,841 1.642731,846 2.062873,855 2.34392,856 1.183608,859 2.570871,860 1.577224,866 2.215154,879 2.288438,914 2.717524,918 3.304826,1000 crude}
+{9 0.067381,11 0.730774,16 0.584037,28 0.795712,44 1.736545,45 2.977502,139 0.587859,153 3.328121,185 2.025396,203 0.447851,210 1.892967,211 4.84028,249 1.276165,255 0.895378,283 1.383014,295 8.326139,310 4.160474,316 3.175219,328 1.563428,411 2.477975,429 7.210561,432 2.543326,442 5.086652,468 1.427748,482 2.102492,489 6.058945,503 1.956024,504 3.049117,541 1.172861,549 2.237071,550 1.028936,579 1.427748,586 1.228342,607 2.950748,615 1.368722,617 1.807985,645 1.046485,660 2.824127,664 2.238781,695 3.585873,697 1.544943,732 2.717524,734 0.730774,758 1.427748,761 0.888269,763 1.509389,773 2.192025,781 1.644645,793 1.863467,805 0.522966,815 2.793648,819 1.923778,855 3.715025,866 2.795214,871 1.412514,995 2.950748,1000 crude}
+{4 0.956984,9 0.119349,14 1.46562,16 0.925677,19 1.288654,20 0.977473,22 0.514665,24 1.111661,25 2.262934,32 1.407872,44 0.747889,45 2.674524,68 1.492274,139 0.293929,198 0.692408,200 1.288654,211 2.42014,232 5.083277,255 0.895378,316 1.946877,319 1.781826,321 2.624967,328 1.563428,366 2.237071,437 1.340992,442 5.086652,525 1.340992,537 0.681825,538 1.781826,541 2.345722,542 2.950748,546 2.104089,575 2.312873,598 1.072376,604 1.781826,605 2.365198,615 2.737443,617 1.807985,664 1.412514,678 1.708795,722 1.914126,752 3.018779,791 1.563428,801 1.340992,802 1.563428,814 1.020326,856 1.183608,1000 crude}
+{9 0.042513,11 0.730774,15 2.508076,44 0.747889,149 0.918473,238 1.835171,256 1.055429,333 2.624967,365 2.062873,474 2.448677,495 2.062873,551 2.34392,565 1.301373,602 1.228342,684 2.288438,709 1.311347,780 2.312873,803 1.526938,1000 crude}
+{1 1.577224,4 0.478492,7 1.162278,9 0.109894,13 0.924567,14 1.46562,16 0.925677,21 1.011821,22 0.815724,24 1.111661,148 1.475571,149 0.579492,198 1.789849,200 1.288654,203 0.447851,217 1.332497,235 3.372134,237 2.34392,251 1.276165,265 1.397607,286 1.664061,288 2.543326,298 4.204984,318 2.025396,350 2.288438,365 2.062873,391 8.718015,434 3.563652,444 2.404231,449 2.470295,467 1.427748,478 4.476525,489 2.34392,491 2.025396,506 4.031076,511 1.544943,512 1.397607,520 2.144514,526 1.617178,546 2.104089,548 3.10542,550 1.028936,563 1.475571,575 2.312873,602 2.456685,631 1.301373,634 1.630826,642 1.183608,645 1.046485,674 4.250844,680 1.151855,689 1.492274,692 1.989842,722 0.681825,784 2.365198,801 2.681984,804 0.671402,805 0.522966,815 0.995118,837 2.287617,845 2.470295,853 1.807985,858 1.459261,867 1.314329,871 1.412514,1000 crude}
+{4 0.478492,9 0.134763,14 2.93124,16 1.168074,18 1.863467,20 1.233434,28 0.795712,32 4.175253,44 0.747889,67 1.544943,143 1.732294,167 4.204984,171 1.835171,265 1.397607,270 2.189248,407 2.404231,443 2.950748,479 5.435047,509 1.642731,533 2.125422,537 0.681825,563 2.951141,598 0.676594,600 1.509389,631 2.602745,639 0.747889,719 1.863467,753 3.575039,764 1.526938,805 0.522966,878 2.189248,883 1.368722,1000 crude}
+{0 1.622039,9 0.042513,21 1.603698,22 0.815724,32 2.493685,42 0.902561,44 0.747889,63 2.237071,139 0.931734,141 1.956024,143 1.732294,149 0.579492,152 2.950748,193 1.892967,196 1.162278,203 1.039878,223 2.577308,237 2.34392,262 0.932061,273 3.715025,278 1.65864,280 1.276165,284 1.892967,289 0.95504,313 6.851426,349 1.622039,367 8.542851,378 4.808463,399 2.062873,400 2.062873,421 2.470295,451 2.144514,468 1.427748,474 1.544943,492 2.404231,497 2.144514,537 0.681825,544 1.686067,553 3.153826,563 2.338724,586 1.228342,658 2.025396,676 3.715025,687 1.544943,689 1.492274,700 2.795214,718 1.459261,753 4.149041,779 3.627089,805 0.828881,807 1.756618,810 1.327532,843 2.824373,857 1.835171,868 1.492274,869 1.301373,874 1.642731,886 2.189248,1000 crude}
+{21 1.011821,24 1.111661,36 0.561603,44 1.495779,122 3.304826,135 2.34392,139 0.293929,150 1.288654,183 1.892967,240 4.476525,247 1.807985,249 1.276165,259 1.835171,373 2.237071,400 2.062873,474 1.544943,503 1.956024,541 1.172861,550 1.028936,570 1.459261,577 1.526938,604 1.781826,662 2.144514,671 2.908677,676 3.715025,680 1.825647,687 1.544943,688 1.863467,722 0.681825,728 1.459261,734 0.730774,753 2.766027,781 2.075311,784 1.492274,793 1.863467,805 0.828881,810 1.327532,815 0.995118,824 2.570871,870 0.939636,1000 crude}
+{4 0.478492,21 1.011821,32 0.888269,42 0.902561,44 0.747889,139 0.587859,149 0.918473,196 1.162278,203 0.895702,223 2.042468,256 1.055429,262 0.932061,313 5.901497,349 1.622039,367 6.609652,378 4.808463,400 2.062873,402 2.288438,437 1.340992,474 1.544943,492 2.404231,497 2.144514,515 1.475571,533 1.340992,537 0.681825,544 1.686067,550 1.028936,553 1.989842,579 1.427748,586 1.946877,600 1.509389,612 1.664061,658 2.025396,676 2.34392,687 1.544943,688 1.863467,689 1.492274,700 2.795214,718 1.459261,753 3.88261,810 1.327532,869 2.062627,874 1.642731,881 1.301373,970 3.10542,1000 crude}
+{9 0.042513,21 1.011821,32 0.888269,44 0.747889,138 1.603698,203 0.709827,223 2.042468,273 2.34392,313 2.950748,349 1.622039,367 5.238025,378 2.404231,400 2.062873,451 2.144514,474 2.448677,492 2.404231,515 1.475571,537 0.681825,550 1.630826,586 1.228342,600 1.509389,642 1.183608,676 2.34392,687 1.544943,700 2.215154,718 2.312873,719 1.863467,753 3.211258,805 0.522966,868 1.492274,895 2.062873,1000 crude}
+{4 0.478492,9 0.127539,11 0.730774,14 0.631208,16 0.584037,20 0.616717,24 1.111661,31 2.025396,32 1.776537,36 0.89012,42 0.902561,61 1.121493,65 1.492274,67 1.544943,144 1.892967,148 4.90174,149 0.579492,153 1.664061,185 4.050792,203 1.039878,213 2.951141,222 2.708377,231 1.601946,255 0.895378,262 0.932061,265 1.397607,285 1.756618,312 1.956024,319 1.781826,351 2.950748,354 2.102492,392 1.923778,397 7.738993,411 1.563428,418 4.476525,419 3.469877,434 1.781826,435 2.189248,450 2.543326,452 2.025396,459 2.404231,468 1.427748,476 2.144514,485 5.086652,495 3.269576,503 1.956024,531 1.756618,537 0.681825,570 1.459261,598 0.676594,602 2.456685,627 2.824373,634 1.028936,664 1.412514,680 1.151855,684 2.288438,703 1.863467,708 1.708795,709 0.827368,723 0.970794,773 1.383014,804 0.671402,805 0.522966,812 2.237071,815 0.995118,846 2.062873,854 2.025396,868 1.492274,870 0.939636,922 2.717524,1000 crude}
+{4 0.758392,9 0.098712,11 0.730774,150 2.992162,153 1.664061,198 0.692408,217 0.666248,317 2.543326,321 2.624967,361 2.404231,369 2.144514,397 2.237071,434 1.781826,438 2.34392,448 3.398974,526 1.020326,537 0.681825,541 1.172861,547 2.025396,598 0.676594,684 2.288438,729 1.863467,766 2.745621,777 0.970794,805 0.522966,825 1.793332,867 1.314329,1000 crude}
+{4 0.478492,9 0.085026,11 0.730774,20 0.616717,22 0.815724,25 1.131467,32 2.062496,36 0.89012,42 0.902561,65 1.492274,139 0.587859,144 1.892967,193 1.892967,198 1.097441,217 0.666248,249 1.276165,309 3.730942,397 2.237071,438 2.34392,511 1.544943,515 1.475571,526 1.020326,531 1.756618,537 0.681825,572 1.58242,630 1.563428,700 1.397607,704 2.404231,722 1.080668,746 1.58242,793 1.863467,825 1.131467,832 1.708795,868 1.492274,1000 crude}
+{4 0.758392,7 1.842168,9 0.098712,11 0.730774,14 0.631208,20 0.616717,36 0.561603,42 0.902561,61 1.121493,148 3.426169,185 2.025396,203 0.447851,217 0.666248,223 1.288654,351 2.950748,397 5.782744,418 2.824373,434 1.781826,459 2.404231,468 1.427748,495 3.269576,531 1.756618,537 1.080668,541 1.172861,602 1.946877,709 0.827368,812 2.237071,854 2.025396,1000 crude}
+{6 3.364,9 0.098712,11 0.730774,14 0.631208,16 0.584037,17 1.544943,19 2.042468,22 0.514665,24 1.111661,26 1.563428,31 3.210177,45 3.233666,51 2.543326,61 1.121493,139 0.682483,149 0.918473,169 2.288438,171 1.835171,176 3.328121,183 1.892967,198 1.097441,251 2.022673,256 1.672816,262 1.477281,265 1.397607,276 2.062873,278 1.046485,280 1.276165,283 1.383014,285 1.756618,286 1.664061,289 0.95504,290 1.732294,306 3.153826,309 1.443325,312 1.956024,319 1.781826,340 1.526938,347 1.956024,393 1.58242,397 5.782744,417 2.34392,431 2.288438,434 1.781826,435 2.189248,456 2.144514,468 1.427748,476 2.144514,526 2.040652,537 0.681825,539 3.049117,541 2.345722,579 1.427748,586 1.946877,598 1.74897,635 1.664061,642 1.183608,674 1.340992,675 2.404231,680 1.825647,707 1.368722,723 0.970794,737 2.189248,743 1.716475,751 1.686067,760 2.288438,761 0.888269,773 1.383014,781 1.037655,799 2.189248,802 2.477975,803 1.526938,805 0.828881,815 1.577224,821 3.10542,826 1.509389,830 1.875974,837 1.443325,868 2.365198,872 5.582453,888 3.545673,894 1.923778,938 2.950748,1000 crude}
+{9 0.067381,11 1.158249,16 0.584037,38 1.162278,42 1.430525,44 0.747889,45 2.30371,50 1.239992,64 5.648746,138 1.603698,149 1.158984,176 1.664061,177 2.102492,184 1.58242,185 2.025396,192 3.10542,198 0.692408,200 2.577308,223 1.288654,235 1.686067,255 0.895378,262 1.477281,263 2.144514,285 1.756618,356 1.989842,397 2.237071,417 2.34392,434 4.605953,480 2.470295,482 2.102492,505 1.205614,539 3.049117,590 1.354718,631 1.301373,635 1.664061,639 1.185377,645 1.046485,680 1.151855,703 1.863467,708 1.708795,709 0.827368,721 2.824373,722 1.58315,723 0.970794,741 3.585873,743 1.082975,751 2.672353,760 2.288438,777 0.970794,781 1.037655,803 1.526938,804 1.064147,805 0.522966,821 3.10542,837 1.443325,865 2.144514,868 1.492274,869 1.301373,872 2.404231,881 2.062627,887 2.189248,1000 crude}
+{6 2.062627,9 0.042513,11 1.158249,14 0.631208,24 1.111661,36 0.561603,139 0.465867,171 1.835171,183 1.892967,194 1.526938,200 1.288654,278 1.046485,284 1.892967,309 1.443325,319 1.781826,354 2.102492,393 1.58242,397 3.545673,402 3.627089,476 2.144514,528 1.686067,539 1.923778,598 0.676594,703 1.863467,722 0.681825,723 1.538672,737 2.189248,743 1.082975,755 1.037655,761 0.888269,773 1.383014,777 0.970794,804 1.064147,830 1.183608,872 3.810617,936 2.950748,1000 crude}
+{6 1.301373,9 0.085026,11 1.696804,14 0.631208,24 1.111661,31 3.210177,38 1.162278,45 1.151855,119 3.10542,138 1.603698,139 0.587859,149 1.345539,166 3.304826,176 1.664061,183 1.892967,194 1.526938,203 0.447851,204 2.470295,217 0.666248,223 1.288654,245 2.708377,249 2.022673,251 1.276165,256 2.962965,262 1.477281,263 2.144514,265 1.397607,270 2.189248,278 1.046485,281 1.183608,285 2.784173,289 0.95504,290 1.732294,309 1.443325,312 1.956024,356 1.989842,393 1.58242,397 6.280251,415 2.543326,434 2.824127,435 2.189248,440 2.717524,452 2.025396,456 2.144514,526 2.369123,533 2.125422,537 0.681825,539 3.049117,583 2.189248,586 1.228342,598 0.676594,606 2.539025,631 1.301373,639 0.747889,642 1.183608,674 1.340992,680 1.825647,721 2.824373,722 0.681825,734 0.730774,743 2.16595,751 1.686067,760 3.627089,761 0.888269,777 0.970794,799 2.189248,803 1.526938,804 0.671402,805 0.522966,814 1.020326,815 1.990235,821 3.10542,830 1.875974,852 1.892967,860 0.995118,866 1.397607,868 2.365198,872 3.810617,888 3.545673,1000 crude}
+{4 0.956984,9 0.098712,11 1.461548,14 1.000441,16 1.356092,36 2.078179,139 0.587859,144 3.000281,149 1.158984,150 1.288654,184 2.508076,196 1.162278,198 0.692408,199 2.950748,252 1.544943,255 0.895378,268 1.686067,274 2.062873,278 1.046485,290 1.732294,307 2.717524,310 6.785441,316 2.456685,318 2.025396,365 2.062873,373 2.237071,376 2.404231,407 2.404231,421 3.915326,437 1.340992,448 2.144514,465 2.624967,474 1.544943,480 2.470295,484 2.543326,495 2.062873,496 2.288438,511 3.089886,559 2.404231,560 2.392326,563 1.475571,569 3.670342,572 1.58242,579 1.427748,583 2.189248,600 1.509389,605 1.492274,606 1.601946,634 1.630826,639 1.185377,648 2.144514,670 1.863467,674 2.125422,707 1.368722,718 1.459261,719 1.863467,750 2.189248,762 1.622039,763 1.509389,764 3.545441,776 2.508076,782 2.189248,795 2.189248,810 1.327532,824 1.622039,825 1.131467,856 2.367215,857 1.835171,858 1.459261,867 2.083162,869 1.301373,912 4.476525,1000 crude}
+{4 0.956984,9 0.085026,11 1.158249,14 1.63165,16 0.925677,44 0.747889,69 3.10542,203 0.709827,399 2.062873,444 2.404231,457 4.808463,479 2.717524,525 2.125422,577 1.526938,598 0.676594,694 5.683474,742 4.921974,758 2.262928,765 2.34392,782 5.083277,807 2.784173,827 3.304826,832 3.417591,844 2.062873,869 1.301373,872 2.404231,1000 crude}
+{9 0.042513,11 1.158249,14 1.262416,16 0.584037,28 0.795712,36 0.89012,179 1.443325,198 0.692408,203 0.895702,211 1.526938,252 4.63483,268 1.686067,283 1.383014,301 2.470295,316 1.228342,534 5.901497,686 1.892967,722 0.681825,758 1.427748,825 1.131467,881 1.301373,977 5.238025,1000 crude}
+{9 0.085026,22 0.815724,24 2.581198,36 1.57662,42 0.902561,61 1.777525,139 0.293929,146 2.570871,159 2.543326,184 3.164839,196 2.324557,198 1.097441,249 1.276165,376 2.404231,448 7.418799,467 1.427748,571 2.144514,572 2.508076,583 2.189248,642 1.183608,674 3.113687,686 4.395333,722 2.264975,746 2.508076,776 2.508076,825 1.793332,1000 crude}
+{4 0.758392,9 0.177275,11 2.528062,13 0.924567,14 2.000883,16 1.851354,20 0.977473,22 0.514665,28 1.261173,42 0.902561,44 1.736545,45 2.30371,65 1.492274,68 1.492274,138 1.603698,139 0.293929,145 4.676826,149 0.579492,167 2.102492,187 2.950748,196 1.162278,198 2.194881,200 1.288654,203 1.343553,211 2.42014,221 3.304826,231 3.203893,252 3.089886,253 3.100224,254 2.784173,256 1.055429,265 2.795214,280 1.276165,282 1.622039,289 1.513703,290 1.732294,305 2.288438,306 1.989842,312 3.100224,316 1.946877,318 2.025396,319 1.781826,331 3.915326,336 4.476525,345 2.717524,346 2.637474,356 3.153826,357 3.915326,365 4.125746,369 5.543488,373 4.474141,403 2.603668,409 5.782744,417 2.34392,426 2.34392,505 1.205614,511 2.448677,523 2.288438,525 1.340992,533 2.125422,538 1.781826,546 3.082435,563 1.475571,570 2.312873,571 3.398974,572 1.58242,579 1.427748,581 1.427748,586 1.946877,590 1.354718,598 1.072376,604 2.824127,605 4.730396,615 1.368722,617 2.865589,618 2.470295,630 1.563428,631 1.301373,634 1.630826,636 2.717524,670 1.863467,672 2.470295,674 3.76464,681 2.144514,686 7.207197,700 3.612761,705 1.892967,711 2.624967,718 1.459261,722 2.595951,723 1.538672,752 2.392326,761 1.776537,776 1.58242,781 1.644645,801 1.340992,803 1.526938,804 1.558947,814 1.617178,815 3.305709,823 4.289027,824 2.570871,825 2.262934,826 1.509389,837 1.443325,846 2.062873,852 1.892967,853 1.807985,854 2.025396,856 2.748252,858 1.459261,862 1.58242,866 2.215154,867 1.314329,870 0.939636,882 1.956024,910 3.10542,1000 crude}
+{9 0.119349,11 2.316498,14 1.46562,16 0.584037,28 1.261173,36 1.123207,45 2.674524,61 1.121493,135 3.715025,145 8.852245,177 2.102492,198 1.384816,203 1.343553,211 3.545441,245 1.708795,251 1.276165,252 2.448677,255 1.790756,301 2.470295,316 2.852123,328 3.630168,341 2.237071,342 1.492274,349 1.622039,366 3.545673,370 2.237071,406 5.735848,409 3.545673,453 2.34392,462 2.288438,468 2.262928,499 2.470295,509 1.642731,511 1.544943,528 1.686067,560 1.509389,570 1.459261,571 4.289027,572 1.58242,581 1.427748,583 2.189248,600 1.509389,606 2.539025,639 0.747889,647 2.288438,664 1.412514,674 1.340992,680 1.151855,686 4.893248,697 1.544943,705 1.892967,707 1.368722,722 0.681825,723 0.970794,734 1.461548,762 2.570871,768 2.824373,781 1.037655,794 1.443325,810 1.327532,815 2.310592,819 1.923778,825 1.793332,826 1.509389,868 1.492274,871 1.412514,881 1.301373,882 1.956024,890 1.732294,894 1.923778,1000 crude}
+{4 0.478492,9 0.085026,11 0.730774,16 0.925677,20 1.431972,67 1.544943,203 0.447851,234 2.189248,253 1.956024,256 1.055429,286 1.664061,305 2.288438,384 3.304826,399 2.062873,401 2.288438,457 2.404231,525 1.340992,565 1.301373,573 3.585873,577 2.42014,579 1.427748,609 2.102492,639 0.747889,686 6.000563,722 0.681825,758 2.855497,782 5.083277,844 3.269576,869 2.062627,1000 crude}
+{4 0.758392,9 0.098712,11 0.730774,28 0.795712,44 0.747889,150 2.577308,247 1.807985,297 2.470295,316 1.228342,317 5.086652,342 2.365198,346 2.637474,369 2.144514,390 2.288438,525 1.340992,537 1.080668,636 2.717524,645 1.046485,686 4.893248,687 1.544943,722 1.762493,723 0.970794,729 1.863467,805 0.828881,825 1.131467,853 1.807985,897 2.950748,1000 crude}
+{28 0.795712,150 2.042468,203 1.039878,251 1.276165,316 1.946877,342 2.984548,525 1.340992,600 1.509389,679 1.923778,700 1.397607,722 1.58315,805 1.214289,895 2.062873,1000 crude}
+{4 0.478492,9 0.098712,11 1.158249,14 0.631208,22 0.514665,25 1.131467,50 1.239992,67 3.99362,135 2.34392,139 0.682483,149 0.579492,150 2.042468,153 3.328121,204 2.470295,223 2.042468,251 1.276165,276 2.062873,316 1.946877,321 2.624967,342 1.492274,402 3.627089,405 3.715025,407 4.808463,437 1.340992,453 2.34392,474 1.544943,485 7.140018,525 1.340992,526 1.020326,537 0.681825,547 2.025396,560 3.018779,581 1.427748,586 1.228342,634 1.630826,674 1.340992,707 1.368722,743 1.082975,755 1.037655,761 0.888269,804 0.671402,805 1.214289,812 2.237071,830 2.367215,837 1.443325,875 1.956024,881 1.301373,1000 crude}
+{9 0.042513,22 0.514665,36 0.561603,44 1.736545,65 1.492274,139 0.587859,149 0.579492,183 1.892967,198 0.692408,240 2.824373,244 2.189248,247 1.807985,249 2.022673,259 1.835171,289 0.95504,373 2.237071,400 3.269576,460 1.863467,474 2.448677,497 2.144514,511 1.544943,512 1.397607,515 1.475571,528 1.686067,531 1.756618,551 3.715025,556 2.237071,570 1.459261,594 2.824373,604 1.781826,619 2.189248,630 1.563428,662 3.398974,671 3.670342,676 4.68784,680 1.151855,687 3.089886,696 2.237071,722 0.681825,734 0.730774,753 3.211258,761 0.888269,779 3.627089,784 1.492274,804 0.671402,805 0.828881,815 1.577224,819 1.923778,824 1.622039,858 1.459261,867 1.314329,918 3.304826,1000 crude}
+{2 2.062627,4 0.956984,9 0.067381,11 1.158249,14 0.631208,20 0.977473,21 1.011821,36 0.561603,42 0.902561,44 1.185377,139 0.682483,149 0.579492,217 0.666248,253 1.956024,301 2.470295,340 1.526938,356 1.989842,477 3.398974,493 2.824373,525 1.340992,537 0.681825,617 1.807985,684 2.288438,723 0.970794,737 2.189248,739 5.683474,780 2.312873,787 3.000281,837 1.443325,852 1.892967,868 1.492274,878 2.189248,962 2.950748,1000 crude}
+{4 0.478492,9 0.067381,11 0.730774,19 1.288654,20 0.977473,22 0.514665,24 2.223323,32 1.407872,139 0.465867,149 0.918473,193 1.892967,223 1.288654,266 2.062873,289 0.95504,330 2.570871,332 1.781826,451 2.144514,477 4.979407,537 0.681825,541 1.172861,544 1.686067,598 0.676594,688 1.863467,761 1.407872,781 1.037655,862 1.58242,874 1.642731,883 1.368722,1000 crude}
+{0 2.570871,4 0.478492,9 0.085026,13 2.389972,14 0.631208,16 0.925677,20 0.977473,22 1.195014,28 0.795712,32 0.888269,36 0.89012,37 2.950748,67 1.544943,139 0.465867,146 1.622039,150 1.288654,165 2.404231,176 2.637474,178 2.624967,231 1.601946,249 1.276165,256 1.055429,269 3.914927,309 1.443325,311 2.470295,340 1.526938,372 5.083277,404 2.624967,419 2.189248,457 5.582453,474 3.089886,496 2.288438,533 1.340992,537 0.681825,550 1.630826,563 1.475571,570 1.459261,600 3.018779,605 1.492274,630 1.563428,631 1.301373,632 2.745621,639 0.747889,656 2.102492,709 0.827368,751 1.686067,755 1.644645,761 0.888269,777 1.538672,801 2.681984,809 5.648746,810 1.327532,824 1.622039,827 5.238025,859 1.622039,869 1.301373,870 0.939636,1000 crude}
+{4 0.758392,9 0.085026,11 1.461548,22 1.330389,28 0.795712,150 2.577308,203 0.895702,251 1.276165,262 0.932061,279 2.470295,316 1.228342,328 1.563428,369 2.144514,374 2.062873,478 2.824373,491 2.025396,525 1.340992,537 1.080668,547 2.025396,551 2.34392,569 1.835171,598 0.676594,636 2.717524,722 0.681825,764 1.526938,780 1.459261,814 1.020326,819 1.923778,935 3.585873,1000 crude}
+{0 1.622039,1 0.995118,3 1.101967,4 1.869417,7 1.162278,9 0.109894,14 2.58004,16 0.584037,20 1.85015,22 0.514665,38 1.162278,44 0.747889,68 1.492274,137 2.288438,138 2.023642,139 0.682483,143 2.745621,149 1.925031,184 2.508076,196 1.162278,200 1.288654,231 1.601946,259 1.835171,265 1.397607,269 1.686067,274 2.062873,287 5.648746,290 1.732294,296 4.808463,339 5.648746,393 5.016152,395 5.086652,457 9.153762,473 1.892967,492 2.404231,511 2.448677,585 4.476525,598 1.353188,602 3.685027,631 1.301373,639 1.495779,677 4.476525,722 1.762493,751 1.686067,753 4.149041,766 3.464588,776 4.747259,779 2.288438,780 1.459261,807 4.931449,814 2.040652,823 2.144514,826 1.509389,844 4.789842,853 4.673574,872 6.749531,894 1.923778,972 2.624967,1000 crude}
+{1 1.577224,3 1.101967,4 0.956984,9 0.180592,11 2.192321,13 3.198477,14 2.096828,16 2.38723,19 2.042468,20 1.731343,22 1.195014,24 1.111661,25 2.262934,28 0.795712,32 2.664806,36 1.68481,42 1.430525,50 1.965341,65 1.492274,68 1.492274,138 2.84054,139 0.465867,143 1.732294,148 2.951141,149 1.62684,150 1.288654,176 3.328121,184 2.508076,190 2.950748,194 2.42014,198 1.097441,200 2.042468,203 1.419654,213 1.475571,231 4.140971,253 1.956024,255 1.41914,256 1.055429,259 1.835171,262 0.932061,265 2.795214,269 5.058202,270 2.189248,278 1.046485,282 1.622039,283 1.383014,284 1.892967,288 2.543326,289 2.468743,309 1.443325,311 2.470295,330 1.622039,332 1.781826,335 2.144514,392 1.923778,395 4.031076,396 2.543326,401 2.288438,407 2.404231,408 2.624967,409 2.237071,417 2.34392,419 2.189248,420 3.398974,452 2.025396,457 2.404231,461 2.717524,484 2.543326,513 4.940591,519 3.715025,520 3.398974,531 1.756618,533 3.113687,537 0.681825,545 2.950748,546 2.655065,550 1.028936,572 1.58242,575 1.459261,579 1.427748,581 2.262928,584 1.601946,590 3.145558,598 1.072376,600 1.509389,605 2.984548,618 3.915326,619 2.189248,630 2.477975,634 2.057873,639 1.933266,642 1.183608,648 2.144514,677 2.824373,680 1.825647,693 2.062873,708 1.708795,709 2.322715,711 2.624967,718 1.459261,723 0.970794,728 1.459261,743 1.082975,751 3.372134,752 2.392326,753 1.383014,755 2.075311,761 1.407872,771 2.865589,788 2.34392,790 2.824373,801 1.340992,803 1.526938,804 0.671402,805 0.828881,815 1.577224,819 1.923778,826 1.509389,841 1.642731,853 1.807985,856 1.183608,864 1.825647,866 2.215154,867 1.314329,869 1.301373,870 1.879272,881 1.301373,883 3.178073,884 3.810617,894 1.923778,959 2.624967,972 2.624967,1000 crude}
+{4 0.758392,9 0.109894,11 1.158249,14 1.000441,16 1.509714,20 0.977473,22 0.514665,67 2.448677,68 1.492274,139 0.293929,143 1.732294,256 1.672816,262 0.932061,399 2.062873,482 2.102492,525 1.340992,537 0.681825,546 2.104089,577 1.526938,752 2.392326,782 3.469877,804 0.671402,857 1.835171,867 1.314329,870 1.489288,886 2.189248,1000 crude}
+{4 0.758392,5 2.603668,8 1.58242,9 0.189583,11 1.461548,14 1.262416,16 2.020437,20 0.616717,22 1.444846,25 2.262934,28 2.056885,32 0.888269,33 5.056248,36 0.89012,38 1.162278,44 1.495779,45 1.825647,49 1.397607,61 4.020511,65 2.365198,68 2.365198,138 1.603698,139 0.465867,140 2.950748,144 1.892967,158 1.443325,184 1.58242,194 3.053877,197 2.189248,198 1.384816,200 2.042468,203 1.157678,211 3.947078,217 0.666248,222 1.708795,223 1.288654,254 1.756618,256 1.055429,262 0.932061,265 1.397607,278 2.092971,282 2.570871,283 2.192025,286 1.664061,289 0.95504,290 2.745621,306 1.989842,316 2.456685,319 1.781826,338 4.476525,342 3.464952,350 2.288438,366 4.474141,372 2.189248,373 2.237071,374 2.062873,379 2.824373,403 2.603668,415 2.543326,437 1.340992,497 2.144514,508 1.732294,512 1.397607,528 1.686067,529 2.288438,533 2.125422,537 0.681825,538 3.563652,545 2.950748,567 6.939753,598 1.74897,605 3.464952,617 3.615971,623 1.601946,630 3.126856,632 1.732294,634 1.028936,640 3.10542,707 2.737443,721 2.824373,722 2.161335,723 0.970794,728 2.312873,733 2.717524,743 1.082975,746 1.58242,758 2.262928,766 1.732294,777 1.538672,778 2.237071,794 2.287617,798 2.34392,804 0.671402,814 1.617178,815 3.154448,816 1.642731,819 1.923778,824 1.622039,825 1.131467,835 1.956024,853 1.807985,855 2.34392,856 2.367215,858 2.312873,864 1.151855,869 1.301373,874 1.642731,880 2.144514,883 1.368722,892 3.210177,894 1.923778,946 2.824373,1000 crude}
+{4 0.478492,8 1.58242,9 0.067381,28 1.261173,32 1.407872,44 0.747889,61 1.121493,142 1.989842,158 1.443325,176 1.664061,198 0.692408,203 0.709827,229 1.863467,235 1.686067,307 2.717524,381 6.094984,403 1.642731,468 1.427748,508 1.732294,509 1.642731,537 0.681825,546 2.104089,564 2.543326,623 3.203893,680 1.151855,718 1.459261,761 0.888269,764 1.526938,794 1.443325,798 4.68784,805 0.522966,816 1.642731,835 1.956024,892 2.025396,1000 crude}
+{1 0.995118,4 0.478492,8 1.58242,9 0.098712,21 1.011821,22 1.029329,28 1.261173,36 0.561603,60 2.470295,61 1.777525,139 0.293929,142 1.989842,149 0.579492,158 1.443325,176 1.664061,196 1.162278,203 0.447851,211 1.526938,217 0.666248,235 1.686067,255 0.895378,285 1.756618,316 1.228342,364 2.717524,366 2.237071,390 2.288438,489 2.34392,508 2.745621,512 2.795214,528 1.686067,537 0.681825,567 2.189248,615 1.368722,617 1.807985,623 2.539025,678 1.708795,702 2.144514,722 0.681825,746 1.58242,794 3.351298,798 4.68784,814 1.617178,816 1.642731,825 1.131467,835 1.956024,858 2.312873,892 2.025396,982 2.717524,1000 crude}
+{0 2.570871,4 1.655311,9 0.085026,16 0.925677,20 1.85015,22 0.514665,28 0.795712,36 1.942828,44 0.747889,49 1.397607,50 1.965341,61 1.121493,138 3.500325,147 3.304826,149 0.918473,159 5.90542,162 3.915326,171 4.261135,196 1.162278,198 1.097441,203 0.447851,231 4.805839,243 2.34392,245 1.708795,257 2.950748,262 0.932061,269 3.372134,274 3.269576,278 1.65864,281 1.875974,282 1.622039,289 0.95504,290 1.732294,304 2.144514,338 4.476525,392 1.923778,403 1.642731,404 2.624967,471 4.476525,500 2.34392,513 4.940591,521 3.332371,531 1.756618,550 2.659762,565 2.062627,572 1.58242,576 3.304826,577 1.526938,586 3.893753,590 2.147177,598 2.144753,605 3.857472,609 4.204984,634 1.028936,635 1.664061,670 1.863467,680 1.825647,683 3.304826,697 1.544943,711 2.624967,761 2.062496,776 1.58242,801 3.466414,803 1.526938,814 2.040652,824 1.622039,853 2.865589,856 1.875974,869 4.125254,870 0.939636,880 2.144514,884 4.808463,1000 crude}
+{1 1.577224,3 1.746576,7 2.324557,9 0.085026,13 2.389972,16 1.168074,20 0.977473,21 1.011821,22 1.330389,24 1.111661,25 3.586665,32 3.901557,36 2.138223,42 0.902561,50 1.239992,65 1.492274,68 1.492274,139 0.881788,146 1.622039,148 3.426169,149 0.918473,150 1.288654,163 2.543326,169 2.288438,171 1.835171,180 2.717524,217 1.332497,231 1.601946,237 2.34392,251 1.276165,252 2.448677,254 1.756618,269 1.686067,278 1.046485,280 2.022673,290 3.464588,296 2.404231,298 2.102492,309 4.794623,330 2.570871,340 4.286658,360 1.989842,375 2.824127,395 2.543326,403 1.642731,410 3.563652,417 2.34392,420 2.144514,447 3.715025,460 1.863467,467 1.427748,494 2.34392,526 1.020326,537 1.080668,541 1.172861,558 2.543326,563 1.475571,569 5.151977,572 2.508076,577 1.526938,584 1.601946,590 1.354718,598 1.353188,602 2.852123,605 1.492274,612 1.664061,630 2.477975,639 0.747889,670 2.953525,677 2.824373,680 1.151855,734 0.730774,736 3.715025,755 3.589698,761 0.888269,787 1.892967,791 1.563428,804 0.671402,805 0.522966,810 2.104089,815 1.990235,837 2.287617,844 2.062873,869 4.125254,871 1.412514,875 1.956024,881 2.062627,894 1.923778,987 2.543326,1000 crude}
+{4 0.956984,9 0.14707,11 0.730774,13 2.146779,14 1.63165,16 1.6396,19 2.042468,22 1.029329,24 1.111661,25 1.793332,32 0.888269,36 0.89012,38 1.162278,42 0.902561,44 0.747889,45 2.977502,47 2.624967,67 1.544943,68 2.365198,89 5.435047,138 1.011821,148 5.289865,149 0.579492,150 2.042468,155 2.237071,167 2.102492,171 1.835171,173 2.950748,183 1.892967,193 1.892967,196 1.162278,198 1.943835,200 1.288654,203 1.039878,210 1.892967,217 0.666248,222 1.708795,228 2.824373,245 3.9677,250 2.950748,251 1.276165,254 1.756618,255 1.41914,280 1.276165,281 1.875974,283 1.383014,308 2.624967,314 2.34392,324 2.824373,325 2.144514,328 1.563428,331 2.470295,340 1.526938,343 2.404231,347 1.956024,349 1.622039,355 2.543326,357 2.470295,364 5.435047,401 2.288438,403 1.642731,409 2.237071,411 1.563428,414 5.238025,416 2.717524,434 2.824127,435 2.189248,440 2.717524,459 2.404231,466 2.865589,469 4.07874,476 2.144514,490 1.956024,496 2.288438,500 2.34392,506 5.086652,512 2.215154,513 5.735848,518 6.214848,523 2.288438,526 1.617178,528 1.686067,530 2.288438,537 1.080668,546 1.327532,553 1.989842,564 2.543326,565 2.062627,572 1.58242,575 5.048212,577 1.526938,581 1.427748,583 2.189248,590 1.354718,596 2.237071,602 3.893753,612 1.664061,616 3.469877,626 3.304826,639 0.747889,646 2.237071,670 1.863467,674 3.76464,678 1.708795,681 2.144514,684 2.288438,689 1.492274,692 5.143668,705 1.892967,707 1.368722,722 1.58315,723 2.254114,728 2.312873,734 1.158249,743 1.082975,755 1.037655,761 0.888269,764 4.286658,781 1.037655,784 1.492274,787 1.892967,789 1.863467,801 2.125422,803 3.053877,804 1.342804,805 1.351847,814 1.020326,815 0.995118,820 2.404231,830 2.367215,835 3.100224,845 3.915326,853 1.807985,854 2.025396,870 0.939636,881 2.602745,882 1.956024,884 2.404231,890 1.732294,895 4.125746,1000 crude}
+{4 0.478492,6 1.301373,9 0.085026,13 0.924567,19 1.288654,20 0.616717,22 0.514665,24 1.111661,28 1.591423,42 0.902561,45 1.151855,66 2.624967,139 0.465867,146 3.766258,170 2.404231,180 2.717524,203 0.447851,238 1.835171,249 1.276165,255 0.895378,286 2.637474,292 2.624967,330 3.766258,332 1.781826,377 2.404231,380 1.459261,438 2.34392,464 2.237071,473 1.892967,493 2.824373,512 1.397607,526 1.020326,537 0.681825,546 1.327532,579 1.427748,584 1.601946,606 2.539025,610 4.921974,619 2.189248,639 0.747889,658 2.025396,722 0.681825,723 0.970794,729 1.863467,734 1.696804,780 1.459261,784 1.492274,787 1.892967,830 1.875974,832 3.9677,857 1.835171,859 1.622039,862 2.508076,864 1.151855,868 1.492274,883 1.368722,953 3.10542,1000 crude}
+{4 0.478492,6 1.301373,9 0.067381,14 1.000441,20 1.431972,22 0.815724,28 1.591423,32 2.062496,36 0.89012,42 1.430525,45 1.151855,139 0.293929,191 4.476525,203 0.709827,256 1.055429,262 0.932061,270 3.469877,278 1.046485,286 1.664061,292 2.624967,330 4.553639,332 3.563652,334 7.212694,402 2.288438,436 3.627089,437 2.125422,451 2.144514,473 3.000281,477 6.020411,488 2.717524,497 2.144514,499 2.470295,505 1.205614,512 1.397607,526 1.020326,528 1.686067,530 2.288438,537 0.681825,541 1.172861,565 1.301373,590 1.354718,687 1.544943,693 3.269576,709 1.654735,729 1.863467,734 1.158249,753 1.383014,780 5.048212,787 3.000281,805 0.522966,860 0.995118,868 1.492274,869 1.301373,881 1.301373,1000 crude}
+{4 0.758392,9 0.085026,13 0.924567,14 1.000441,20 1.59419,24 2.581198,28 1.261173,36 1.304002,42 1.430525,45 1.151855,61 1.121493,107 1.989842,138 1.011821,139 0.293929,145 2.950748,170 2.404231,176 2.637474,203 0.709827,251 1.276165,255 0.895378,262 0.932061,266 2.062873,281 1.183608,286 1.664061,292 4.160474,300 2.025396,328 1.563428,330 4.19291,332 1.781826,334 2.404231,377 2.404231,380 1.459261,426 2.34392,436 2.288438,451 2.144514,464 2.237071,473 1.892967,477 2.144514,515 1.475571,525 1.340992,526 2.040652,537 0.681825,544 1.686067,560 1.509389,565 2.062627,634 1.028936,642 1.183608,688 1.863467,689 1.492274,707 1.368722,708 1.708795,719 1.863467,722 0.681825,734 1.696804,762 1.622039,777 1.538672,780 2.918521,804 1.064147,830 1.183608,857 1.835171,860 0.995118,864 1.151855,1000 crude}
+{4 0.956984,9 0.127539,13 1.465404,14 0.631208,20 1.233434,22 1.029329,24 2.581198,28 1.847585,36 1.123207,42 0.902561,61 1.121493,107 1.989842,138 1.011821,139 0.465867,170 4.808463,196 1.162278,203 0.709827,252 1.544943,256 1.055429,266 2.062873,280 2.552329,286 1.664061,292 2.624967,322 1.664061,330 5.388297,332 2.824127,344 2.404231,346 1.664061,349 1.622039,377 2.404231,380 1.459261,385 2.404231,422 2.470295,423 2.470295,426 2.34392,436 2.288438,454 2.624967,460 1.863467,464 2.237071,468 1.427748,487 2.189248,491 2.025396,494 2.34392,512 1.397607,515 1.475571,526 1.617178,531 1.756618,537 1.080668,544 2.672353,550 1.028936,563 1.475571,565 2.062627,579 1.427748,582 2.824373,598 1.571003,606 1.601946,635 1.664061,639 0.747889,643 1.368722,645 1.046485,688 1.863467,702 3.398974,706 2.624967,709 1.921088,722 0.681825,729 1.863467,734 1.889023,755 1.644645,761 0.888269,780 2.918521,802 1.563428,804 0.671402,805 0.828881,815 1.577224,831 2.824373,852 1.892967,856 1.183608,857 1.835171,860 1.577224,864 1.151855,865 2.144514,867 1.314329,906 2.717524,1000 crude}
+{4 0.478492,9 0.067381,13 0.924567,14 0.631208,22 1.029329,32 1.407872,36 0.561603,42 1.430525,45 1.151855,139 0.293929,196 1.162278,213 1.475571,222 1.708795,256 1.672816,328 1.563428,330 2.570871,332 2.824127,334 3.810617,411 1.563428,463 2.102492,494 2.34392,497 2.144514,523 2.288438,525 1.340992,537 0.681825,544 1.686067,550 1.028936,563 1.475571,570 1.459261,579 1.427748,598 0.676594,615 1.368722,709 0.827368,720 2.950748,729 1.863467,755 1.037655,777 0.970794,780 2.918521,802 1.563428,805 1.045932,852 1.892967,864 1.151855,879 2.288438,910 3.10542,1000 crude}
+{4 0.478492,20 0.977473,24 2.223323,28 0.795712,32 1.407872,42 0.902561,139 0.293929,141 1.956024,170 3.810617,222 1.708795,255 0.895378,330 3.766258,377 2.404231,464 2.237071,504 1.923778,526 1.617178,537 0.681825,565 2.062627,634 1.028936,734 0.730774,780 1.459261,804 0.671402,805 0.522966,869 1.301373,1000 crude}
+{4 0.478492,9 0.098712,13 0.924567,20 0.977473,24 1.761941,28 0.795712,36 0.561603,42 0.902561,107 1.989842,138 1.011821,139 0.293929,170 2.404231,330 3.244078,332 1.781826,377 2.404231,380 1.459261,422 2.470295,426 2.34392,436 2.288438,464 2.237071,512 1.397607,526 1.020326,531 1.756618,537 0.681825,544 1.686067,550 1.028936,563 1.475571,565 2.062627,635 1.664061,643 1.368722,706 2.624967,709 0.827368,722 0.681825,729 1.863467,734 0.730774,780 1.459261,802 1.563428,805 0.522966,815 0.995118,860 0.995118,864 1.151855,1000 crude}
+{9 0.098712,13 0.924567,14 1.46562,19 1.288654,20 1.233434,24 2.223323,36 1.304002,42 0.902561,44 0.747889,107 1.989842,139 0.293929,149 0.918473,203 0.447851,249 1.276165,255 1.41914,256 1.055429,289 0.95504,330 2.570871,332 2.824127,347 1.956024,380 1.459261,434 1.781826,436 2.288438,440 2.717524,446 2.717524,451 3.398974,474 1.544943,526 1.020326,528 3.372134,544 2.672353,568 3.915326,569 1.835171,590 2.709436,680 1.825647,688 1.863467,689 2.365198,705 1.892967,709 0.827368,723 0.970794,729 1.863467,734 1.158249,743 1.082975,762 1.622039,773 1.383014,777 2.254114,780 3.388298,802 1.563428,803 1.526938,804 1.064147,808 3.304826,813 1.835171,852 1.892967,1000 crude}
+{0 2.570871,4 1.111024,9 0.085026,14 1.772026,16 1.356092,19 1.288654,20 0.616717,31 4.702824,42 0.902561,45 1.825647,60 2.470295,63 2.237071,138 1.011821,139 0.465867,146 1.622039,196 1.162278,200 2.042468,213 1.475571,266 2.062873,268 1.686067,330 3.766258,332 2.824127,334 2.404231,346 1.664061,393 1.58242,434 4.137271,437 1.340992,468 1.427748,529 3.627089,546 1.327532,565 1.301373,579 1.427748,581 1.427748,606 1.601946,615 2.169372,634 1.028936,639 1.185377,645 1.046485,674 1.340992,687 1.544943,692 1.989842,696 2.237071,709 0.827368,722 1.363651,734 0.730774,752 1.509389,777 2.254114,804 1.342804,805 0.522966,810 1.327532,812 2.237071,830 2.748252,846 2.062873,859 1.622039,860 1.577224,868 1.492274,871 1.412514,992 2.824373,1000 crude}
+{4 0.478492,9 0.085026,13 0.924567,19 1.288654,20 1.233434,24 1.761941,25 1.131467,28 1.261173,32 0.888269,139 0.682483,149 0.579492,217 0.666248,249 2.552329,256 1.055429,270 2.189248,286 1.664061,330 3.244078,332 1.781826,334 3.810617,447 2.34392,451 3.398974,474 1.544943,477 2.144514,515 2.338724,537 0.681825,560 1.509389,631 1.301373,639 1.185377,709 1.311347,734 1.158249,755 1.037655,761 0.888269,780 2.312873,787 3.785934,830 1.183608,868 1.492274,883 1.368722,1000 crude}
+{4 0.758392,6 1.301373,9 0.067381,13 1.465404,20 0.616717,24 2.581198,25 1.793332,28 1.261173,32 0.888269,42 0.902561,44 0.747889,138 1.011821,145 2.950748,170 4.808463,194 1.526938,196 1.162278,203 0.447851,236 2.950748,255 0.895378,276 2.062873,322 2.637474,330 4.866117,332 1.781826,344 2.404231,377 2.404231,385 2.404231,422 2.470295,432 2.543326,436 2.288438,451 2.144514,464 2.237071,494 2.34392,515 2.338724,526 1.617178,537 0.681825,544 1.686067,553 1.989842,565 1.301373,579 1.427748,632 1.732294,634 1.028936,639 0.747889,718 1.459261,729 1.863467,734 1.158249,751 1.686067,755 1.037655,758 1.427748,762 1.622039,771 1.807985,780 2.312873,781 1.644645,818 2.144514,870 0.939636,871 1.412514,1000 crude}
+{4 0.758392,6 1.301373,9 0.127539,11 0.730774,13 0.924567,14 1.63165,16 0.584037,20 1.431972,24 2.581198,25 1.131467,28 1.261173,31 2.025396,32 1.776537,36 1.304002,42 1.805121,44 0.747889,45 1.151855,61 1.777525,65 1.492274,70 1.956024,107 1.989842,139 0.465867,169 2.288438,191 2.824373,193 1.892967,194 1.526938,198 0.692408,203 0.709827,213 2.338724,217 0.666248,223 1.288654,231 1.601946,251 2.022673,255 0.895378,263 2.144514,281 1.183608,286 1.664061,297 2.470295,300 3.210177,301 2.470295,303 2.237071,330 5.611333,332 2.824127,353 2.025396,380 1.459261,394 2.717524,425 2.624967,434 2.824127,436 2.288438,472 2.189248,473 1.892967,477 2.144514,505 1.205614,512 2.215154,526 1.617178,528 1.686067,537 1.363651,539 1.923778,544 2.672353,546 1.327532,565 1.301373,575 1.459261,586 1.228342,590 1.354718,612 1.664061,630 1.563428,631 1.301373,658 2.025396,674 2.125422,693 3.269576,707 1.368722,709 1.921088,710 2.189248,722 0.681825,734 1.696804,755 1.037655,764 1.526938,773 1.383014,777 0.970794,780 4.377782,787 1.892967,804 0.671402,810 1.327532,830 1.875974,852 1.892967,860 0.995118,864 1.151855,871 1.412514,874 2.603668,882 1.956024,883 2.169372,1000 crude}
+{4 0.758392,6 1.301373,9 0.127539,11 0.730774,13 0.924567,14 1.63165,16 0.584037,20 1.431972,24 2.581198,25 1.131467,28 1.261173,31 2.025396,32 1.776537,36 1.304002,42 1.805121,44 0.747889,45 1.151855,61 1.777525,65 1.492274,70 1.956024,107 1.989842,139 0.465867,169 2.288438,191 2.824373,193 1.892967,194 1.526938,198 0.692408,203 0.709827,213 2.338724,217 0.666248,223 1.288654,231 1.601946,251 2.022673,255 0.895378,263 2.144514,281 1.183608,286 1.664061,297 2.470295,300 3.210177,301 2.470295,303 2.237071,330 5.611333,332 2.824127,353 2.025396,380 1.459261,394 2.717524,425 2.624967,434 2.824127,436 2.288438,472 2.189248,473 1.892967,477 2.144514,505 1.205614,512 2.215154,526 1.617178,528 1.686067,537 1.363651,539 1.923778,544 2.672353,546 1.327532,565 1.301373,575 1.459261,586 1.228342,590 1.354718,612 1.664061,630 1.563428,631 1.301373,658 2.025396,674 2.125422,693 3.269576,707 1.368722,709 1.921088,710 2.189248,722 0.681825,734 1.696804,755 1.037655,764 1.526938,773 1.383014,777 0.970794,780 4.377782,787 1.892967,804 0.671402,810 1.327532,830 1.875974,852 1.892967,860 0.995118,864 1.151855,871 1.412514,874 2.603668,882 1.956024,883 2.169372,1000 crude}
+{4 0.956984,13 0.924567,14 0.631208,16 0.584037,20 0.616717,22 1.195014,24 1.111661,25 1.793332,32 1.776537,36 1.451723,44 0.747889,139 0.293929,198 0.692408,210 1.892967,256 1.055429,259 2.908677,268 1.686067,333 6.785441,525 1.340992,537 0.681825,541 1.858941,546 2.104089,569 1.835171,616 2.189248,631 1.301373,709 1.311347,826 1.509389,870 0.939636,1000 crude}
+{0 1.622039,4 1.589517,9 0.067381,20 1.233434,22 0.514665,28 1.261173,36 1.865606,44 1.185377,138 2.023642,149 0.579492,184 1.58242,225 4.476525,229 1.863467,231 4.497232,232 2.189248,248 2.543326,251 1.276165,286 1.664061,509 1.642731,521 2.102492,572 3.674265,578 4.160474,586 1.228342,623 1.601946,642 1.183608,645 1.046485,753 2.192025,761 0.888269,764 1.526938,765 2.34392,792 1.892967,799 2.189248,813 1.835171,832 2.708377,869 1.301373,1000 crude}
+{4 0.478492,9 0.141225,11 0.730774,14 0.631208,16 1.168074,20 0.616717,21 1.011821,22 0.514665,24 1.111661,28 1.591423,33 1.956024,44 0.747889,61 2.242987,68 1.492274,149 0.579492,155 2.237071,211 3.545441,217 0.666248,229 1.863467,249 1.276165,255 0.895378,270 2.189248,280 1.276165,316 1.228342,328 1.563428,342 1.492274,366 3.545673,368 2.543326,381 2.624967,394 2.717524,490 1.956024,505 1.205614,508 1.732294,512 1.397607,515 1.475571,525 1.340992,550 1.028936,554 2.950748,575 1.459261,605 1.492274,639 0.747889,680 1.151855,707 1.368722,722 0.681825,746 1.58242,764 1.526938,777 0.970794,794 1.443325,814 1.020326,816 1.642731,825 1.131467,832 1.708795,883 1.368722,979 3.304826,1000 crude}
+{9 0.042513,44 0.747889,139 0.293929,143 1.732294,149 0.579492,223 2.042468,245 1.708795,262 0.932061,313 4.676826,325 2.144514,378 4.808463,400 2.062873,544 1.686067,563 1.475571,676 3.715025,688 1.863467,729 1.863467,753 2.192025,776 1.58242,779 3.627089,869 1.301373,1000 crude}
+{4 1.111024,9 0.157316,14 1.63165,16 1.509714,20 0.616717,21 1.011821,28 0.795712,33 1.956024,36 0.561603,44 0.747889,45 1.151855,49 1.397607,65 1.492274,139 0.293929,165 2.404231,167 2.102492,194 1.526938,196 1.162278,198 1.607722,200 1.288654,203 0.709827,211 1.526938,213 2.338724,215 2.824373,217 0.666248,221 3.304826,255 1.41914,259 1.835171,262 0.932061,278 1.046485,283 2.192025,305 2.288438,316 1.228342,323 3.469877,328 3.630168,340 1.526938,354 2.102492,366 2.237071,373 2.237071,374 2.062873,394 2.717524,403 1.642731,466 1.807985,475 6.21084,505 1.205614,523 2.288438,525 1.340992,526 1.020326,528 1.686067,533 1.340992,559 2.404231,565 1.301373,571 3.398974,575 2.312873,581 2.262928,596 2.237071,600 1.509389,604 1.781826,615 1.368722,623 1.601946,624 2.824373,639 1.185377,645 1.046485,648 2.144514,652 3.10542,653 3.304826,662 2.144514,664 1.412514,674 2.125422,680 2.30371,681 3.398974,692 1.989842,703 1.863467,722 1.080668,723 0.970794,743 1.082975,746 1.58242,762 1.622039,764 3.053877,770 2.717524,777 0.970794,801 1.340992,805 0.522966,814 1.020326,825 1.131467,832 3.9677,860 1.577224,871 1.412514,880 2.144514,890 1.732294,892 2.025396,942 5.238025,986 2.824373,1000 crude}
+{4 0.758392,9 0.109894,16 0.584037,23 2.189248,44 1.185377,61 1.777525,139 0.293929,196 1.162278,198 1.384816,203 0.709827,211 1.526938,213 1.475571,217 1.055979,280 1.276165,281 1.183608,304 2.144514,305 2.288438,306 1.989842,316 1.946877,319 1.781826,321 6.785441,349 1.622039,380 2.312873,411 1.563428,429 3.10542,442 2.543326,461 2.717524,465 2.624967,525 1.340992,531 1.756618,533 1.340992,565 1.301373,575 1.459261,584 4.805839,594 2.824373,598 0.676594,604 1.781826,617 1.807985,632 1.732294,634 1.028936,639 1.495779,645 1.046485,664 1.412514,674 2.125422,678 1.708795,680 1.151855,707 2.737443,722 0.681825,723 1.538672,733 2.717524,746 1.58242,764 2.42014,772 2.950748,804 0.671402,805 0.522966,814 1.617178,825 1.131467,858 2.312873,862 1.58242,871 1.412514,1000 crude}
+{8 2.508076,9 0.042513,61 1.121493,139 0.293929,197 2.189248,203 0.709827,211 3.545441,223 1.288654,238 2.908677,289 0.95504,307 2.717524,379 5.648746,411 2.477975,452 2.025396,567 2.189248,623 1.601946,777 1.538672,784 1.492274,788 2.34392,810 1.327532,814 1.617178,816 1.642731,946 2.824373,1000 crude}
+{9 0.067381,38 1.842168,45 1.151855,50 1.239992,139 0.465867,142 1.989842,149 0.579492,186 2.624967,193 1.892967,203 0.447851,223 2.577308,249 2.022673,256 1.055429,342 1.492274,386 5.249934,399 2.062873,403 1.642731,424 2.950748,437 1.340992,450 2.543326,455 2.543326,558 2.543326,631 1.301373,734 0.730774,763 1.509389,769 2.624967,805 0.522966,830 1.183608,883 1.368722,885 2.624967,955 2.824373,1000 crude}
+{9 0.042513,38 2.324557,45 2.30371,50 1.239992,62 2.624967,138 1.011821,139 0.465867,142 1.989842,179 1.443325,186 5.249934,193 3.000281,223 1.288654,249 2.022673,256 2.110859,320 2.717524,342 2.365198,386 4.160474,387 8.152571,424 4.676826,437 1.340992,450 2.543326,455 2.543326,468 1.427748,483 2.470295,486 3.810617,558 2.543326,579 1.427748,734 0.730774,763 1.509389,769 2.624967,789 1.863467,792 1.892967,805 0.828881,830 1.183608,841 1.642731,865 2.144514,867 1.314329,883 1.368722,1000 crude}
+{6 1.301373,9 0.098712,38 1.162278,43 3.153826,45 1.151855,49 1.397607,50 1.239992,139 0.293929,149 0.579492,155 2.237071,158 1.443325,176 2.637474,179 1.443325,185 2.025396,186 7.369213,222 1.708795,248 2.543326,249 2.022673,281 1.183608,283 1.383014,285 2.784173,320 5.435047,329 2.543326,340 1.526938,342 1.492274,386 7.369213,387 4.307173,393 1.58242,424 5.901497,431 2.288438,455 2.543326,466 1.807985,473 1.892967,474 1.544943,486 3.810617,490 1.956024,563 1.475571,583 2.189248,584 1.601946,598 0.676594,606 1.601946,615 2.737443,631 2.062627,643 1.368722,689 1.492274,700 2.795214,708 1.708795,734 1.158249,743 1.716475,750 2.189248,760 4.576877,769 2.624967,781 1.037655,790 2.824373,792 1.892967,797 2.717524,805 0.828881,826 1.509389,830 1.183608,871 1.412514,881 1.301373,883 1.368722,888 3.545673,959 2.624967,979 3.304826,1000 crude}
+{1 1.577224,7 1.162278,9 0.098712,13 1.465404,16 0.584037,20 0.977473,21 1.011821,24 1.111661,44 0.747889,148 1.475571,179 1.443325,203 0.447851,217 1.055979,256 1.055429,278 1.046485,286 1.664061,298 3.332371,306 1.989842,322 2.637474,368 2.543326,391 4.921974,420 2.144514,444 2.404231,464 2.237071,489 2.34392,491 2.025396,526 1.020326,598 0.676594,602 2.456685,642 1.183608,709 1.654735,734 1.158249,761 0.888269,860 0.995118,864 1.151855,870 1.489288,1000 crude}
+{1 1.990235,3 1.746576,7 1.842168,8 1.58242,9 0.042513,15 1.58242,21 1.011821,38 1.162278,58 3.469877,59 2.189248,139 0.293929,149 0.918473,158 1.443325,217 0.666248,245 1.708795,255 0.895378,294 2.189248,322 1.664061,363 2.543326,390 2.288438,453 2.34392,472 2.189248,634 1.028936,708 2.708377,728 1.459261,762 1.622039,805 0.522966,867 1.314329,1000 crude}
+{4 0.956984,9 0.14707,21 1.011821,22 1.195014,28 1.261173,36 0.561603,44 1.185377,50 1.239992,158 1.443325,197 4.378497,211 3.947078,217 0.666248,229 1.863467,235 1.686067,280 1.276165,285 1.756618,316 1.228342,328 1.563428,353 2.025396,366 2.237071,381 5.249934,382 2.404231,406 4.940591,437 1.340992,508 1.732294,509 1.642731,512 1.397607,531 1.756618,537 1.363651,575 2.312873,586 1.228342,639 0.747889,664 1.412514,671 1.835171,680 1.151855,687 1.544943,692 1.989842,709 0.827368,722 0.681825,723 0.970794,743 1.716475,748 4.474141,758 1.427748,761 0.888269,764 3.053877,771 1.807985,781 1.037655,784 1.492274,794 1.443325,798 5.442413,804 0.671402,814 2.369123,815 1.577224,816 3.285463,820 2.404231,825 1.793332,830 1.875974,841 1.642731,846 2.062873,858 1.459261,867 2.083162,871 1.412514,881 1.301373,892 2.025396,1000 crude}
+{9 0.085026,29 3.398974,38 1.162278,53 2.470295,61 2.242987,139 0.293929,149 0.579492,198 1.384816,206 4.921974,226 2.824373,255 0.895378,272 3.10542,284 1.892967,285 2.784173,373 2.237071,531 1.756618,598 0.676594,604 1.781826,703 1.863467,722 1.762493,752 1.509389,755 1.037655,762 1.622039,777 1.538672,781 1.037655,794 2.886651,816 1.642731,877 2.950748,1000 crude}
+{38 1.842168,138 2.023642,139 0.465867,149 0.918473,184 1.58242,198 1.384816,217 0.666248,244 2.189248,251 2.022673,262 1.477281,281 1.183608,340 1.526938,342 3.464952,365 2.062873,511 1.544943,632 1.732294,642 1.875974,684 2.288438,686 1.892967,705 1.892967,761 0.888269,814 1.617178,823 3.398974,874 1.642731,1000 crude}
+{9 0.042513,24 1.111661,159 2.543326,227 2.624967,426 2.34392,495 3.269576,504 1.923778,533 1.340992,570 1.459261,598 0.676594,675 2.404231,761 1.407872,828 1.892967,866 1.397607,886 2.189248,900 2.717524,1000 crude}
+{4 0.478492,9 0.127539,11 1.461548,13 1.849134,16 0.925677,20 1.233434,21 1.011821,22 1.195014,24 1.111661,25 1.131467,28 0.795712,32 3.553074,36 2.013327,42 1.430525,45 1.151855,50 1.239992,65 1.492274,139 0.587859,144 3.000281,148 1.475571,149 0.918473,153 1.664061,162 3.915326,184 1.58242,196 1.842168,198 2.077224,200 2.042468,203 0.709827,217 0.666248,229 1.863467,231 5.541824,245 1.708795,251 1.276165,252 1.544943,259 5.817355,262 0.932061,270 2.189248,278 1.65864,281 1.183608,289 0.95504,290 1.732294,296 2.404231,301 3.915326,304 2.144514,309 2.287617,328 1.563428,350 4.576877,356 1.989842,361 2.404231,373 2.237071,416 2.717524,466 1.807985,491 2.025396,511 3.089886,513 2.470295,515 1.475571,526 2.637504,529 2.288438,531 4.931449,533 1.340992,536 2.102492,537 1.58315,538 4.605953,541 1.172861,550 1.630826,563 1.475571,565 1.301373,570 1.459261,572 3.164839,575 2.312873,590 2.147177,598 0.676594,600 2.392326,602 1.228342,618 2.470295,639 1.736545,642 1.875974,658 2.025396,670 3.726933,679 1.923778,686 1.892967,690 2.624967,693 2.062873,719 1.863467,722 1.58315,723 0.970794,746 1.58242,752 1.509389,761 0.888269,781 1.037655,784 1.492274,789 2.953525,792 1.892967,799 2.189248,801 1.340992,804 0.671402,807 1.756618,814 1.020326,825 1.131467,832 3.417591,856 1.183608,857 1.835171,858 2.312873,864 1.151855,869 2.602745,870 0.939636,874 3.814304,883 1.368722,886 2.189248,1000 crude}
+{2 1.301373,3 2.203933,4 0.478492,7 1.162278,9 0.098712,13 2.595588,16 0.925677,20 1.85015,22 1.444846,24 1.761941,25 2.627185,28 0.795712,32 3.704013,36 2.504431,42 1.805121,45 1.151855,47 2.624967,65 1.492274,67 1.544943,146 1.622039,148 3.426169,149 0.918473,163 2.543326,188 2.543326,196 1.162278,231 1.601946,251 2.022673,260 3.304826,265 1.397607,278 1.046485,290 1.732294,309 4.575233,311 3.915326,323 2.189248,330 1.622039,360 1.989842,375 3.563652,389 5.194317,420 3.398974,427 2.237071,467 1.427748,475 3.10542,515 2.338724,526 2.040652,531 1.756618,536 2.102492,537 0.681825,546 1.327532,550 1.028936,551 2.34392,553 1.989842,569 1.835171,575 1.459261,590 1.354718,598 0.676594,602 1.228342,606 1.601946,631 1.301373,642 1.183608,644 2.404231,658 2.025396,664 1.412514,718 1.459261,719 1.863467,736 2.34392,746 1.58242,752 2.392326,755 1.644645,761 1.407872,776 1.58242,780 2.312873,781 1.037655,804 1.064147,823 2.144514,825 1.131467,828 1.892967,853 1.807985,854 3.210177,867 1.314329,870 0.939636,874 4.246399,883 2.169372,886 2.189248,1000 crude}
+{9 0.141225,11 1.461548,13 1.849134,16 0.925677,20 1.59419,22 1.195014,24 1.111661,25 1.793332,28 0.795712,32 3.7733,36 2.728258,42 1.430525,45 1.151855,50 1.239992,65 2.365198,139 0.587859,144 1.892967,148 2.338724,149 0.918473,153 1.664061,162 3.915326,184 1.58242,198 1.943835,200 2.042468,203 0.709827,216 3.10542,229 1.863467,231 5.541824,245 1.708795,251 1.276165,252 1.544943,259 5.151977,262 0.932061,270 3.469877,274 2.062873,278 1.65864,281 1.183608,289 1.513703,290 1.732294,296 2.404231,301 3.915326,304 2.144514,309 2.287617,350 5.313589,356 1.989842,361 2.404231,373 2.237071,389 2.237071,416 2.717524,466 1.807985,474 1.544943,511 3.089886,513 2.470295,515 1.475571,526 2.637504,529 2.288438,531 4.931449,533 1.340992,536 2.102492,537 1.363651,538 4.605953,541 1.172861,550 1.630826,563 1.475571,565 1.301373,570 1.459261,572 3.164839,575 1.459261,590 2.147177,598 0.676594,600 3.901715,602 1.946877,618 2.470295,639 1.736545,642 1.875974,670 2.953525,679 1.923778,686 1.892967,693 2.062873,719 1.863467,722 1.58315,723 0.970794,746 1.58242,752 1.509389,755 1.037655,761 0.888269,784 1.492274,789 2.953525,792 1.892967,801 1.340992,804 0.671402,807 1.756618,814 1.020326,825 1.131467,832 3.9677,856 1.875974,857 1.835171,858 2.312873,869 2.602745,870 1.489288,874 3.814304,883 1.368722,1000 crude}
+{9 0.098712,11 0.730774,14 0.631208,22 0.815724,36 0.561603,44 1.185377,61 1.121493,150 1.288654,203 0.709827,215 2.824373,262 0.932061,316 2.456685,328 1.563428,342 1.492274,358 5.901497,380 1.459261,434 3.563652,500 2.34392,508 1.732294,526 1.020326,599 1.892967,678 1.708795,718 1.459261,810 1.327532,825 1.131467,1000 crude}
+{9 0.085026,14 0.631208,16 0.925677,20 0.616717,24 2.873603,31 4.702824,42 0.902561,45 1.825647,61 1.121493,68 2.365198,139 0.587859,149 1.497965,198 1.607722,200 1.288654,202 7.171746,203 0.447851,237 2.34392,244 2.189248,256 1.055429,266 2.062873,281 1.183608,306 1.989842,318 2.025396,331 2.470295,347 1.956024,349 1.622039,354 2.102492,360 5.143668,374 2.062873,497 2.144514,501 2.824373,515 1.475571,520 4.289027,526 1.020326,538 1.781826,540 4.921974,541 1.172861,546 1.327532,547 2.025396,550 1.028936,565 1.301373,569 1.835171,570 3.388298,575 4.096662,586 1.228342,590 2.147177,600 1.509389,639 1.185377,646 2.237071,674 2.125422,678 2.708377,680 1.151855,706 2.624967,707 1.368722,722 1.914126,723 0.970794,734 1.158249,737 2.189248,755 1.037655,773 1.383014,776 1.58242,777 0.970794,782 2.189248,784 1.492274,791 1.563428,794 1.443325,804 1.064147,805 0.522966,814 1.617178,820 2.404231,826 1.509389,830 1.875974,835 1.956024,841 1.642731,858 1.459261,859 1.622039,862 1.58242,866 1.397607,868 1.492274,870 0.939636,945 3.10542,1000 crude}
+{9 0.098712,11 1.461548,22 1.195014,28 0.795712,42 0.902561,67 3.587247,181 2.237071,190 2.950748,198 0.692408,203 0.709827,217 0.666248,223 1.288654,239 4.307173,252 3.089886,266 2.062873,278 1.046485,316 1.228342,325 2.144514,353 2.025396,360 3.153826,495 2.062873,504 1.923778,541 1.172861,552 2.717524,553 3.979685,586 1.228342,598 0.676594,640 3.10542,643 1.368722,675 2.404231,690 2.624967,709 0.827368,734 0.730774,762 1.622039,777 1.538672,805 1.045932,828 1.892967,830 1.875974,841 1.642731,870 0.939636,883 1.368722,1000 crude}
+{5 2.603668,9 0.085026,13 0.924567,14 0.631208,16 0.584037,19 1.288654,24 1.761941,36 0.561603,38 1.162278,42 1.430525,44 0.747889,45 2.977502,61 2.242987,67 1.544943,68 2.984548,89 4.307173,135 2.34392,139 0.465867,140 2.950748,151 3.10542,196 1.162278,198 0.692408,217 0.666248,237 2.34392,238 2.908677,254 1.756618,265 2.215154,274 2.062873,281 1.183608,289 0.95504,303 2.237071,306 1.989842,311 2.470295,319 2.824127,331 2.470295,338 2.824373,340 1.526938,346 1.664061,347 1.956024,350 5.915527,354 2.102492,356 1.989842,360 5.586194,365 2.062873,392 1.923778,411 1.563428,421 2.470295,434 3.563652,435 2.189248,501 4.476525,505 1.205614,512 1.397607,515 1.475571,526 1.617178,530 2.288438,533 2.125422,538 1.781826,541 1.172861,575 5.231394,598 1.072376,600 1.509389,606 1.601946,639 0.747889,645 1.046485,678 1.708795,680 1.151855,687 1.544943,707 1.368722,709 0.827368,718 1.459261,722 1.080668,725 3.10542,728 1.459261,737 2.189248,748 2.237071,752 2.392326,761 2.815745,768 4.476525,773 1.383014,777 0.970794,778 2.237071,779 2.288438,791 1.563428,792 3.000281,803 1.526938,804 1.342804,805 0.828881,815 0.995118,818 2.144514,826 2.392326,830 1.183608,837 1.443325,841 1.642731,856 1.183608,858 1.459261,862 3.164839,864 1.151855,882 3.100224,883 2.169372,887 2.189248,890 2.745621,1000 crude}
+{1 2.572342,2 1.301373,3 3.660654,6 3.364,9 0.042513,18 1.863467,26 1.563428,40 2.624967,48 1.956024,50 1.239992,58 4.378497,59 2.189248,90 2.624967,139 0.682483,142 1.989842,149 1.158984,157 6.609652,158 1.443325,217 0.666248,223 2.577308,233 2.470295,238 1.835171,255 0.895378,262 0.932061,285 3.513235,306 1.989842,322 1.664061,369 2.144514,370 2.237071,382 2.404231,390 3.627089,426 2.34392,427 2.237071,437 1.340992,472 2.189248,509 1.642731,526 1.020326,533 1.340992,537 0.681825,541 1.172861,598 1.072376,602 1.228342,615 1.368722,616 2.189248,619 2.189248,642 1.183608,645 1.046485,660 1.781826,688 2.953525,689 2.365198,693 2.062873,709 0.827368,734 0.730774,755 1.644645,761 1.407872,763 1.509389,766 2.745621,773 1.383014,777 0.970794,784 2.365198,804 0.671402,805 0.522966,830 1.183608,837 1.443325,865 2.144514,868 1.492274,879 3.627089,881 1.301373,900 4.307173,904 2.950748,923 3.585873,936 2.950748,1000 crude}
+{3 3.093612,4 1.111024,9 0.119349,11 1.461548,13 0.924567,16 2.093751,20 1.431972,22 0.514665,25 1.131467,36 1.123207,139 0.293929,146 1.622039,203 0.447851,255 0.895378,259 1.835171,265 1.397607,269 4.358421,280 2.552329,286 1.664061,287 2.824373,296 2.404231,309 1.443325,312 1.956024,327 2.144514,339 2.824373,375 1.781826,396 4.031076,404 4.160474,447 3.715025,452 2.025396,481 2.824373,519 6.580215,537 0.681825,577 1.526938,598 0.676594,600 1.509389,615 1.368722,656 2.102492,707 1.368722,709 2.138714,718 1.459261,722 1.080668,723 1.538672,737 2.189248,743 1.082975,750 2.189248,753 1.383014,755 1.037655,761 0.888269,771 1.807985,804 1.735549,805 1.214289,807 2.784173,816 1.642731,824 2.570871,825 1.131467,831 2.824373,856 1.183608,869 1.301373,870 1.879272,875 5.491253,1000 crude}
+{3 1.746576,9 0.067381,16 0.925677,28 0.795712,44 1.185377,139 0.293929,149 0.579492,163 4.031076,249 1.276165,335 2.144514,353 2.025396,383 2.624967,422 4.940591,433 2.624967,470 2.624967,491 2.025396,533 1.340992,609 2.102492,642 1.183608,653 3.304826,709 0.827368,734 1.158249,815 0.995118,870 0.939636,894 1.923778,1000 crude}
+{3 1.101967,9 0.042513,28 1.261173,163 5.086652,194 1.526938,203 0.709827,256 1.055429,312 1.956024,380 1.459261,383 2.624967,393 1.58242,433 4.160474,470 2.624967,541 1.172861,550 1.028936,609 2.102492,642 1.183608,709 1.311347,734 0.730774,771 1.807985,802 1.563428,804 0.671402,894 1.923778,1000 crude}
+{3 2.203933,4 0.758392,9 0.119349,13 2.146779,14 0.631208,16 1.356092,21 1.011821,22 0.815724,24 1.111661,36 0.561603,44 0.747889,61 1.121493,148 2.338724,149 0.579492,163 2.543326,193 1.892967,198 0.692408,203 0.447851,217 1.055979,298 2.102492,309 1.443325,322 1.664061,343 2.404231,346 1.664061,349 1.622039,383 2.624967,401 2.288438,422 2.470295,433 6.094984,437 1.340992,467 1.427748,526 1.020326,530 2.288438,537 0.681825,602 1.946877,639 0.747889,642 1.875974,643 2.169372,709 1.311347,734 1.461548,755 1.644645,773 1.383014,777 0.970794,784 1.492274,826 1.509389,846 2.062873,859 1.622039,860 0.995118,864 2.30371,865 2.144514,870 0.939636,871 1.412514,1000 crude}
+{9 0.098712,11 0.730774,45 2.30371,139 0.465867,183 1.892967,198 0.692408,257 2.950748,281 1.183608,353 2.025396,411 1.563428,511 1.544943,565 1.301373,602 1.228342,606 1.601946,689 1.492274,718 1.459261,728 1.459261,734 1.889023,743 1.082975,770 2.717524,777 1.538672,782 2.189248,805 0.522966,807 1.756618,815 0.995118,828 1.892967,866 1.397607,1000 crude}
+{1 2.310592,2 3.904118,3 3.812179,6 1.301373,9 0.119349,15 2.508076,17 2.448677,18 1.863467,19 1.288654,21 1.011821,24 1.111661,38 1.162278,61 1.121493,139 0.587859,143 1.732294,144 1.892967,149 1.158984,153 1.664061,176 1.664061,198 1.097441,209 2.950748,210 1.892967,256 2.450631,262 0.932061,265 1.397607,273 2.34392,276 2.062873,278 1.046485,280 1.276165,281 1.875974,283 2.766027,289 0.95504,293 2.34392,347 3.912047,370 2.237071,441 2.470295,463 2.102492,487 3.469877,493 6.55799,563 1.475571,579 1.427748,581 1.427748,586 1.946877,629 2.624967,639 1.495779,644 2.404231,689 1.492274,723 0.970794,729 1.863467,761 1.776537,803 2.42014,804 0.671402,805 0.522966,869 1.301373,873 3.10542,874 1.642731,938 2.950748,1000 crude}
+{1 0.995118,2 2.062627,3 2.558688,9 0.085026,26 1.563428,68 1.492274,149 0.918473,176 1.664061,210 1.892967,223 1.288654,256 1.672816,262 0.932061,380 2.918521,642 1.183608,647 2.288438,689 1.492274,709 0.827368,729 1.863467,752 1.509389,755 1.037655,781 1.037655,887 2.189248,1000 crude}
+{1 1.577224,2 2.602745,3 2.203933,6 1.301373,9 0.042513,15 1.58242,24 1.111661,26 1.563428,139 0.682483,210 1.892967,223 1.288654,255 0.895378,256 1.055429,276 2.062873,280 1.276165,289 0.95504,347 3.100224,473 1.892967,487 3.469877,577 1.526938,579 1.427748,615 1.368722,642 1.183608,761 0.888269,781 1.037655,819 1.923778,869 1.301373,886 2.189248,969 2.950748,1000 crude}
+{1 1.577224,3 2.203933,9 0.067381,17 1.544943,19 1.288654,26 1.563428,149 0.579492,223 1.288654,247 1.807985,256 1.055429,281 1.183608,284 1.892967,370 2.237071,432 2.543326,474 1.544943,642 1.183608,709 0.827368,755 1.037655,866 1.397607,895 2.062873,1000 crude}
+{9 0.098712,32 0.888269,36 0.561603,139 0.465867,149 0.579492,208 2.950748,380 1.459261,393 1.58242,447 2.34392,473 1.892967,546 1.327532,642 1.183608,680 1.151855,689 1.492274,780 2.312873,857 1.835171,868 1.492274,1000 crude}
+{9 0.098712,11 0.730774,139 0.587859,183 1.892967,198 0.692408,257 2.950748,270 3.469877,281 1.183608,353 2.025396,411 1.563428,639 1.185377,642 1.183608,645 1.046485,709 0.827368,718 1.459261,723 0.970794,728 1.459261,734 2.528062,743 1.082975,755 1.037655,766 1.732294,770 2.717524,777 2.254114,782 5.083277,805 0.522966,807 2.784173,815 2.310592,819 1.923778,841 1.642731,864 1.151855,1000 crude}
+{1 1.990235,9 0.042513,20 0.616717,36 2.246413,42 0.902561,184 1.58242,254 2.784173,259 5.151977,282 2.570871,309 1.443325,466 1.807985,467 1.427748,473 1.892967,511 2.448677,538 1.781826,572 2.508076,582 2.824373,702 3.398974,776 1.58242,810 1.327532,854 2.025396,868 1.492274,874 2.603668,1000 crude}
+{9 0.067381,11 0.730774,14 0.631208,28 0.795712,36 0.561603,45 1.151855,61 1.121493,139 0.465867,179 1.443325,343 2.404231,426 4.68784,440 2.717524,508 1.732294,523 3.627089,526 1.020326,643 1.368722,648 2.144514,686 3.000281,711 2.624967,734 0.730774,746 1.58242,752 1.509389,825 1.131467,858 1.459261,883 1.368722,1000 crude}
+{1 1.990235,2 2.062627,3 2.203933,5 3.285463,6 2.602745,7 3.684335,9 0.042513,10 3.332371,15 2.508076,17 2.448677,18 2.953525,42 0.902561,139 0.293929,149 0.579492,210 1.892967,270 2.189248,283 1.383014,294 5.083277,392 1.923778,466 1.807985,526 1.020326,556 2.237071,579 2.262928,612 1.664061,616 2.189248,639 0.747889,708 1.708795,709 1.921088,718 1.459261,755 1.644645,766 1.732294,804 1.342804,805 0.522966,810 1.327532,814 1.020326,830 1.183608,841 1.642731,988 3.585873,1000 crude}
+{4 0.478492,7 1.842168,9 0.098712,13 2.146779,16 0.925677,20 0.977473,32 1.407872,138 1.011821,139 0.587859,149 0.579492,254 1.756618,269 1.686067,289 0.95504,300 2.025396,460 1.863467,547 3.210177,572 1.58242,590 1.354718,605 1.492274,630 1.563428,639 0.747889,645 1.046485,734 0.730774,755 1.644645,781 1.037655,787 3.000281,805 0.522966,850 2.34392,859 1.622039,860 1.577224,864 1.151855,883 1.368722,1000 crude}
+{1 2.310592,2 1.301373,3 2.203933,5 1.642731,6 2.062627,7 3.262928,8 1.58242,9 0.098712,10 3.332371,15 3.674265,21 2.023642,48 1.956024,49 2.215154,142 1.989842,176 1.664061,185 2.025396,193 1.892967,194 1.526938,217 1.332497,255 1.41914,278 1.65864,283 2.192025,294 2.189248,398 4.031076,468 1.427748,469 1.756618,485 4.031076,487 2.189248,526 1.617178,542 2.950748,556 2.237071,623 2.539025,639 0.747889,689 1.492274,708 1.708795,709 2.138714,728 1.459261,760 2.288438,761 0.888269,784 1.492274,793 1.863467,804 1.064147,805 1.045932,810 1.327532,818 2.144514,883 1.368722,887 2.189248,957 2.624967,982 2.717524,1000 crude}
+{4 0.758392,7 1.842168,9 0.119349,13 2.146779,14 0.631208,16 0.925677,21 1.011821,22 1.330389,32 0.888269,36 0.561603,42 1.805121,139 0.587859,164 4.676826,167 2.102492,198 1.097441,217 1.055979,245 1.708795,255 0.895378,268 1.686067,278 1.65864,280 2.022673,286 1.664061,298 2.102492,309 1.443325,311 2.470295,330 1.622039,332 1.781826,340 1.526938,375 1.781826,467 1.427748,537 0.681825,546 1.327532,547 2.025396,598 1.072376,602 1.228342,639 0.747889,643 1.368722,645 2.429864,709 0.827368,722 0.681825,723 0.970794,734 0.730774,755 2.913067,787 1.892967,793 1.863467,804 0.671402,805 0.522966,815 0.995118,826 1.509389,837 1.443325,864 1.151855,870 0.939636,1000 crude}
+{1 0.995118,4 1.111024,7 4.020823,9 0.127539,11 1.158249,13 2.930809,14 1.000441,16 1.851354,20 0.977473,21 1.011821,22 1.195014,28 0.795712,32 2.664806,36 1.304002,42 1.430525,104 3.585873,138 1.011821,139 0.881788,149 0.918473,170 2.404231,178 5.249934,196 1.162278,198 0.692408,203 0.709827,217 0.666248,237 2.34392,247 1.807985,252 2.448677,256 1.055429,268 2.672353,269 1.686067,278 1.046485,280 1.276165,281 1.183608,282 1.622039,289 0.95504,298 2.102492,300 2.025396,306 1.989842,311 2.470295,318 3.210177,327 2.144514,330 2.570871,337 2.824373,365 2.062873,377 2.404231,410 1.781826,420 2.144514,425 2.624967,427 3.545673,437 1.340992,460 1.863467,462 2.288438,464 2.237071,467 1.427748,480 2.470295,511 1.544943,520 3.398974,526 1.617178,533 1.340992,547 3.210177,550 1.630826,551 2.34392,590 1.354718,598 1.072376,600 2.392326,602 1.228342,605 1.492274,615 2.169372,630 3.126856,634 1.028936,639 0.747889,643 1.368722,645 2.092971,671 2.908677,680 2.674524,709 2.138714,723 0.970794,734 1.461548,745 3.304826,753 1.383014,755 2.6823,760 2.288438,761 0.888269,778 3.545673,781 1.644645,787 3.000281,791 1.563428,803 1.526938,805 1.351847,815 0.995118,850 3.715025,853 1.807985,856 1.183608,859 1.622039,860 1.990235,864 2.30371,869 2.062627,870 1.879272,883 2.737443,992 2.824373,1000 crude}
+{4 0.478492,7 2.324557,9 0.085026,13 2.146779,16 0.584037,22 0.514665,25 1.793332,32 1.776537,36 1.123207,44 0.747889,70 1.956024,139 0.587859,149 0.579492,150 1.288654,196 1.162278,200 1.288654,203 0.447851,231 1.601946,238 1.835171,410 2.824127,449 2.470295,505 1.205614,513 2.470295,529 2.288438,537 0.681825,600 1.509389,631 1.301373,634 1.028936,645 1.65864,728 1.459261,734 0.730774,755 1.644645,787 1.892967,801 1.340992,1000 crude}
+{9 0.109894,21 1.011821,22 0.514665,24 1.111661,28 1.591423,44 1.185377,49 1.397607,61 2.242987,139 0.293929,153 1.664061,203 1.039878,211 3.545441,213 1.475571,217 0.666248,229 1.863467,262 0.932061,283 1.383014,309 1.443325,314 2.34392,330 1.622039,344 3.810617,374 2.062873,385 2.404231,393 1.58242,408 2.624967,423 2.470295,477 2.144514,550 1.028936,563 1.475571,565 1.301373,577 1.526938,598 0.676594,621 2.624967,639 0.747889,660 1.781826,664 1.412514,686 3.000281,734 1.889023,743 1.716475,766 1.732294,794 2.886651,804 0.671402,805 0.522966,813 1.835171,830 1.183608,837 2.287617,860 1.577224,862 1.58242,864 1.151855,1000 crude}
+{9 0.127539,11 1.461548,16 0.584037,30 2.543326,36 0.561603,38 1.162278,44 0.747889,50 2.879173,77 3.10542,139 0.465867,145 2.950748,149 0.918473,167 2.102492,183 3.000281,196 1.162278,198 1.607722,203 1.039878,211 3.947078,213 1.475571,230 2.717524,237 2.34392,249 2.552329,252 1.544943,256 2.110859,262 1.864122,276 3.269576,281 1.183608,289 0.95504,310 7.8749,315 2.717524,328 4.690285,329 4.031076,340 1.526938,341 2.237071,357 2.470295,364 2.717524,365 2.062873,368 2.543326,370 2.237071,380 5.231394,382 2.404231,399 2.062873,402 2.288438,406 3.915326,413 2.543326,415 2.543326,435 2.189248,438 3.715025,454 2.624967,486 3.810617,515 1.475571,523 4.576877,528 2.672353,530 2.288438,536 2.102492,570 1.459261,575 1.459261,579 1.427748,596 4.474141,598 1.353188,604 1.781826,606 4.140971,607 2.950748,609 2.102492,619 2.189248,639 1.933266,646 2.237071,647 2.288438,658 2.025396,678 1.708795,681 2.144514,685 2.543326,692 3.153826,707 1.368722,719 1.863467,722 1.363651,723 1.941588,752 1.509389,771 2.865589,773 1.383014,781 1.037655,791 1.563428,804 1.342804,805 0.522966,810 2.104089,815 2.572342,819 1.923778,824 1.622039,826 1.509389,841 1.642731,857 1.835171,862 4.442414,876 2.717524,881 1.301373,914 2.717524,995 2.950748,1000 crude}
+{0 3.244078,4 1.516784,9 0.109894,11 0.730774,20 1.731343,22 0.815724,32 0.888269,36 1.68481,44 1.736545,49 1.397607,50 1.239992,66 2.624967,138 1.603698,149 0.918473,153 1.664061,165 3.810617,171 2.908677,174 3.10542,184 1.58242,185 3.210177,198 1.384816,203 0.895702,231 2.539025,234 2.189248,250 2.950748,251 1.276165,254 1.756618,255 0.895378,278 1.046485,281 1.183608,331 2.470295,413 2.543326,505 1.910853,514 5.683474,521 3.332371,525 1.340992,533 1.340992,537 1.58315,539 1.923778,541 1.172861,543 2.717524,546 1.327532,550 1.028936,551 2.34392,559 3.810617,565 1.301373,586 1.228342,598 0.676594,601 3.585873,609 4.204984,617 1.807985,621 2.624967,630 3.126856,634 1.630826,639 0.747889,648 2.144514,651 3.304826,658 2.025396,660 1.781826,665 2.950748,667 3.585873,687 4.337204,700 3.923578,709 0.827368,722 1.363651,723 0.970794,743 1.082975,751 4.358421,752 1.509389,753 3.575039,761 0.888269,771 1.807985,777 1.538672,800 3.304826,801 1.340992,802 1.563428,804 1.735549,814 1.020326,815 1.577224,841 1.642731,856 3.550823,860 0.995118,869 1.301373,870 1.489288,880 2.144514,884 3.810617,1000 crude}
+{9 0.098712,11 0.730774,21 1.011821,22 0.514665,26 1.563428,42 0.902561,44 0.747889,45 1.151855,139 0.293929,150 2.042468,179 2.886651,204 2.470295,229 1.863467,235 2.672353,249 2.022673,281 1.183608,316 3.448393,319 1.781826,342 1.492274,356 1.989842,437 1.340992,438 3.715025,473 1.892967,476 2.144514,503 1.956024,509 1.642731,515 1.475571,525 2.681984,549 3.545673,552 2.717524,553 4.620271,560 2.392326,565 1.301373,586 1.946877,598 0.676594,606 1.601946,632 1.732294,638 6.851426,708 1.708795,709 0.827368,716 2.543326,719 1.863467,724 2.34392,743 1.082975,764 1.526938,781 1.037655,804 0.671402,805 0.828881,815 0.995118,826 1.509389,830 1.875974,857 1.835171,878 2.189248,894 1.923778,1000 crude}
+{4 0.478492,9 0.085026,11 0.730774,13 0.924567,16 1.356092,20 1.431972,22 1.195014,25 2.627185,32 1.776537,42 0.902561,65 2.365198,139 0.293929,146 2.570871,198 0.692408,200 2.042468,203 0.709827,210 3.000281,217 0.666248,222 2.708377,262 0.932061,265 1.397607,269 1.686067,278 1.046485,280 2.963162,281 1.183608,289 0.95504,309 1.443325,360 1.989842,373 2.237071,401 2.288438,420 2.144514,485 2.543326,515 1.475571,522 3.585873,537 0.681825,546 2.655065,550 1.028936,570 1.459261,604 1.781826,618 2.470295,619 2.189248,630 1.563428,632 1.732294,634 1.028936,639 0.747889,660 1.781826,678 1.708795,688 1.863467,708 1.708795,720 2.950748,722 1.363651,728 1.459261,734 1.158249,752 3.901715,761 0.888269,774 3.304826,804 0.671402,805 0.522966,841 1.642731,844 2.062873,856 1.183608,858 1.459261,878 2.189248,886 2.189248,1000 crude}
+{4 0.478492,9 0.042513,11 0.730774,14 1.262416,16 0.925677,20 1.233434,44 0.747889,67 1.544943,139 0.293929,143 2.745621,203 0.447851,256 1.055429,276 2.062873,399 2.062873,411 1.563428,471 2.824373,577 1.526938,645 1.046485,752 2.392326,782 3.469877,844 3.269576,1000 crude}
+{7 1.162278,9 0.109894,13 2.146779,16 1.509714,20 1.59419,22 1.330389,23 2.189248,24 2.223323,25 2.262934,31 2.025396,32 3.470368,36 1.57662,42 0.902561,138 2.023642,139 0.759796,148 3.814295,149 0.579492,153 2.637474,176 1.664061,188 2.543326,232 2.189248,235 1.686067,245 1.708795,251 1.276165,255 1.41914,268 1.686067,278 1.046485,280 1.276165,281 1.183608,301 2.470295,303 5.194317,318 2.025396,330 3.244078,332 1.781826,343 2.404231,356 1.989842,371 2.470295,374 3.269576,410 1.781826,452 2.025396,519 2.34392,526 1.617178,565 1.301373,575 1.459261,584 1.601946,590 1.354718,598 1.571003,602 2.456685,632 1.732294,639 1.185377,642 1.183608,670 1.863467,671 1.835171,680 1.825647,697 1.544943,707 2.169372,709 1.921088,718 1.459261,723 0.970794,734 0.730774,736 3.715025,753 1.383014,755 1.644645,780 2.918521,787 1.892967,789 1.863467,791 2.477975,793 1.863467,804 1.064147,805 0.522966,810 1.327532,853 1.807985,854 4.702824,864 2.30371,866 1.397607,869 3.021694,870 1.489288,881 1.301373,894 1.923778,1000 crude}
+{4 0.478492,9 0.067381,11 0.730774,14 1.262416,16 0.584037,20 1.233434,22 0.514665,24 1.761941,32 0.888269,36 1.304002,42 0.902561,65 1.492274,146 1.622039,149 0.918473,153 1.664061,200 1.288654,203 0.447851,217 0.666248,309 1.443325,319 1.781826,550 2.057873,569 2.908677,631 1.301373,674 1.340992,710 2.189248,722 0.681825,771 1.807985,773 1.383014,795 2.189248,801 1.340992,828 1.892967,874 1.642731,1000 crude}
+{4 0.956984,9 0.085026,11 1.158249,14 1.000441,16 0.584037,20 0.977473,22 1.029329,24 1.111661,25 1.793332,32 1.776537,36 1.123207,65 2.365198,68 1.492274,107 1.989842,139 0.682483,149 1.345539,150 1.288654,184 1.58242,198 1.097441,217 0.666248,254 1.756618,274 2.062873,316 1.228342,376 2.404231,380 1.459261,448 2.144514,515 1.475571,537 1.080668,604 1.781826,606 1.601946,642 1.183608,674 4.250844,710 2.189248,722 1.080668,746 1.58242,761 0.888269,764 2.42014,805 0.522966,825 1.131467,868 1.492274,1000 crude}
+{9 0.085026,14 0.631208,20 0.616717,22 0.514665,36 0.561603,203 0.447851,316 1.228342,323 2.189248,396 2.543326,485 5.90542,504 1.923778,525 1.340992,533 1.340992,541 1.172861,547 2.025396,596 2.237071,709 0.827368,723 0.970794,724 4.68784,755 1.037655,777 0.970794,781 1.037655,795 2.189248,802 1.563428,828 1.892967,830 1.183608,882 1.956024,1000 crude}
+{9 0.098712,14 0.631208,20 0.616717,22 0.514665,36 0.561603,203 0.447851,316 1.228342,323 2.189248,396 2.543326,485 5.90542,504 1.923778,525 1.340992,533 1.340992,541 1.172861,547 2.025396,596 2.237071,709 0.827368,723 0.970794,724 4.68784,755 1.037655,777 0.970794,781 1.037655,795 2.189248,802 1.563428,828 1.892967,830 1.183608,882 1.956024,1000 crude}
+{9 0.067381,11 2.051541,20 1.431972,21 1.603698,22 0.815724,28 0.795712,32 2.493685,42 1.430525,138 1.603698,141 1.956024,149 0.579492,171 1.835171,177 2.102492,203 0.895702,223 3.617709,233 2.470295,247 1.807985,251 2.022673,253 1.956024,262 0.932061,269 2.672353,278 1.046485,280 2.022673,281 1.875974,340 3.053877,404 4.160474,441 2.470295,445 2.237071,462 2.288438,474 3.587247,503 1.956024,515 2.951141,521 2.102492,539 3.049117,541 3.031802,563 1.475571,570 1.459261,583 2.189248,585 2.824373,590 1.354718,598 1.072376,600 3.018779,642 1.875974,676 2.34392,679 1.923778,687 4.63483,700 1.397607,722 0.681825,723 0.970794,751 2.672353,753 4.38405,804 0.671402,805 0.522966,815 1.577224,869 3.653415,870 0.939636,1000 crude}
+{3 2.848543,4 0.758392,9 0.134763,11 1.461548,13 3.314539,14 1.772026,16 2.336149,20 2.048689,22 0.815724,25 1.131467,32 1.776537,36 0.561603,50 1.239992,67 3.587247,150 1.288654,153 3.328121,176 2.637474,178 2.624967,179 2.287617,181 2.237071,196 1.842168,198 0.692408,203 0.709827,222 3.417591,231 1.601946,232 2.189248,251 1.276165,255 0.895378,265 1.397607,268 1.686067,269 2.672353,280 2.552329,283 1.383014,289 1.91008,325 2.144514,339 5.648746,341 2.237071,346 2.637474,371 2.470295,375 1.781826,395 2.543326,401 2.288438,403 1.642731,410 1.781826,419 2.189248,420 3.398974,435 2.189248,467 2.262928,468 1.427748,474 1.544943,505 1.205614,508 1.732294,519 3.715025,526 1.617178,529 3.627089,537 0.681825,556 2.237071,560 1.509389,561 3.100224,586 1.228342,598 1.072376,600 2.392326,605 1.492274,615 1.368722,630 1.563428,634 2.057873,639 0.747889,643 1.368722,645 1.65864,664 1.412514,670 1.863467,679 3.049117,680 1.151855,707 2.169372,708 1.708795,709 2.622693,728 2.312873,734 0.730774,751 3.372134,752 1.509389,753 1.383014,755 1.037655,777 0.970794,778 3.545673,789 1.863467,793 3.726933,801 1.340992,804 1.064147,805 1.045932,807 1.756618,815 0.995118,837 1.443325,844 2.062873,853 2.865589,854 5.235573,856 2.367215,858 2.312873,859 1.622039,864 1.151855,869 1.301373,870 1.489288,875 5.491253,879 2.288438,894 1.923778,906 2.717524,1000 crude}
+{9 0.042513,19 1.288654,38 1.162278,48 1.956024,139 0.682483,149 0.579492,186 4.160474,249 2.022673,256 1.055429,300 2.025396,313 2.950748,316 1.228342,320 5.435047,322 1.664061,386 5.249934,445 3.545673,454 2.624967,492 2.404231,526 2.040652,528 1.686067,544 1.686067,616 2.189248,634 1.028936,639 0.747889,645 2.092971,647 2.288438,679 1.923778,697 3.089886,708 1.708795,743 1.716475,761 0.888269,773 1.383014,819 1.923778,856 1.183608,860 1.990235,867 1.314329,871 1.412514,959 2.624967,1000 crude}
+{6 1.301373,9 0.067381,22 0.514665,26 2.477975,38 1.162278,42 0.902561,45 1.151855,48 3.100224,50 1.965341,63 2.237071,139 0.465867,144 1.892967,149 0.918473,158 1.443325,182 3.585873,186 4.160474,241 2.950748,256 1.672816,280 1.276165,294 2.189248,300 3.210177,316 1.228342,320 4.307173,322 1.664061,342 1.492274,355 2.543326,386 2.624967,387 6.309895,490 1.956024,526 1.617178,612 1.664061,635 1.664061,689 1.492274,697 1.544943,705 1.892967,734 0.730774,743 1.082975,792 1.892967,813 1.835171,826 3.018779,841 1.642731,860 0.995118,864 1.151855,865 2.144514,881 1.301373,902 2.824373,1000 crude}
+{4 0.758392,9 0.109894,14 1.46562,16 1.851354,20 0.616717,22 0.514665,28 2.056885,36 0.89012,49 2.215154,61 1.121493,65 2.365198,67 1.544943,77 3.10542,89 2.717524,139 0.293929,146 1.622039,149 0.579492,150 1.288654,153 1.664061,165 2.404231,196 1.162278,198 1.607722,203 0.895702,208 2.950748,213 2.338724,232 2.189248,238 1.835171,249 1.276165,252 2.448677,254 1.756618,255 0.895378,262 0.932061,281 1.183608,299 3.585873,304 2.144514,323 2.189248,329 2.543326,335 2.144514,342 3.464952,346 1.664061,373 2.237071,376 4.808463,413 2.543326,415 2.543326,438 2.34392,446 2.717524,448 4.289027,462 3.627089,482 2.102492,486 2.404231,503 1.956024,505 1.910853,525 1.340992,531 1.756618,536 3.332371,537 0.681825,538 2.824127,550 1.028936,568 2.470295,575 3.388298,578 2.624967,586 1.228342,590 1.354718,605 2.365198,617 1.807985,618 2.470295,619 2.189248,630 1.563428,632 1.732294,642 1.875974,643 1.368722,662 3.398974,670 1.863467,674 1.340992,693 2.062873,718 1.459261,720 2.950748,723 0.970794,743 1.082975,746 4.090496,758 1.427748,764 2.42014,765 3.715025,777 0.970794,801 2.125422,805 0.522966,807 1.756618,815 1.577224,825 4.186925,832 2.708377,835 1.956024,841 1.642731,843 5.648746,846 2.062873,858 1.459261,870 1.879272,874 1.642731,881 1.301373,884 2.404231,894 1.923778,982 2.717524,1000 crude}
+{9 0.042513,11 1.158249,14 2.335748,16 0.584037,21 2.615519,36 2.078179,38 1.162278,61 1.121493,139 0.465867,146 1.622039,147 3.304826,150 2.042468,165 2.404231,198 2.482257,203 0.709827,213 1.475571,217 0.666248,222 1.708795,231 2.539025,238 1.835171,251 2.022673,252 2.448677,255 0.895378,262 0.932061,282 1.622039,283 1.383014,284 1.892967,299 11.912012,302 13.508042,303 2.237071,337 4.476525,340 1.526938,350 3.627089,362 2.950748,378 2.404231,394 4.307173,409 2.237071,416 4.307173,453 2.34392,466 1.807985,475 4.921974,478 2.824373,490 1.956024,505 1.910853,528 2.672353,530 4.576877,550 3.086809,558 2.543326,565 1.301373,575 1.459261,598 1.072376,605 2.365198,615 1.368722,619 2.189248,632 2.745621,634 1.630826,639 0.747889,645 1.65864,693 2.062873,700 1.397607,708 1.708795,722 1.914126,758 1.427748,777 1.538672,779 4.576877,781 2.913067,783 3.10542,801 1.340992,805 0.828881,824 1.622039,825 1.131467,826 3.018779,835 1.956024,857 1.835171,860 0.995118,861 3.304826,881 1.301373,883 2.169372,890 1.732294,977 3.304826,1000 crude}
+{4 0.758392,9 0.109894,13 1.465404,14 1.262416,16 1.356092,28 2.056885,33 1.956024,42 1.430525,49 1.397607,61 1.121493,63 2.237071,65 1.492274,138 1.011821,158 1.443325,196 1.842168,198 0.692408,203 1.039878,211 1.526938,217 1.332497,255 0.895378,256 1.672816,262 1.477281,278 1.046485,281 1.183608,283 1.383014,292 2.624967,312 1.956024,314 3.715025,322 1.664061,330 2.570871,335 3.398974,344 7.212694,353 2.025396,374 2.062873,385 2.404231,423 2.470295,426 2.34392,437 1.340992,470 2.624967,472 2.189248,477 3.398974,508 1.732294,536 2.102492,537 0.681825,541 1.172861,563 1.475571,579 1.427748,598 1.072376,620 2.624967,621 2.624967,629 4.160474,630 1.563428,635 1.664061,639 0.747889,664 2.238781,719 1.863467,728 2.312873,734 2.192321,743 1.082975,766 1.732294,773 2.192025,777 1.538672,794 1.443325,804 0.671402,805 0.522966,813 2.908677,837 2.287617,860 1.990235,864 1.825647,865 2.144514,867 1.314329,869 1.301373,870 2.428924,1000 crude}
+{22 0.815724,36 0.89012,139 0.587859,143 1.732294,178 2.624967,196 1.842168,198 0.692408,223 2.042468,231 1.601946,234 2.189248,259 1.835171,262 0.932061,266 2.062873,280 1.276165,305 4.576877,388 5.648746,406 2.470295,450 4.031076,474 2.448677,492 2.404231,508 1.732294,525 1.340992,565 1.301373,579 1.427748,585 4.476525,604 1.781826,634 1.028936,680 1.151855,687 1.544943,700 1.397607,751 3.372134,753 3.575039,755 1.037655,777 0.970794,779 4.576877,781 1.037655,805 0.522966,815 0.995118,819 1.923778,852 1.892967,870 0.939636,871 1.412514,882 1.956024,910 3.10542,969 4.676826,1000 crude}
+{9 0.098712,11 1.889023,44 1.185377,143 1.732294,144 1.892967,220 3.585873,223 2.042468,252 3.089886,255 0.895378,283 1.383014,316 1.946877,342 1.492274,353 2.025396,362 4.676826,381 2.624967,405 2.34392,407 2.404231,425 2.624967,434 1.781826,473 1.892967,486 2.404231,523 2.288438,550 1.028936,570 2.312873,607 6.851426,634 1.630826,635 1.664061,639 0.747889,700 1.397607,709 0.827368,722 1.58315,744 3.585873,747 3.585873,804 1.064147,805 1.214289,837 1.443325,883 1.368722,931 3.10542,1000 crude}
+{9 0.098712,11 2.051541,21 1.011821,28 0.795712,44 1.736545,45 1.151855,50 1.965341,66 2.624967,139 0.465867,143 1.732294,149 1.497965,153 1.664061,179 1.443325,185 3.210177,193 1.892967,203 1.157678,217 0.666248,229 1.863467,234 5.083277,243 2.34392,249 2.022673,251 2.022673,252 3.99362,253 3.912047,262 1.477281,276 3.269576,280 1.276165,281 1.875974,286 1.664061,305 2.288438,316 2.852123,328 1.563428,340 1.526938,353 2.025396,362 5.901497,380 2.312873,388 2.824373,400 2.062873,405 9.157438,443 7.627574,453 3.715025,460 1.863467,512 1.397607,515 1.475571,525 3.113687,526 1.020326,535 3.304826,537 0.681825,538 1.781826,539 3.049117,550 1.028936,563 1.475571,570 2.312873,582 4.476525,585 2.824373,598 0.676594,600 1.509389,606 1.601946,639 0.747889,645 1.046485,651 3.304826,658 2.025396,665 2.950748,676 4.68784,700 3.612761,708 3.9677,709 1.311347,712 3.585873,716 2.543326,724 3.715025,734 1.696804,771 1.807985,794 2.287617,802 1.563428,805 1.045932,810 2.104089,815 0.995118,825 1.131467,830 1.183608,837 1.443325,841 1.642731,858 1.459261,872 2.404231,1000 crude}
+{9 0.042513,28 1.261173,47 2.624967,70 1.956024,183 1.892967,203 0.709827,265 1.397607,269 2.672353,309 1.443325,312 4.541746,346 1.664061,359 2.717524,411 2.477975,474 1.544943,550 1.028936,577 1.526938,598 0.676594,599 1.892967,600 1.509389,605 1.492274,631 2.062627,635 1.664061,814 1.020326,824 4.553639,870 1.489288,1000 crude}
+{9 0.085026,16 1.168074,28 1.847585,63 2.237071,67 1.544943,70 1.956024,158 1.443325,183 3.785934,203 1.257276,265 2.795214,269 3.914927,309 1.443325,312 5.491253,327 2.144514,346 3.328121,359 2.717524,409 2.237071,411 3.630168,437 2.681984,467 1.427748,474 2.448677,492 2.404231,537 0.681825,541 1.172861,550 1.028936,577 2.42014,599 1.892967,600 2.392326,605 1.492274,606 1.601946,631 3.021694,634 1.028936,635 1.664061,648 2.144514,680 1.151855,697 1.544943,709 0.827368,718 2.312873,777 0.970794,794 1.443325,805 0.828881,814 1.617178,815 0.995118,824 5.388297,830 1.183608,870 1.879272,881 2.062627,1000 crude}
+{4 0.758392,9 0.109894,16 0.584037,20 0.977473,22 1.195014,28 1.261173,32 1.776537,36 0.561603,44 1.185377,45 1.151855,139 0.293929,150 1.288654,153 1.664061,198 0.692408,211 2.42014,255 0.895378,288 2.543326,289 1.513703,314 3.715025,316 1.946877,317 2.543326,328 1.563428,337 2.824373,340 1.526938,369 2.144514,380 2.312873,408 2.624967,438 3.715025,442 2.543326,505 1.205614,512 1.397607,537 0.681825,550 1.028936,561 1.956024,565 1.301373,590 1.354718,598 1.072376,604 1.781826,605 1.492274,615 1.368722,617 1.807985,639 0.747889,664 2.238781,681 2.144514,687 1.544943,723 0.970794,764 1.526938,766 2.745621,773 1.383014,789 1.863467,790 4.476525,795 4.378497,801 1.340992,802 1.563428,803 1.526938,804 0.671402,856 1.183608,858 1.459261,866 1.397607,888 2.237071,894 3.049117,895 2.062873,944 2.624967,1000 crude}
+{1 0.995118,4 1.111024,9 0.127539,14 1.893625,16 1.851354,20 0.616717,21 1.011821,22 1.029329,24 1.111661,38 1.162278,44 0.747889,61 1.777525,63 2.237071,139 0.293929,198 1.789849,203 0.895702,204 2.470295,208 2.950748,213 2.338724,217 0.666248,233 2.470295,247 1.807985,255 0.895378,262 1.477281,278 1.65864,281 1.183608,282 1.622039,284 1.892967,286 1.664061,288 2.543326,316 2.456685,342 1.492274,365 2.062873,403 2.603668,437 1.340992,462 3.627089,473 1.892967,482 2.102492,505 1.910853,511 1.544943,525 2.681984,526 1.020326,528 1.686067,537 0.681825,548 3.10542,550 1.630826,561 1.956024,565 2.062627,571 3.398974,581 1.427748,584 1.601946,598 0.676594,617 1.807985,639 0.747889,648 2.144514,652 3.10542,662 2.144514,679 1.923778,680 1.151855,687 1.544943,722 1.58315,746 3.674265,752 1.509389,758 2.262928,772 2.950748,773 1.383014,777 0.970794,779 2.288438,788 2.34392,791 1.563428,795 2.189248,796 3.304826,799 2.189248,804 1.342804,814 2.864417,815 1.577224,823 2.144514,825 3.914232,832 2.708377,835 1.956024,860 0.995118,885 2.624967,894 1.923778,1000 crude}
+{9 0.098712,11 1.696804,14 1.262416,16 0.584037,84 3.304826,150 2.042468,188 2.543326,198 1.607722,203 0.709827,217 0.666248,284 1.892967,310 2.624967,316 1.946877,328 1.563428,342 1.492274,353 2.025396,360 1.989842,569 1.835171,572 1.58242,674 2.681984,675 2.404231,680 1.151855,692 3.153826,830 2.367215,1000 crude}
+{1 0.995118,3 1.101967,4 0.478492,9 0.166093,13 3.198477,14 1.772026,16 1.6396,20 0.977473,22 1.195014,32 1.407872,36 0.89012,44 0.747889,50 1.965341,68 1.492274,138 1.011821,139 0.587859,146 3.244078,148 4.90174,149 0.579492,162 2.470295,164 4.676826,184 1.58242,200 2.042468,203 0.709827,244 2.189248,245 1.708795,256 2.728245,265 3.612761,268 3.372134,269 2.672353,278 2.429864,280 1.276165,284 4.395333,289 1.513703,300 2.025396,318 2.025396,325 2.144514,335 2.144514,339 4.476525,346 2.637474,350 2.288438,355 2.543326,360 1.989842,374 2.062873,375 1.781826,392 3.049117,395 4.031076,399 2.062873,403 2.603668,415 2.543326,417 2.34392,420 3.398974,426 3.715025,445 2.237071,453 4.68784,460 1.863467,464 2.237071,467 2.855497,481 2.824373,489 3.715025,491 3.210177,496 2.288438,503 1.956024,504 1.923778,505 2.79935,515 1.475571,519 6.580215,533 1.340992,538 1.781826,541 1.172861,545 2.950748,546 1.327532,553 1.989842,556 2.237071,568 2.470295,575 2.312873,590 1.354718,598 1.571003,602 3.685027,605 4.957226,616 2.189248,630 1.563428,634 1.630826,639 1.185377,643 2.169372,680 1.825647,707 1.368722,708 1.708795,709 0.827368,722 0.681825,723 0.970794,728 2.312873,732 2.717524,734 1.461548,743 2.16595,751 2.672353,755 2.075311,761 0.888269,776 2.508076,777 0.970794,778 3.545673,803 1.526938,804 1.735549,805 0.828881,810 1.327532,815 0.995118,818 2.144514,824 1.622039,828 1.892967,841 1.642731,852 1.892967,856 1.875974,857 2.908677,858 2.312873,860 2.310592,864 2.977502,870 2.428924,871 2.238781,872 2.404231,875 5.056248,881 2.602745,894 1.923778,954 4.921974,1000 crude}
+{9 0.085026,11 0.730774,16 1.168074,22 0.514665,28 1.261173,44 1.495779,65 1.492274,67 1.544943,149 0.579492,150 1.288654,239 2.717524,265 1.397607,269 1.686067,278 1.046485,312 1.956024,547 2.025396,560 1.509389,598 0.676594,615 1.368722,617 1.807985,634 1.028936,639 0.747889,708 1.708795,743 1.082975,751 1.686067,777 0.970794,824 3.766258,837 1.443325,866 1.397607,867 1.314329,870 1.489288,1000 crude}
+{9 0.067381,11 0.730774,14 0.631208,28 1.261173,33 1.956024,53 2.470295,139 0.293929,158 1.443325,198 1.097441,211 4.286658,227 2.624967,235 1.686067,249 1.276165,262 0.932061,266 2.062873,500 2.34392,523 2.288438,528 1.686067,571 2.144514,577 2.42014,631 1.301373,635 1.664061,645 1.046485,671 1.835171,674 1.340992,722 1.58315,732 2.717524,768 2.824373,781 1.644645,798 3.715025,804 0.671402,815 0.995118,816 2.603668,853 1.807985,864 1.151855,882 3.100224,1000 crude}
+{4 0.956984,13 2.595588,14 1.262416,16 1.356092,22 1.029329,28 1.261173,36 0.89012,138 1.011821,203 0.447851,210 1.892967,217 0.666248,255 0.895378,289 0.95504,322 1.664061,327 2.144514,360 1.989842,410 1.781826,468 2.262928,469 2.784173,515 1.475571,598 0.676594,630 1.563428,634 1.028936,664 1.412514,671 2.908677,680 1.151855,734 0.730774,762 1.622039,814 1.020326,856 1.183608,860 2.310592,870 0.939636,893 1.835171,906 2.717524,1000 crude}
+{9 0.157316,11 0.730774,13 3.698269,16 1.6396,19 1.288654,22 1.444846,25 1.793332,28 1.261173,32 2.062496,36 1.304002,42 0.902561,44 0.747889,138 1.011821,139 0.293929,141 1.956024,149 0.579492,178 4.160474,179 2.287617,194 1.526938,200 1.288654,203 0.895702,255 0.895378,262 0.932061,268 1.686067,278 1.046485,280 1.276165,286 1.664061,300 3.210177,306 1.989842,319 1.781826,327 2.144514,346 2.637474,354 2.102492,359 2.717524,375 1.781826,408 2.624967,420 3.398974,428 2.470295,437 2.125422,467 1.427748,481 2.824373,483 2.470295,490 1.956024,495 2.062873,505 3.116468,541 1.858941,545 2.950748,546 1.327532,550 1.028936,579 1.427748,583 2.189248,587 2.543326,598 0.676594,600 1.509389,605 3.857472,612 1.664061,617 1.807985,624 6.55799,627 2.824373,630 2.477975,634 1.028936,721 2.824373,723 0.970794,728 1.459261,755 1.644645,761 0.888269,766 1.732294,793 5.231413,797 2.717524,801 2.125422,804 1.342804,805 0.828881,815 1.577224,819 1.923778,841 1.642731,860 2.793648,866 1.397607,869 1.301373,870 2.428924,881 1.301373,893 2.908677,895 2.062873,1000 crude}
+{3 1.101967,4 0.478492,7 1.162278,9 0.085026,13 3.927495,14 0.631208,16 1.851354,20 1.233434,21 1.011821,22 1.444846,24 1.111661,25 3.3944,32 3.072904,36 1.78024,50 1.239992,61 1.777525,70 1.956024,138 2.023642,139 0.881788,141 1.956024,143 1.732294,148 2.338724,149 1.738476,150 2.577308,162 2.470295,164 2.950748,188 2.543326,198 0.692408,203 0.447851,217 0.666248,222 2.708377,231 1.601946,247 1.807985,249 1.276165,255 1.41914,256 1.672816,262 1.477281,268 1.686067,278 2.092971,280 1.276165,281 1.875974,282 1.622039,283 2.192025,289 0.95504,303 2.237071,309 4.575233,325 2.144514,327 4.289027,340 1.526938,356 1.989842,360 1.989842,375 2.824127,392 1.923778,410 2.824127,419 3.469877,447 2.34392,452 2.025396,467 3.690676,474 1.544943,505 1.910853,519 2.34392,526 1.617178,541 1.172861,546 1.327532,550 1.630826,560 3.018779,569 3.670342,581 1.427748,590 2.147177,598 1.072376,600 1.509389,602 1.946877,630 1.563428,631 2.602745,634 1.028936,639 0.747889,642 1.183608,643 1.368722,645 1.046485,656 2.102492,660 1.781826,664 1.412514,671 1.835171,680 2.977502,697 1.544943,707 1.368722,709 1.921088,718 2.918521,722 1.080668,723 1.538672,734 1.158249,755 2.6823,758 1.427748,759 2.950748,761 1.407872,777 1.538672,778 3.545673,791 3.126856,793 1.863467,803 1.526938,804 1.884864,807 1.756618,815 1.577224,828 3.000281,837 2.287617,844 4.125746,854 3.210177,856 1.183608,858 1.459261,860 1.990235,864 1.825647,870 2.181768,871 1.412514,906 2.717524,919 3.10542,1000 crude}
+{4 0.758392,9 0.119349,13 3.855376,14 1.772026,16 2.223637,20 1.431972,21 1.011821,22 1.330389,25 2.924799,32 2.296141,36 0.89012,42 1.430525,49 1.397607,50 1.239992,139 0.825164,150 1.288654,179 3.730942,181 3.545673,194 1.526938,196 1.162278,198 1.097441,203 0.447851,204 2.470295,231 1.601946,233 2.470295,255 0.895378,268 2.672353,276 2.062873,278 1.046485,283 1.383014,289 0.95504,298 2.102492,309 3.351298,318 2.025396,324 2.824373,325 2.144514,327 3.398974,330 2.570871,332 1.781826,335 2.144514,341 2.237071,346 2.637474,349 1.622039,375 3.563652,398 2.543326,401 2.288438,410 2.824127,411 1.563428,428 2.470295,447 2.34392,467 3.690676,469 2.784173,472 2.189248,496 2.288438,503 1.956024,515 1.475571,526 2.040652,529 2.288438,537 0.681825,560 1.509389,563 1.475571,569 2.908677,572 1.58242,598 1.571003,600 1.509389,602 1.228342,612 1.664061,615 1.368722,627 2.824373,631 1.301373,634 1.630826,643 2.737443,645 1.046485,664 2.825028,671 2.908677,688 1.863467,709 1.311347,723 1.538672,734 0.730774,753 1.383014,755 2.075311,761 0.888269,763 1.509389,764 1.526938,771 1.807985,777 1.941588,781 1.037655,789 2.953525,791 1.563428,801 1.340992,802 1.563428,804 0.671402,805 0.522966,807 1.756618,819 1.923778,824 1.622039,830 1.183608,837 2.287617,856 2.367215,860 2.310592,864 2.30371,870 1.489288,871 1.412514,906 2.717524,955 2.824373,985 3.304826,992 2.824373,1000 crude}
+{4 0.758392,7 1.162278,9 0.067381,13 3.198477,14 1.000441,16 2.020437,20 0.977473,21 1.011821,22 0.514665,24 1.111661,25 2.262934,32 0.888269,36 0.561603,42 0.902561,139 0.881788,141 3.100224,148 1.475571,150 1.288654,163 2.543326,181 3.545673,184 1.58242,188 2.543326,198 1.097441,213 2.338724,217 0.666248,247 2.865589,249 2.963162,251 1.276165,268 3.914927,278 1.046485,282 1.622039,289 0.95504,298 2.102492,300 2.025396,309 2.287617,322 1.664061,324 5.648746,327 3.398974,340 1.526938,346 1.664061,356 1.989842,365 2.062873,390 2.288438,410 1.781826,437 1.340992,462 2.288438,467 2.855497,469 2.784173,526 2.864417,536 2.102492,560 2.392326,569 1.835171,570 1.459261,572 1.58242,581 1.427748,586 1.228342,598 1.353188,600 1.509389,602 1.946877,631 2.062627,642 1.183608,643 1.368722,645 1.046485,671 1.835171,680 1.151855,707 1.368722,709 2.966082,723 0.970794,752 1.509389,755 2.409361,761 0.888269,778 2.237071,781 1.037655,790 2.824373,804 1.064147,805 0.828881,806 3.304826,815 0.995118,828 1.892967,850 2.34392,853 1.807985,856 1.183608,860 1.577224,864 3.233666,865 2.144514,868 1.492274,870 1.879272,893 2.908677,1000 crude}
+{1 0.995118,4 0.478492,9 0.067381,13 2.146779,14 0.631208,16 1.752112,20 0.977473,22 0.514665,25 1.131467,28 1.261173,65 1.492274,139 0.293929,141 1.956024,179 1.443325,196 1.162278,203 0.447851,238 1.835171,255 0.895378,268 1.686067,306 1.989842,327 2.144514,360 1.989842,375 1.781826,391 4.921974,411 1.563428,427 2.237071,435 2.189248,467 1.427748,489 2.34392,491 3.210177,505 1.205614,526 1.020326,533 1.340992,536 2.102492,546 1.327532,560 1.509389,561 1.956024,598 0.676594,600 1.509389,621 2.624967,645 1.046485,664 1.412514,671 1.835171,680 1.151855,689 1.492274,709 1.654735,719 1.863467,734 0.730774,794 1.443325,804 1.064147,820 2.404231,858 1.459261,859 1.622039,860 1.990235,864 1.825647,870 0.939636,881 1.301373,1000 crude}
+{4 0.478492,9 0.042513,13 1.849134,14 1.000441,16 1.168074,25 1.131467,28 0.795712,65 2.365198,135 2.34392,139 0.465867,158 1.443325,217 1.055979,245 1.708795,251 1.276165,265 1.397607,309 1.443325,375 2.824127,403 2.603668,410 1.781826,416 2.717524,426 2.34392,491 2.025396,526 1.020326,556 2.237071,577 1.526938,643 1.368722,645 1.046485,778 2.237071,802 1.563428,826 1.509389,846 2.062873,856 1.183608,864 1.151855,870 1.489288,883 1.368722,1000 crude}
+{4 0.758392,9 0.067381,13 2.773702,14 0.631208,16 1.851354,19 1.288654,22 0.514665,25 1.793332,28 0.795712,36 0.89012,50 1.239992,68 1.492274,139 0.682483,149 0.579492,179 1.443325,203 0.709827,231 2.539025,255 0.895378,262 0.932061,278 1.65864,289 1.513703,296 2.404231,300 2.025396,311 2.470295,318 2.025396,360 1.989842,389 3.545673,392 3.049117,410 2.824127,460 1.863467,467 1.427748,505 1.910853,537 1.080668,541 1.172861,550 1.630826,616 2.189248,639 1.185377,643 2.169372,645 1.046485,680 1.151855,688 1.863467,719 1.863467,734 0.730774,751 2.672353,752 1.509389,762 1.622039,773 2.192025,777 0.970794,804 1.064147,818 2.144514,856 1.183608,860 1.577224,864 1.825647,870 2.181768,955 2.824373,1000 crude}
+{4 0.758392,9 0.098712,14 1.262416,36 1.304002,376 2.404231,448 2.144514,541 1.172861,631 1.301373,632 1.732294,674 1.340992,686 1.892967,722 1.080668,746 3.164839,761 0.888269,764 3.053877,805 0.828881,814 1.020326,825 2.924799,1000 crude}
+{9 0.042513,11 1.158249,14 0.631208,22 0.514665,36 0.561603,146 1.622039,150 1.288654,203 0.447851,231 1.601946,252 1.544943,296 2.404231,323 2.189248,335 2.144514,499 2.470295,525 1.340992,565 1.301373,615 1.368722,636 2.717524,686 3.000281,708 2.708377,758 1.427748,805 0.522966,807 1.756618,867 1.314329,880 2.144514,1000 crude}
+{9 0.042513,11 0.730774,14 0.631208,21 1.011821,23 2.189248,36 0.89012,42 0.902561,44 1.185377,50 1.239992,150 1.288654,203 0.447851,262 0.932061,268 1.686067,281 1.183608,316 1.228342,400 4.125746,409 2.237071,452 2.025396,474 1.544943,550 1.028936,599 1.892967,639 0.747889,643 1.368722,686 4.395333,716 2.543326,825 1.131467,1000 crude}
+{2 2.602745,5 2.603668,6 2.062627,9 0.067381,17 3.99362,18 3.726933,19 2.992162,22 0.514665,26 3.630168,38 1.842168,42 0.902561,44 0.747889,45 2.977502,48 3.912047,49 1.397607,50 1.965341,60 2.470295,63 2.237071,139 0.587859,144 1.892967,149 1.345539,155 2.237071,158 1.443325,176 2.637474,185 3.210177,186 8.719951,203 0.709827,204 2.470295,217 1.055979,223 2.042468,241 2.950748,255 2.513643,256 1.672816,281 1.183608,289 0.95504,290 1.732294,294 2.189248,300 2.025396,316 1.228342,319 1.781826,320 6.309895,322 1.664061,341 2.237071,342 1.492274,355 2.543326,386 7.8749,387 9.74222,402 2.288438,418 2.824373,424 5.901497,431 5.313589,437 1.340992,454 2.624967,455 2.543326,456 2.144514,468 1.427748,469 1.756618,473 1.892967,474 1.544943,483 2.470295,486 2.404231,487 2.189248,490 1.956024,525 1.340992,526 1.020326,563 2.338724,598 1.353188,615 2.737443,634 1.028936,635 1.664061,644 2.404231,645 1.046485,647 2.288438,664 2.238781,680 1.825647,688 1.863467,689 1.492274,690 2.624967,700 1.397607,703 1.863467,705 1.892967,707 1.368722,718 1.459261,722 0.681825,728 1.459261,734 1.461548,743 1.716475,749 2.404231,762 2.570871,773 2.192025,784 1.492274,792 3.000281,794 1.443325,802 1.563428,804 0.671402,805 1.045932,824 1.622039,826 3.018779,830 1.183608,841 1.642731,860 0.995118,862 2.508076,864 1.151855,881 1.301373,883 2.737443,886 2.189248,902 2.824373,955 2.824373,1000 crude}
+{9 0.042513,11 0.730774,28 0.795712,36 0.561603,44 1.495779,45 2.30371,139 0.293929,203 0.447851,217 1.055979,235 1.686067,255 0.895378,303 3.545673,316 1.946877,319 1.781826,325 2.144514,328 2.477975,329 2.543326,374 2.062873,523 3.627089,541 1.172861,548 3.10542,549 2.237071,604 1.781826,642 1.183608,681 2.144514,703 1.863467,718 1.459261,722 1.080668,734 0.730774,781 1.037655,814 1.020326,825 1.131467,866 1.397607,879 2.288438,892 2.025396,914 2.717524,1000 crude}
+{9 0.085026,14 1.46562,16 0.584037,24 2.223323,31 3.210177,36 1.123207,42 1.430525,45 1.151855,49 1.397607,89 6.309895,107 1.989842,139 0.587859,149 0.579492,171 1.835171,181 2.237071,198 0.692408,203 0.709827,222 2.708377,233 2.470295,238 1.835171,251 1.276165,278 1.046485,289 0.95504,300 2.025396,307 5.435047,327 2.144514,330 4.19291,331 2.470295,332 1.781826,354 2.102492,388 2.824373,393 1.58242,434 4.605953,441 2.470295,452 2.025396,456 2.144514,459 2.404231,476 3.398974,495 2.062873,511 1.544943,526 1.020326,528 1.686067,544 1.686067,551 5.442413,565 1.301373,568 2.470295,570 2.312873,577 1.526938,590 1.354718,612 1.664061,645 1.046485,674 1.340992,680 1.825647,688 1.863467,689 1.492274,704 2.404231,722 0.681825,743 1.082975,766 1.732294,777 0.970794,780 1.459261,781 1.037655,830 1.183608,864 1.151855,869 1.301373,870 0.939636,874 2.603668,876 2.717524,881 1.301373,883 1.368722,957 2.624967,1000 crude}
+{0 1.622039,4 0.478492,9 0.067381,11 1.889023,14 1.000441,20 0.616717,28 0.795712,32 0.888269,36 1.123207,44 0.747889,49 1.397607,51 2.543326,67 2.448677,203 1.157678,217 1.055979,281 1.183608,319 1.781826,337 2.824373,344 2.404231,349 2.570871,385 2.404231,409 2.237071,412 7.673568,419 2.189248,423 2.470295,434 1.781826,452 2.025396,459 2.404231,521 2.102492,525 1.340992,528 1.686067,537 0.681825,539 1.923778,542 2.950748,570 1.459261,632 1.732294,675 2.404231,685 2.543326,697 1.544943,700 1.397607,702 2.144514,703 1.863467,710 2.189248,723 0.970794,734 0.730774,753 3.211258,771 1.807985,804 0.671402,837 1.443325,857 1.835171,869 1.301373,875 1.956024,1000 crude}
+{4 0.758392,9 0.042513,11 0.730774,14 1.000441,20 0.616717,65 1.492274,139 0.293929,196 1.162278,217 0.666248,309 1.443325,419 2.189248,447 3.715025,457 3.810617,461 2.717524,480 3.915326,537 0.681825,556 2.237071,584 2.539025,598 0.676594,710 2.189248,792 1.892967,807 1.756618,874 2.603668,875 1.956024,1000 crude}
+{1 1.577224,9 0.109894,14 0.631208,20 0.977473,22 0.815724,36 0.89012,44 1.185377,149 0.579492,153 1.664061,203 0.895702,217 0.666248,232 3.469877,255 0.895378,278 1.046485,280 1.276165,337 2.824373,365 2.062873,419 2.189248,434 1.781826,473 3.785934,492 2.404231,497 2.144514,504 1.923778,512 1.397607,515 1.475571,530 3.627089,560 1.509389,570 1.459261,586 1.228342,619 3.469877,632 1.732294,634 1.028936,639 1.185377,647 2.288438,710 2.189248,753 1.383014,780 2.918521,804 0.671402,810 1.327532,819 1.923778,825 1.131467,830 1.183608,851 5.238025,861 3.304826,868 1.492274,870 0.939636,875 4.541746,942 3.304826,1000 crude}
+{1 0.995118,4 1.343297,9 0.067381,11 1.889023,14 2.096828,16 1.168074,20 0.977473,22 1.330389,36 1.865606,65 3.464952,139 0.293929,140 2.950748,146 2.570871,198 2.194881,203 0.447851,217 1.055979,222 1.708795,240 5.648746,251 1.276165,252 1.544943,259 2.908677,309 1.443325,316 1.228342,328 1.563428,335 2.144514,342 1.492274,354 2.102492,357 2.470295,361 2.404231,376 4.808463,380 1.459261,389 2.237071,438 2.34392,439 2.824373,448 4.289027,455 4.031076,466 3.615971,473 1.892967,511 3.587247,512 1.397607,536 2.102492,537 1.762493,538 1.781826,541 1.858941,550 1.630826,565 1.301373,572 2.508076,581 1.427748,604 2.824127,634 1.028936,639 1.185377,648 2.144514,656 2.102492,674 2.125422,679 1.923778,680 1.151855,685 2.543326,692 1.989842,696 2.237071,700 2.215154,708 2.708377,722 1.363651,723 0.970794,724 2.34392,746 2.508076,750 2.189248,761 1.407872,764 2.42014,776 1.58242,794 1.443325,795 2.189248,805 0.522966,810 1.327532,814 1.020326,825 2.627185,830 1.183608,856 1.183608,872 2.404231,895 2.062873,1000 crude}
+{1 0.995118,4 1.111024,9 0.119349,11 2.427578,14 0.631208,22 1.845053,23 2.189248,28 0.795712,32 1.407872,36 1.68481,38 1.162278,65 2.365198,139 0.293929,150 2.042468,203 0.895702,217 0.666248,223 2.577308,243 3.715025,247 1.807985,262 1.477281,278 1.046485,279 2.470295,282 1.622039,283 1.383014,289 0.95504,297 2.470295,316 1.228342,321 2.624967,328 3.126856,340 1.526938,342 2.365198,371 2.470295,380 5.964673,384 8.542851,399 2.062873,403 1.642731,405 7.43005,448 2.144514,476 2.144514,478 5.648746,496 2.288438,508 1.732294,525 1.340992,530 2.288438,547 3.210177,550 1.028936,582 2.824373,584 3.719604,590 3.145558,596 2.237071,598 0.676594,599 1.892967,632 1.732294,634 1.028936,679 1.923778,686 4.395333,687 1.544943,692 1.989842,693 2.062873,700 1.397607,709 0.827368,722 1.080668,723 0.970794,724 2.34392,728 1.459261,764 3.053877,781 1.037655,789 1.863467,790 2.824373,794 1.443325,795 2.189248,803 1.526938,804 1.064147,805 0.522966,810 1.327532,818 2.144514,826 2.392326,846 2.062873,892 2.025396,1000 crude}
+{6 1.301373,9 0.085026,11 1.461548,139 0.759796,149 0.579492,179 1.443325,203 0.447851,223 2.042468,249 3.298838,262 0.932061,263 2.144514,273 2.34392,397 3.545673,431 2.288438,515 1.475571,586 1.228342,635 1.664061,639 0.747889,645 1.046485,680 1.151855,707 1.368722,734 0.730774,751 1.686067,760 4.576877,773 1.383014,805 0.522966,815 1.577224,850 2.34392,860 0.995118,866 1.397607,867 2.083162,888 2.237071,1000 crude}
+{4 0.478492,9 0.098712,11 0.730774,14 0.631208,20 0.616717,22 0.514665,24 1.111661,31 2.025396,32 2.062496,36 0.89012,42 0.902561,65 1.492274,67 3.587247,148 5.289865,149 0.579492,153 1.664061,185 4.050792,203 0.709827,213 2.951141,217 0.666248,222 1.708795,255 0.895378,262 0.932061,265 1.397607,285 1.756618,288 2.543326,309 1.443325,319 1.781826,351 5.901497,354 2.102492,392 1.923778,397 7.091346,411 2.477975,418 6.55799,419 3.469877,434 4.605953,450 2.543326,459 5.582453,468 2.262928,476 2.144514,485 2.543326,495 3.269576,531 1.756618,537 0.681825,602 1.946877,634 1.630826,684 2.288438,703 1.863467,708 1.708795,709 0.827368,761 0.888269,762 1.622039,776 1.58242,789 1.863467,804 0.671402,805 0.522966,812 2.237071,854 2.025396,868 1.492274,883 1.368722,890 1.732294,893 1.835171,1000 crude}
+{4 0.758392,9 0.042513,11 1.158249,14 0.631208,21 1.011821,24 1.111661,36 1.451723,49 1.397607,146 2.570871,217 1.055979,223 2.042468,251 1.276165,397 3.545673,420 2.144514,448 3.398974,598 0.676594,722 0.681825,801 1.340992,832 2.708377,868 1.492274,987 2.543326,1000 crude}
+{6 2.602745,9 0.085026,15 1.58242,139 0.465867,217 0.666248,223 1.288654,256 1.055429,289 0.95504,347 3.100224,427 2.237071,462 2.288438,473 1.892967,474 2.448677,689 1.492274,753 1.383014,759 2.950748,779 3.627089,803 1.526938,818 3.398974,857 2.908677,1000 crude}
+{4 0.478492,9 0.141225,14 1.893625,16 1.356092,50 1.965341,61 1.121493,139 0.293929,149 0.579492,194 1.526938,196 1.162278,200 1.288654,203 0.709827,254 1.756618,255 0.895378,278 1.046485,340 1.526938,345 2.717524,353 2.025396,392 1.923778,403 2.603668,437 1.340992,467 1.427748,511 1.544943,512 1.397607,526 1.020326,537 0.681825,541 1.858941,550 2.057873,567 2.189248,598 1.072376,612 1.664061,630 1.563428,634 1.630826,700 2.795214,703 1.863467,705 1.892967,761 0.888269,812 2.237071,815 1.577224,895 2.062873,1000 crude}
+{4 0.478492,9 0.098712,11 1.158249,20 0.977473,22 0.514665,32 0.888269,141 1.956024,171 1.835171,203 0.447851,256 1.055429,361 3.810617,370 2.237071,411 1.563428,462 2.288438,474 1.544943,515 1.475571,537 0.681825,550 1.028936,598 0.676594,681 2.144514,700 2.215154,753 2.766027,802 1.563428,1000 crude}
+{8 3.674265,9 0.098712,20 0.616717,21 1.011821,22 0.815724,28 0.795712,33 1.956024,44 0.747889,61 1.777525,138 1.011821,142 1.989842,200 2.042468,211 1.526938,217 0.666248,229 1.863467,233 2.470295,235 2.672353,282 1.622039,283 1.383014,466 1.807985,501 2.824373,509 1.642731,512 1.397607,579 1.427748,581 1.427748,599 1.892967,623 3.203893,635 1.664061,664 1.412514,702 2.144514,723 1.941588,743 1.082975,746 1.58242,748 2.237071,761 0.888269,764 1.526938,772 5.901497,777 1.538672,793 1.863467,794 1.443325,804 1.064147,805 0.522966,814 1.020326,825 1.131467,830 1.875974,862 1.58242,867 1.314329,1000 crude}
+{0 2.570871,4 0.478492,9 0.067381,20 1.59419,22 1.029329,25 1.131467,28 1.261173,32 3.381953,36 2.728258,44 1.185377,61 1.777525,65 1.492274,138 2.023642,139 0.759796,144 1.892967,149 0.918473,171 2.908677,184 2.508076,196 1.842168,198 2.194881,201 4.476525,213 1.475571,225 2.824373,248 2.543326,282 1.622039,505 3.821707,509 1.642731,512 2.215154,521 3.332371,537 1.080668,547 2.025396,558 2.543326,572 1.58242,578 6.785441,579 2.262928,586 1.228342,590 2.147177,620 6.094984,623 1.601946,642 2.748252,645 1.046485,719 3.726933,722 2.663817,753 2.192025,761 0.888269,765 3.715025,813 1.835171,832 2.708377,845 3.915326,862 1.58242,869 1.301373,1000 crude}
+{0 1.622039,4 0.478492,9 0.067381,20 1.233434,22 0.815724,28 1.261173,32 2.664806,36 2.194123,42 0.902561,44 1.185377,61 1.121493,138 2.023642,139 0.587859,144 1.892967,149 0.579492,171 1.835171,184 1.58242,196 1.162278,198 1.789849,201 2.824373,203 0.447851,213 1.475571,225 2.824373,248 2.543326,281 1.183608,282 1.622039,309 1.443325,505 2.79935,509 1.642731,512 1.397607,521 2.102492,536 2.102492,537 0.681825,547 2.025396,558 2.543326,569 1.835171,578 6.094984,579 2.262928,586 1.228342,590 1.354718,619 3.469877,620 4.160474,623 1.601946,642 2.748252,681 3.398974,719 2.953525,722 2.045476,753 1.383014,761 0.888269,765 2.34392,813 1.835171,832 1.708795,845 2.470295,862 1.58242,869 1.301373,874 1.642731,1000 crude}
+{0 1.622039,4 0.478492,9 0.067381,20 1.233434,22 0.815724,28 1.261173,32 2.664806,36 2.194123,42 0.902561,44 1.185377,61 1.121493,138 2.023642,139 0.587859,144 1.892967,149 0.579492,171 1.835171,184 1.58242,196 1.162278,198 1.789849,201 2.824373,203 0.447851,213 1.475571,225 2.824373,248 2.543326,282 1.622039,505 2.79935,509 1.642731,512 1.397607,521 2.102492,536 2.102492,537 0.681825,547 2.025396,558 2.543326,569 1.835171,578 6.094984,579 2.262928,586 1.228342,590 1.354718,619 3.469877,620 4.160474,623 1.601946,642 2.748252,681 3.398974,719 2.953525,722 2.045476,753 1.383014,761 0.888269,765 2.34392,813 1.835171,832 1.708795,845 2.470295,862 1.58242,869 2.062627,874 1.642731,1000 crude}
+{9 0.067381,38 1.162278,50 1.239992,61 1.777525,70 1.956024,138 1.011821,197 2.189248,203 0.447851,223 1.288654,227 2.624967,235 1.686067,289 0.95504,379 2.824373,577 1.526938,704 2.404231,717 3.304826,743 2.16595,761 1.776537,777 0.970794,805 0.522966,810 1.327532,811 2.824373,816 1.642731,871 2.238781,946 2.824373,1000 crude}
+{4 0.478492,9 0.098712,11 1.158249,14 0.631208,20 0.616717,32 0.888269,36 0.89012,67 1.544943,141 1.956024,146 1.622039,148 3.814295,176 1.664061,185 3.210177,203 0.709827,249 2.022673,309 1.443325,351 4.676826,397 4.474141,411 1.563428,418 2.824373,434 2.824127,459 3.810617,495 2.062873,505 1.205614,602 1.228342,643 1.368722,805 0.522966,812 2.237071,854 2.025396,867 1.314329,869 1.301373,883 1.368722,890 1.732294,893 1.835171,1000 crude}
+{4 0.478492,9 0.109894,13 1.465404,16 1.509714,25 1.131467,68 1.492274,139 0.293929,148 3.426169,181 2.237071,203 0.447851,251 1.276165,268 1.686067,343 2.404231,370 2.237071,375 1.781826,390 2.288438,410 1.781826,467 2.262928,520 2.144514,546 1.327532,602 2.456685,631 2.062627,642 1.875974,643 1.368722,678 1.708795,709 0.827368,722 0.681825,734 0.730774,773 1.383014,868 1.492274,870 1.489288,1000 crude}
+{4 0.956984,7 2.324557,9 0.141225,13 2.595588,14 1.46562,16 2.020437,19 1.288654,21 1.011821,22 0.815724,25 1.131467,32 1.407872,36 1.123207,68 1.492274,139 0.682483,148 3.814295,149 0.579492,162 2.470295,179 2.287617,181 3.545673,194 1.526938,198 0.692408,203 0.447851,217 0.666248,251 1.276165,268 1.686067,269 1.686067,282 1.622039,289 0.95504,290 1.732294,298 3.332371,300 2.025396,330 1.622039,343 2.404231,370 2.237071,375 1.781826,390 4.576877,410 2.824127,460 1.863467,467 2.262928,483 2.470295,495 2.062873,537 0.681825,541 1.172861,547 2.025396,563 1.475571,574 2.717524,586 1.228342,590 1.354718,598 1.353188,602 3.175219,605 1.492274,630 2.477975,631 3.364,639 0.747889,642 1.875974,643 1.368722,645 2.092971,678 1.708795,680 1.151855,700 1.397607,709 0.827368,722 0.681825,734 1.461548,755 2.075311,773 1.383014,777 0.970794,778 2.237071,781 1.644645,791 1.563428,837 1.443325,853 1.807985,860 0.995118,864 1.151855,868 1.492274,870 3.250607,883 1.368722,895 2.062873,1000 crude}
+{3 1.101967,4 0.758392,9 0.109894,13 2.389972,14 1.262416,16 1.509714,17 2.448677,25 2.262934,32 1.407872,36 0.89012,42 0.902561,50 1.239992,138 1.011821,139 0.587859,148 3.814295,155 2.237071,156 3.304826,163 2.543326,181 2.237071,203 0.447851,217 1.332497,256 1.055429,278 1.046485,289 0.95504,308 6.094984,314 2.34392,325 2.144514,336 2.824373,349 1.622039,352 4.160474,398 4.031076,401 4.576877,410 1.781826,417 2.34392,445 2.237071,449 2.470295,450 2.543326,465 2.624967,467 2.262928,468 1.427748,469 1.756618,515 1.475571,526 1.617178,537 0.681825,586 1.228342,602 3.175219,635 1.664061,639 0.747889,642 1.183608,643 1.368722,645 1.046485,646 2.237071,662 3.398974,664 1.412514,672 2.470295,697 3.089886,718 1.459261,743 1.082975,752 1.509389,755 1.644645,778 2.237071,791 2.477975,801 2.125422,804 0.671402,805 0.828881,837 2.287617,856 1.183608,864 1.151855,866 1.397607,867 1.314329,871 1.412514,955 2.824373,959 2.624967,1000 crude}
+{4 0.478492,9 0.098712,11 1.158249,13 1.465404,14 0.631208,16 1.509714,20 0.616717,25 1.131467,31 3.210177,38 1.162278,42 0.902561,45 2.674524,50 1.239992,67 2.448677,68 1.492274,89 7.024697,139 0.465867,144 1.892967,148 4.90174,179 1.443325,196 1.842168,198 1.384816,200 1.288654,203 0.709827,236 2.950748,244 2.189248,245 3.417591,252 1.544943,254 1.756618,265 2.215154,278 2.705125,280 1.276165,283 1.383014,284 1.892967,286 1.664061,289 0.95504,290 1.732294,306 3.153826,310 2.624967,314 2.34392,322 1.664061,328 1.563428,340 1.526938,345 2.717524,346 1.664061,347 3.100224,355 2.543326,364 4.307173,394 2.717524,400 3.269576,401 2.288438,414 8.542851,427 2.237071,434 3.563652,437 1.340992,449 2.470295,467 1.427748,470 2.624967,472 2.189248,476 4.979407,490 1.956024,496 2.288438,506 2.543326,513 2.470295,523 2.288438,530 2.288438,533 1.340992,537 0.681825,546 2.104089,550 1.028936,553 1.989842,560 3.018779,563 1.475571,565 1.301373,569 1.835171,570 3.388298,572 1.58242,575 2.918521,577 1.526938,584 1.601946,598 1.353188,602 3.448393,612 1.664061,615 1.368722,621 2.624967,630 1.563428,631 2.062627,639 1.185377,644 3.810617,645 1.65864,646 2.237071,647 2.288438,664 3.279755,670 1.863467,672 2.470295,674 2.681984,678 2.708377,685 2.543326,692 3.979685,696 3.545673,705 3.000281,709 0.827368,719 1.863467,722 1.080668,723 1.538672,727 3.585873,734 1.158249,752 1.509389,759 2.950748,761 1.407872,764 1.526938,781 1.037655,793 4.326836,801 1.340992,802 1.563428,803 1.526938,804 2.014206,805 1.351847,815 2.793648,826 1.509389,830 1.875974,856 1.183608,858 1.459261,860 0.995118,862 1.58242,866 2.215154,869 1.301373,881 1.301373,882 3.912047,884 3.810617,886 2.189248,888 2.237071,894 3.049117,957 4.160474,1000 crude}
+{1 1.990235,4 0.956984,9 0.109894,13 2.389972,14 1.262416,16 1.509714,20 1.59419,22 1.195014,24 3.120828,25 2.262934,32 2.815745,36 1.865606,42 2.333086,44 0.747889,65 3.464952,68 1.492274,138 2.615519,139 0.293929,146 1.622039,148 4.426712,161 3.10542,176 1.664061,178 2.624967,179 1.443325,195 3.304826,196 1.162278,203 0.447851,212 3.585873,232 2.189248,244 2.189248,251 1.276165,268 2.672353,274 2.062873,278 1.046485,279 2.470295,280 3.582647,290 1.732294,305 2.288438,309 2.886651,343 2.404231,371 2.470295,389 2.237071,419 2.189248,420 2.144514,430 2.950748,437 1.340992,444 2.404231,447 3.715025,467 2.262928,479 2.717524,505 1.205614,511 1.544943,525 2.681984,526 1.020326,533 1.340992,537 0.681825,546 1.327532,550 1.028936,569 1.835171,572 3.164839,598 0.676594,599 1.892967,602 2.852123,612 1.664061,631 1.301373,670 1.863467,680 1.825647,709 1.921088,718 1.459261,723 0.970794,724 2.34392,734 0.730774,736 3.715025,751 1.686067,753 2.192025,755 1.037655,785 3.304826,789 1.863467,803 1.526938,804 0.671402,805 0.522966,810 1.327532,826 1.509389,837 1.443325,853 1.807985,854 3.210177,856 1.875974,868 1.492274,870 0.939636,874 3.814304,1000 crude}
+{4 1.111024,7 1.162278,9 0.141225,13 4.123044,14 1.772026,16 2.020437,20 0.616717,22 1.709679,24 1.111661,25 2.262934,32 2.815745,36 1.78024,44 0.747889,65 1.492274,68 1.492274,138 1.011821,139 0.825164,141 1.956024,146 1.622039,148 4.90174,149 1.345539,150 1.288654,179 2.287617,181 4.474141,198 1.097441,203 1.039878,204 2.470295,217 1.332497,232 2.189248,243 2.34392,252 3.089886,262 1.864122,269 1.686067,278 1.65864,281 1.875974,289 0.95504,308 2.624967,309 2.287617,314 2.34392,333 2.624967,336 2.824373,343 2.404231,352 2.624967,368 2.543326,371 2.470295,375 1.781826,398 2.543326,410 1.781826,411 2.477975,428 2.470295,437 1.340992,441 3.915326,445 2.237071,449 2.470295,450 2.543326,465 2.624967,466 1.807985,467 3.315129,469 1.756618,491 3.210177,494 2.34392,495 3.269576,496 2.288438,505 2.411228,526 1.617178,533 2.681984,537 0.681825,541 1.172861,546 1.327532,560 1.509389,579 1.427748,581 1.427748,590 1.354718,602 4.080465,605 1.492274,606 1.601946,642 1.183608,643 2.169372,645 2.092971,662 2.144514,678 1.708795,680 1.151855,697 1.544943,704 2.404231,722 0.681825,734 0.730774,736 2.34392,752 1.509389,755 1.644645,791 3.126856,794 1.443325,804 1.064147,810 1.327532,819 1.923778,823 2.144514,826 1.509389,856 1.875974,860 0.995118,862 2.508076,864 2.977502,869 1.301373,870 1.879272,893 1.835171,986 2.824373,1000 crude}
+{4 1.111024,7 1.162278,9 0.141225,13 4.123044,14 1.772026,16 2.020437,20 0.616717,22 1.709679,24 1.111661,25 2.262934,32 2.815745,36 1.78024,44 0.747889,65 1.492274,68 1.492274,138 1.011821,139 0.825164,141 1.956024,146 1.622039,148 4.90174,149 1.345539,150 1.288654,179 2.287617,181 4.474141,198 1.097441,203 1.039878,204 2.470295,217 1.332497,232 2.189248,243 2.34392,252 3.089886,262 1.864122,269 1.686067,278 1.65864,281 1.875974,289 0.95504,308 2.624967,309 2.287617,314 2.34392,333 2.624967,336 2.824373,343 2.404231,352 2.624967,368 2.543326,371 2.470295,375 1.781826,398 2.543326,410 1.781826,411 2.477975,428 2.470295,437 1.340992,441 3.915326,445 2.237071,449 2.470295,450 2.543326,465 2.624967,466 1.807985,467 3.315129,469 1.756618,491 3.210177,494 2.34392,495 3.269576,496 2.288438,505 2.411228,526 1.617178,533 2.681984,537 0.681825,541 1.172861,546 1.327532,560 1.509389,579 1.427748,581 1.427748,590 1.354718,602 4.080465,605 1.492274,606 1.601946,642 1.183608,643 2.169372,645 2.092971,662 2.144514,678 1.708795,680 1.151855,697 1.544943,704 2.404231,722 0.681825,734 0.730774,736 2.34392,752 1.509389,755 1.644645,791 3.126856,794 1.443325,804 1.064147,810 1.327532,819 1.923778,823 2.144514,826 1.509389,856 1.875974,860 0.995118,862 2.508076,864 2.977502,869 1.301373,870 1.879272,893 1.835171,986 2.824373,1000 crude}
+{1 0.995118,4 0.758392,7 1.162278,9 0.152407,11 0.730774,13 2.595588,14 1.000441,15 1.58242,16 1.509714,20 0.616717,22 1.195014,24 1.111661,25 2.262934,32 2.296141,36 1.451723,42 0.902561,51 2.543326,65 2.984548,68 1.492274,138 1.011821,139 0.682483,148 4.677448,176 1.664061,198 0.692408,231 1.601946,232 2.189248,245 1.708795,252 1.544943,262 0.932061,268 1.686067,280 3.298838,283 1.383014,305 2.288438,308 2.624967,309 2.287617,314 2.34392,324 2.824373,340 1.526938,356 1.989842,365 2.062873,392 1.923778,420 4.289027,430 2.950748,467 2.262928,468 1.427748,479 2.717524,497 2.144514,528 1.686067,537 1.363651,550 1.028936,560 2.392326,581 1.427748,586 1.946877,598 0.676594,602 3.448393,620 4.160474,639 0.747889,642 1.183608,643 1.368722,670 1.863467,678 1.708795,706 2.624967,709 1.311347,723 0.970794,724 2.34392,736 2.34392,743 1.082975,755 1.644645,789 1.863467,803 1.526938,804 1.064147,805 0.522966,810 1.327532,815 0.995118,818 2.144514,841 1.642731,853 2.865589,854 4.050792,856 2.748252,864 1.151855,866 1.397607,868 1.492274,869 2.062627,870 0.939636,881 1.301373,1000 crude}
+{1 0.995118,7 1.162278,9 0.085026,13 1.465404,16 0.925677,38 1.162278,139 0.293929,148 1.475571,149 1.345539,159 2.543326,176 3.863829,203 0.447851,244 2.189248,265 1.397607,266 2.062873,268 1.686067,269 1.686067,280 1.276165,281 1.183608,286 1.664061,289 0.95504,300 2.025396,318 2.025396,354 2.102492,515 1.475571,520 2.144514,538 1.781826,541 1.172861,556 2.237071,598 0.676594,602 1.228342,639 0.747889,709 0.827368,722 1.080668,755 2.075311,781 1.037655,789 1.863467,791 1.563428,801 1.340992,805 0.522966,815 0.995118,856 1.183608,860 0.995118,870 1.489288,957 2.624967,1000 crude}
+{4 1.589517,9 0.127539,13 2.389972,14 1.772026,16 1.752112,20 0.616717,22 1.330389,24 1.111661,25 1.131467,36 1.304002,44 0.747889,50 1.239992,70 1.956024,107 1.989842,138 1.603698,148 3.426169,198 0.692408,203 0.709827,208 2.950748,213 1.475571,216 3.10542,238 1.835171,251 1.276165,254 1.756618,256 1.055429,278 1.65864,283 1.383014,319 1.781826,335 2.144514,340 1.526938,346 2.637474,392 1.923778,403 2.603668,449 2.470295,505 2.79935,526 1.020326,537 1.58315,538 1.781826,550 1.028936,572 1.58242,598 1.072376,600 1.509389,602 1.946877,616 3.469877,630 2.477975,639 0.747889,664 1.412514,709 0.827368,722 0.681825,743 1.082975,746 1.58242,755 1.644645,761 0.888269,762 1.622039,765 3.715025,776 1.58242,778 2.237071,814 1.020326,815 0.995118,825 1.131467,832 2.708377,837 1.443325,856 1.875974,864 1.825647,870 1.489288,871 1.412514,892 2.025396,1000 crude}
+{4 0.758392,6 1.301373,9 0.085026,11 0.730774,14 0.631208,20 0.616717,36 0.89012,67 1.544943,139 0.293929,141 1.956024,148 4.677448,176 1.664061,185 3.210177,203 0.709827,249 2.022673,309 1.443325,351 5.901497,392 1.923778,397 5.194317,411 1.563428,418 2.824373,434 3.563652,437 1.340992,459 4.808463,495 2.062873,505 1.205614,511 1.544943,537 0.681825,602 1.946877,709 0.827368,718 1.459261,791 1.563428,805 0.522966,867 1.314329,869 1.301373,883 2.169372,890 1.732294,893 1.835171,1000 crude}
+{4 0.478492,9 0.067381,14 1.46562,28 0.795712,29 4.979407,53 2.470295,61 2.899018,138 1.011821,188 2.543326,198 1.097441,203 0.709827,211 3.947078,247 2.865589,273 2.34392,349 1.622039,468 1.427748,478 2.824373,506 2.543326,512 2.215154,531 1.756618,546 1.327532,550 1.028936,554 2.950748,564 4.031076,565 2.062627,567 3.469877,570 1.459261,598 0.676594,615 2.169372,639 0.747889,648 2.144514,671 4.261135,674 2.681984,675 2.404231,692 6.610113,702 3.398974,705 3.000281,707 1.368722,722 1.080668,723 0.970794,733 2.717524,752 1.509389,758 2.855497,781 1.644645,794 3.351298,804 0.671402,805 0.522966,810 3.082435,816 2.603668,818 2.144514,832 1.708795,1000 crude}
+{4 0.478492,9 0.098712,14 0.631208,16 0.584037,22 0.514665,28 0.795712,29 2.144514,34 2.624967,61 1.777525,107 1.989842,138 1.011821,139 0.293929,203 0.447851,211 1.526938,249 1.276165,350 2.288438,511 1.544943,512 1.397607,529 2.288438,538 1.781826,542 2.950748,565 1.301373,567 5.083277,575 2.312873,615 1.368722,618 2.470295,623 1.601946,752 1.509389,758 2.262928,761 1.776537,855 2.34392,868 1.492274,876 2.717524,881 1.301373,882 1.956024,1000 crude}
+{4 0.478492,9 0.141225,13 1.849134,14 0.631208,16 1.356092,22 0.514665,31 2.025396,45 1.151855,50 1.239992,184 2.508076,198 0.692408,200 1.288654,203 0.709827,229 1.863467,231 3.203893,239 2.717524,245 1.708795,254 1.756618,256 2.110859,279 2.470295,305 2.288438,346 1.664061,403 1.642731,427 2.237071,437 1.340992,479 2.717524,483 2.470295,605 1.492274,615 1.368722,632 1.732294,678 1.708795,705 1.892967,748 4.474141,755 2.075311,758 1.427748,763 1.509389,764 1.526938,801 2.125422,805 0.522966,856 1.183608,868 1.492274,870 0.939636,881 1.301373,1000 crude}
+{11 0.730774,22 0.815724,42 1.430525,141 1.956024,196 1.162278,203 0.895702,217 0.666248,253 3.100224,262 0.932061,289 0.95504,437 1.340992,474 1.544943,581 1.427748,604 1.781826,617 1.807985,634 1.028936,636 2.717524,686 1.892967,689 1.492274,722 0.681825,751 1.686067,753 2.766027,837 1.443325,866 1.397607,962 2.950748,1000 crude}
+{4 0.478492,6 1.301373,9 0.085026,21 1.011821,22 0.514665,25 1.131467,36 0.561603,44 1.185377,45 1.151855,150 1.288654,161 6.21084,193 1.892967,203 0.447851,223 2.042468,230 2.717524,234 2.189248,249 2.022673,253 4.541746,270 2.189248,323 2.189248,328 3.126856,340 1.526938,380 4.625746,400 2.062873,460 1.863467,476 2.144514,543 2.717524,590 1.354718,598 0.676594,599 1.892967,639 0.747889,643 1.368722,658 2.025396,674 1.340992,676 3.715025,679 1.923778,700 1.397607,716 4.031076,722 1.363651,794 1.443325,804 0.671402,805 0.828881,824 1.622039,837 1.443325,856 1.183608,871 1.412514,874 1.642731,1000 crude}
+{4 0.478492,9 0.098712,22 1.029329,28 1.261173,36 0.561603,62 2.624967,139 0.293929,149 0.579492,203 0.447851,276 2.062873,278 1.046485,279 4.940591,317 2.543326,319 1.781826,342 2.365198,371 2.470295,376 2.404231,439 2.824373,448 2.144514,533 1.340992,537 0.681825,560 1.509389,565 1.301373,579 1.427748,581 1.427748,606 1.601946,636 2.717524,729 1.863467,784 1.492274,825 1.131467,826 1.509389,1000 crude}
+{4 0.956984,5 2.603668,9 0.109894,14 0.631208,16 1.168074,21 1.011821,36 1.123207,44 0.747889,61 2.242987,149 0.579492,173 2.950748,185 2.025396,198 0.692408,200 2.042468,217 0.666248,229 2.953525,235 3.372134,238 1.835171,254 1.756618,262 0.932061,289 0.95504,316 1.946877,328 2.477975,370 2.237071,406 3.915326,452 2.025396,482 2.102492,512 1.397607,531 1.756618,567 2.189248,575 2.312873,612 1.664061,615 1.368722,639 0.747889,652 3.10542,697 1.544943,702 2.144514,722 0.681825,723 0.970794,728 1.459261,743 1.082975,758 1.427748,764 3.053877,773 2.192025,814 2.040652,815 1.577224,820 2.404231,824 1.622039,837 2.886651,880 2.144514,912 2.824373,1000 crude}
+{4 0.956984,9 0.141225,22 1.029329,28 0.795712,29 2.144514,36 0.89012,44 0.747889,45 1.825647,61 2.242987,68 1.492274,158 1.443325,167 2.102492,197 2.189248,198 0.692408,200 1.288654,203 0.709827,211 1.526938,229 1.863467,235 3.914927,244 2.189248,283 3.211258,284 1.892967,335 2.144514,341 2.237071,342 1.492274,366 2.237071,372 2.189248,486 2.404231,500 2.34392,505 1.910853,508 1.732294,512 2.795214,515 1.475571,526 1.020326,537 1.080668,541 1.172861,570 1.459261,581 1.427748,584 1.601946,602 1.228342,614 2.950748,623 2.539025,630 1.563428,634 1.028936,639 0.747889,642 1.183608,692 1.989842,697 1.544943,722 1.762493,723 0.970794,746 1.58242,748 2.237071,752 1.509389,755 1.037655,758 1.427748,764 2.42014,771 1.807985,781 1.037655,791 1.563428,793 1.863467,794 1.443325,799 2.189248,805 0.828881,810 1.327532,814 1.617178,815 0.995118,816 1.642731,825 1.131467,830 1.183608,859 1.622039,866 1.397607,881 1.301373,885 2.624967,892 2.025396,1000 crude}
+{9 0.098712,16 0.584037,44 0.747889,49 1.397607,137 2.288438,139 0.293929,149 0.918473,184 2.508076,198 1.097441,217 1.055979,235 2.672353,254 1.756618,281 1.183608,345 2.717524,372 2.189248,434 1.781826,511 1.544943,526 1.020326,609 4.204984,631 1.301373,639 0.747889,656 2.102492,696 2.237071,705 1.892967,722 2.045476,743 1.082975,791 1.563428,814 1.617178,825 1.131467,880 2.144514,894 1.923778,1000 crude}
+{4 0.478492,9 0.067381,14 1.262416,16 1.356092,28 1.261173,198 0.692408,200 1.288654,203 1.157678,255 0.895378,289 0.95504,360 1.989842,389 2.237071,404 4.160474,454 2.624967,505 1.910853,533 2.125422,550 1.028936,586 1.228342,634 1.028936,664 1.412514,709 0.827368,734 1.158249,773 1.383014,795 2.189248,860 0.995118,870 1.489288,1000 crude}
+{0 1.622039,2 1.301373,3 1.101967,4 0.758392,9 0.109894,14 1.000441,16 1.752112,17 1.544943,19 1.288654,20 1.431972,22 0.815724,24 1.761941,36 0.561603,42 0.902561,44 1.495779,49 1.397607,67 3.587247,107 1.989842,138 2.349375,139 0.587859,146 3.244078,149 1.158984,187 2.950748,196 1.842168,198 1.097441,203 0.447851,213 3.814295,222 1.708795,238 2.908677,247 1.807985,256 1.055429,265 2.215154,269 5.344707,278 1.046485,289 0.95504,290 1.732294,293 3.715025,312 3.912047,380 1.459261,397 3.545673,407 2.404231,409 3.545673,419 2.189248,432 2.543326,437 1.340992,461 4.307173,474 3.587247,509 1.642731,511 1.544943,512 2.215154,524 7.171746,526 1.020326,533 2.125422,538 2.824127,550 1.630826,553 3.153826,559 2.404231,586 1.228342,598 1.072376,600 1.509389,605 1.492274,619 2.189248,630 1.563428,632 1.732294,639 1.185377,645 1.046485,646 3.545673,656 4.204984,675 2.404231,680 1.151855,754 2.824373,761 2.062496,771 1.807985,779 2.288438,782 3.469877,797 2.717524,801 2.681984,803 3.545441,804 1.064147,805 1.045932,809 2.824373,823 4.979407,824 4.19291,852 1.892967,853 3.615971,859 1.622039,870 2.428924,880 2.144514,884 2.404231,887 2.189248,1000 crude}
+{4 1.111024,9 0.157316,14 0.631208,16 0.925677,22 1.543994,28 1.261173,33 1.956024,38 1.162278,43 1.989842,68 1.492274,150 3.865962,153 2.637474,155 2.237071,180 2.717524,198 1.097441,211 3.947078,217 1.998745,256 1.055429,262 1.477281,273 2.34392,277 4.921974,281 2.367215,316 1.228342,323 2.189248,325 2.144514,359 2.717524,366 2.237071,392 1.923778,537 1.080668,549 2.237071,557 9.277819,561 3.100224,563 2.338724,565 1.301373,570 2.312873,571 2.144514,612 1.664061,623 1.601946,639 1.185377,696 2.237071,697 1.544943,722 0.681825,723 0.970794,743 1.082975,764 2.42014,781 1.037655,791 1.563428,794 1.443325,804 0.671402,815 1.577224,816 1.642731,825 1.131467,836 2.717524,852 1.892967,866 1.397607,867 1.314329,881 1.301373,889 5.238025,890 1.732294,1000 crude}
+{9 0.085026,11 0.730774,36 0.561603,44 1.185377,49 1.397607,135 2.34392,149 0.918473,231 1.601946,252 1.544943,312 1.956024,316 1.228342,328 1.563428,525 2.681984,634 1.028936,686 1.892967,825 2.262934,850 2.34392,912 2.824373,1000 crude}
+{4 0.478492,9 0.119349,11 1.158249,13 0.924567,14 0.631208,16 1.168074,22 1.029329,38 1.162278,45 1.825647,50 1.965341,68 1.492274,139 0.682483,144 1.892967,148 2.951141,149 0.579492,252 1.544943,255 0.895378,256 1.055429,308 2.624967,325 2.144514,352 2.624967,400 3.269576,403 1.642731,445 2.237071,460 1.863467,468 1.427748,474 1.544943,476 2.144514,526 1.020326,529 2.288438,547 2.025396,577 1.526938,598 0.676594,602 2.852123,634 1.028936,660 1.781826,689 1.492274,700 1.397607,718 1.459261,734 0.730774,746 1.58242,791 1.563428,792 1.892967,802 1.563428,814 1.020326,824 1.622039,864 1.151855,870 0.939636,962 5.901497,1000 crude}
+{8 2.508076,9 0.042513,16 0.584037,28 1.261173,61 1.121493,139 0.293929,158 1.443325,198 1.097441,211 1.526938,255 0.895378,338 2.824373,352 2.624967,403 1.642731,411 1.563428,567 2.189248,623 1.601946,634 1.028936,662 2.144514,671 1.835171,680 1.151855,777 0.970794,801 1.340992,815 0.995118,816 1.642731,858 1.459261,1000 crude}
+{4 0.758392,9 0.085026,11 0.730774,13 1.465404,14 1.46562,16 0.925677,20 0.616717,22 0.514665,28 1.261173,36 0.561603,50 1.965341,77 3.10542,149 0.918473,150 1.288654,177 2.102492,180 2.717524,198 0.692408,217 0.666248,237 2.34392,245 1.708795,251 1.276165,255 0.895378,256 1.055429,265 1.397607,286 1.664061,342 1.492274,395 2.543326,400 2.062873,467 1.427748,537 0.681825,544 1.686067,634 1.028936,671 2.908677,734 0.730774,743 1.082975,755 1.037655,761 0.888269,776 1.58242,805 0.828881,815 1.577224,816 1.642731,860 0.995118,876 2.717524,878 2.189248,1000 crude}
+{0 1.622039,1 0.995118,4 0.478492,8 2.508076,9 0.127539,16 0.584037,21 1.011821,22 1.195014,28 1.261173,30 2.543326,36 0.561603,43 1.989842,60 2.470295,61 1.777525,139 0.465867,142 1.989842,149 0.918473,155 2.237071,158 1.443325,176 1.664061,196 1.162278,198 1.097441,203 0.447851,207 2.950748,211 4.286658,217 0.666248,219 3.304826,235 1.686067,255 0.895378,256 1.055429,285 1.756618,289 0.95504,316 1.228342,325 2.144514,356 1.989842,364 2.717524,366 3.545673,390 2.288438,406 2.470295,411 1.563428,432 2.543326,454 2.624967,487 2.189248,489 2.34392,500 3.715025,508 2.745621,512 3.245143,528 3.372134,567 2.189248,575 1.459261,615 1.368722,617 1.807985,623 4.497232,678 1.708795,702 3.398974,722 0.681825,728 1.459261,736 2.34392,746 1.58242,758 1.427748,761 1.407872,768 2.824373,777 0.970794,782 2.189248,794 4.329976,798 6.058945,804 0.671402,805 0.522966,810 1.327532,814 2.369123,816 1.642731,825 1.131467,826 1.509389,835 1.956024,858 2.312873,864 1.151855,892 2.025396,982 2.717524,1000 crude}
+{5 1.642731,9 0.098712,20 1.431972,21 1.011821,22 0.815724,28 0.795712,32 0.888269,33 1.956024,44 0.747889,61 2.242987,67 1.544943,139 0.465867,171 1.835171,179 3.351298,196 1.162278,197 2.189248,198 0.692408,203 0.709827,217 0.666248,240 2.824373,255 0.895378,256 1.672816,280 1.276165,283 2.192025,289 0.95504,322 1.664061,327 2.144514,344 2.404231,380 1.459261,385 2.404231,406 2.470295,412 7.673568,419 2.189248,423 2.470295,453 2.34392,473 1.892967,478 2.824373,483 2.470295,525 1.340992,539 1.923778,551 2.34392,567 5.083277,579 1.427748,581 2.262928,598 1.072376,609 2.102492,627 2.824373,645 1.046485,648 3.398974,662 3.398974,680 1.151855,687 1.544943,710 2.189248,722 1.080668,723 0.970794,728 1.459261,734 0.730774,753 3.575039,773 1.383014,802 1.563428,803 1.526938,805 0.828881,807 4.540791,815 0.995118,820 2.404231,870 1.489288,871 1.412514,1000 crude}
+{8 1.58242,9 0.134763,11 1.889023,14 1.46562,22 0.514665,36 1.451723,45 1.151855,50 1.239992,61 1.121493,70 1.956024,137 4.576877,139 0.682483,146 3.244078,149 0.918473,153 1.664061,183 3.000281,196 1.162278,197 2.189248,235 1.686067,243 2.34392,253 1.956024,262 1.864122,304 2.144514,305 2.288438,316 3.685027,342 2.984548,352 4.160474,354 4.204984,413 2.543326,435 2.189248,453 2.34392,455 6.574402,460 1.863467,467 1.427748,473 1.892967,525 2.681984,544 1.686067,570 1.459261,571 3.398974,581 1.427748,587 4.031076,623 3.203893,638 2.950748,645 2.092971,674 1.340992,680 1.151855,703 1.863467,709 0.827368,724 2.34392,743 1.716475,776 1.58242,784 1.492274,802 1.563428,804 0.671402,820 2.404231,825 1.793332,826 1.509389,852 1.892967,866 1.397607,879 2.288438,995 2.950748,1000 crude}
+{0 3.766258,4 1.715377,9 0.067381,20 1.431972,22 0.815724,36 2.013327,44 0.747889,49 1.397607,50 1.239992,68 2.984548,138 3.62734,159 5.086652,162 2.470295,167 2.102492,171 1.835171,184 2.508076,196 1.162278,203 0.447851,231 5.07805,256 1.055429,257 2.950748,269 2.672353,274 3.269576,278 1.65864,281 2.367215,286 2.637474,288 2.543326,289 0.95504,290 1.732294,319 1.781826,404 2.624967,413 2.543326,500 2.34392,511 3.089886,513 3.915326,521 3.332371,550 2.659762,572 2.508076,586 3.893753,598 1.353188,605 4.730396,609 4.881835,634 1.028936,635 1.664061,639 0.747889,687 1.544943,693 2.062873,697 1.544943,718 1.459261,722 1.080668,753 1.383014,761 1.407872,776 1.58242,801 1.340992,804 0.671402,809 2.824373,823 2.144514,826 1.509389,853 1.807985,856 1.183608,869 4.125254,870 0.939636,880 2.144514,884 4.808463,1000 crude}
+{9 0.119349,14 0.631208,22 0.815724,28 1.261173,36 0.561603,49 1.397607,61 1.121493,139 0.587859,158 1.443325,197 3.469877,198 0.692408,199 2.950748,211 1.526938,215 2.824373,219 5.238025,255 0.895378,263 2.144514,500 4.68784,509 1.642731,512 1.397607,528 3.372134,567 2.189248,575 2.312873,594 2.824373,617 1.807985,668 3.10542,702 4.979407,722 0.681825,743 1.082975,758 1.427748,761 0.888269,794 1.443325,798 4.68784,801 1.340992,805 0.522966,814 1.617178,816 2.603668,825 1.131467,826 1.509389,860 0.995118,892 2.025396,1000 crude}
+{1 0.995118,4 1.111024,9 0.166093,11 1.461548,13 0.924567,14 1.46562,16 1.509714,19 1.288654,21 1.603698,22 1.631448,23 3.469877,28 1.591423,32 2.062496,36 0.89012,44 1.495779,45 2.674524,61 3.14843,65 1.492274,68 1.492274,70 3.100224,139 0.825164,144 3.000281,149 1.345539,167 2.102492,176 2.637474,178 2.624967,194 1.526938,196 1.162278,198 1.384816,203 0.447851,211 2.42014,217 1.546981,235 1.686067,244 2.189248,245 1.708795,251 2.022673,254 1.756618,255 0.895378,256 2.110859,282 1.622039,283 2.192025,289 0.95504,305 2.288438,316 1.946877,346 1.664061,347 1.956024,355 2.543326,365 2.062873,390 2.288438,403 2.603668,411 1.563428,437 2.125422,452 2.025396,466 1.807985,482 3.332371,490 1.956024,505 2.411228,508 2.745621,509 3.285463,511 1.544943,512 3.612761,525 1.340992,528 2.672353,531 1.756618,533 1.340992,536 2.102492,537 0.681825,538 1.781826,541 1.172861,550 2.057873,567 3.469877,571 4.289027,572 2.508076,575 1.459261,584 3.203893,598 1.353188,604 1.781826,631 1.301373,634 2.389116,642 1.183608,643 1.368722,648 3.398974,668 3.10542,670 1.863467,679 1.923778,687 2.448677,693 2.062873,697 3.587247,700 2.795214,705 3.000281,707 1.368722,722 1.58315,723 0.970794,728 1.459261,743 3.040296,746 1.58242,753 1.383014,761 0.888269,763 1.509389,777 0.970794,791 2.477975,801 1.340992,802 1.563428,804 1.342804,808 3.304826,812 2.237071,814 2.040652,815 3.154448,824 2.570871,825 2.627185,826 1.509389,835 1.956024,841 1.642731,846 2.062873,853 1.807985,855 2.34392,856 1.875974,858 1.459261,862 1.58242,870 0.939636,871 1.412514,877 2.950748,881 1.301373,890 3.464588,895 2.062873,981 5.683474,982 2.717524,1000 crude}
+{4 0.478492,8 2.508076,9 0.141225,14 1.000441,22 0.514665,28 1.591423,38 1.162278,61 2.604027,70 1.956024,138 1.011821,139 0.587859,149 0.579492,158 1.443325,183 1.892967,194 1.526938,200 1.288654,211 1.526938,235 1.686067,238 2.908677,255 0.895378,278 2.092971,290 1.732294,306 1.989842,328 1.563428,366 2.237071,403 1.642731,413 2.543326,496 2.288438,500 3.715025,508 1.732294,509 2.603668,511 1.544943,525 1.340992,561 1.956024,563 1.475571,567 2.189248,568 2.470295,571 2.144514,575 1.459261,604 1.781826,623 2.539025,634 1.028936,639 0.747889,648 2.144514,674 1.340992,680 1.151855,681 2.144514,688 1.863467,722 0.681825,723 0.970794,743 2.514591,760 2.288438,761 1.776537,763 1.509389,777 0.970794,781 1.644645,788 2.34392,791 1.563428,793 1.863467,794 1.443325,798 7.786333,807 1.756618,815 2.310592,825 1.131467,826 1.509389,842 3.10542,845 2.470295,860 0.995118,864 1.151855,879 2.288438,892 2.025396,894 1.923778,1000 crude}
+{1 3.154448,3 3.3059,5 1.642731,6 2.062627,7 1.842168,8 1.58242,9 0.067381,15 3.164839,17 2.448677,18 3.726933,19 1.288654,26 1.563428,41 2.624967,42 0.902561,43 1.989842,48 3.100224,50 1.239992,138 1.011821,139 0.587859,143 1.732294,157 5.238025,176 1.664061,197 2.189248,217 0.666248,228 2.824373,238 1.835171,241 2.950748,249 1.276165,255 1.41914,262 0.932061,281 1.183608,285 2.784173,294 2.189248,340 1.526938,347 1.956024,349 1.622039,363 2.543326,393 1.58242,453 2.34392,460 1.863467,472 4.378497,484 2.543326,487 2.189248,509 2.603668,581 1.427748,584 1.601946,602 1.228342,615 1.368722,623 1.601946,632 1.732294,648 2.144514,660 1.781826,687 1.544943,689 1.492274,708 2.708377,709 2.138714,728 1.459261,761 0.888269,763 1.509389,766 1.732294,804 0.671402,805 1.045932,810 1.327532,816 1.642731,836 2.717524,860 0.995118,867 1.314329,879 2.288438,881 1.301373,922 2.717524,953 3.10542,1000 crude}
+{9 0.067381,14 1.000441,16 0.584037,18 1.863467,44 0.747889,45 1.151855,139 0.293929,146 3.244078,158 1.443325,188 2.543326,268 2.672353,345 2.717524,392 3.049117,399 3.269576,469 1.756618,484 2.543326,506 4.031076,564 2.543326,586 1.228342,590 1.354718,623 1.601946,671 1.835171,674 2.125422,680 1.151855,692 3.153826,696 2.237071,709 1.311347,723 0.970794,763 1.509389,764 2.42014,781 1.644645,788 2.34392,801 1.340992,816 1.642731,852 1.892967,864 1.151855,995 2.950748,1000 crude}
+{8 3.164839,9 0.085026,21 1.011821,28 0.795712,43 1.989842,61 1.121493,139 0.293929,158 1.443325,179 1.443325,197 2.189248,200 1.288654,203 0.447851,211 3.053877,217 0.666248,223 1.288654,227 2.624967,235 1.686067,285 1.756618,347 1.956024,349 1.622039,355 2.543326,372 2.189248,379 4.476525,489 2.34392,512 2.215154,549 2.237071,596 2.237071,743 1.082975,748 3.545673,761 0.888269,777 1.538672,782 2.189248,794 2.287617,798 4.68784,804 1.064147,815 1.577224,816 1.642731,867 1.314329,882 1.956024,892 2.025396,919 3.10542,946 2.824373,1000 crude}
+{1 3.305709,3 3.660654,5 2.603668,6 3.904118,7 3.004446,9 0.119349,15 3.164839,17 1.544943,18 3.726933,19 1.288654,21 2.023642,26 1.563428,40 2.624967,41 2.624967,42 0.902561,48 3.100224,49 1.397607,58 2.189248,59 2.189248,90 2.624967,139 0.759796,142 1.989842,149 0.918473,157 6.609652,158 1.443325,169 2.288438,177 2.102492,193 1.892967,194 1.526938,197 3.469877,213 1.475571,217 1.546981,223 2.042468,228 2.824373,229 1.863467,238 1.835171,249 1.276165,255 1.790756,256 2.110859,262 0.932061,281 1.183608,285 4.07874,289 0.95504,294 2.189248,306 1.989842,322 1.664061,340 1.526938,347 1.956024,349 1.622039,358 2.950748,363 4.031076,369 2.144514,370 2.237071,379 2.824373,390 2.288438,393 1.58242,403 1.642731,432 2.543326,460 1.863467,466 1.807985,469 3.513235,487 2.189248,509 1.642731,526 1.020326,584 1.601946,598 1.072376,615 2.169372,619 2.189248,629 2.624967,632 1.732294,635 1.664061,639 0.747889,647 2.288438,660 2.824127,689 1.492274,693 2.062873,708 2.708377,709 2.322715,718 1.459261,728 1.459261,734 0.730774,755 1.644645,761 1.407872,762 1.622039,763 2.392326,766 4.022263,773 2.192025,784 2.365198,804 1.342804,805 1.214289,810 1.327532,813 1.835171,814 1.020326,816 2.603668,830 1.183608,836 2.717524,841 1.642731,860 1.577224,879 3.627089,881 2.062627,898 3.304826,900 2.717524,904 2.950748,922 2.717524,946 2.824373,953 4.921974,1000 crude}
+{0 1.622039,9 0.067381,16 1.6396,20 0.616717,28 1.261173,42 1.430525,149 0.579492,184 4.090496,198 0.692408,200 3.331123,309 2.886651,356 1.989842,509 3.285463,570 2.312873,572 1.58242,642 1.183608,722 2.523054,746 1.58242,791 1.563428,809 2.824373,825 1.131467,846 3.269576,856 1.183608,874 4.246399,1000 crude}
+{9 0.067381,21 1.603698,42 1.430525,149 0.579492,169 2.288438,196 1.162278,217 1.055979,251 2.022673,262 0.932061,276 2.062873,281 1.875974,286 1.664061,290 1.732294,296 2.404231,309 2.886651,316 1.946877,437 1.340992,471 4.476525,511 1.544943,584 2.539025,617 1.807985,634 1.630826,658 2.025396,705 1.892967,722 1.080668,737 2.189248,752 1.509389,761 0.888269,814 1.617178,825 1.793332,874 1.642731,1000 crude}
+{1 0.995118,4 0.478492,9 0.152407,13 2.389972,16 1.6396,20 1.431972,22 0.815724,24 1.761941,32 1.407872,36 1.123207,42 0.902561,44 0.747889,50 1.239992,61 2.242987,68 2.365198,70 1.956024,135 2.34392,141 1.956024,149 0.579492,153 1.664061,171 1.835171,179 2.287617,198 0.692408,200 2.577308,203 1.343553,213 2.951141,229 1.863467,235 1.686067,238 1.835171,262 1.477281,269 1.686067,278 1.046485,284 1.892967,285 2.784173,289 1.513703,318 3.210177,319 1.781826,346 1.664061,349 1.622039,403 1.642731,408 2.624967,413 2.543326,437 1.340992,466 1.807985,505 1.205614,508 2.745621,520 4.289027,525 1.340992,531 1.756618,537 0.681825,538 1.781826,541 2.345722,550 1.028936,553 1.989842,563 1.475571,584 1.601946,587 2.543326,598 0.676594,602 1.946877,604 1.781826,605 1.492274,617 1.807985,624 2.824373,631 1.301373,680 1.151855,722 1.080668,723 0.970794,728 1.459261,743 1.082975,751 2.672353,761 0.888269,791 1.563428,795 2.189248,801 1.340992,805 1.045932,814 1.617178,856 1.183608,860 1.990235,867 1.314329,883 1.368722,888 2.237071,893 2.908677,895 2.062873,1000 crude}
+{9 0.042513,21 1.011821,38 1.162278,43 3.153826,48 1.956024,50 2.479984,139 0.881788,155 2.237071,186 2.624967,200 1.288654,217 1.055979,223 1.288654,245 1.708795,255 0.895378,262 0.932061,300 2.025396,304 2.144514,329 2.543326,341 2.237071,342 1.492274,353 2.025396,386 2.624967,387 2.717524,445 2.237071,466 1.807985,486 2.404231,509 1.642731,583 2.189248,598 1.353188,634 1.028936,639 0.747889,645 2.092971,707 1.368722,718 1.459261,734 0.730774,743 1.082975,752 1.509389,762 1.622039,784 1.492274,792 1.892967,802 2.477975,804 0.671402,860 0.995118,991 7.171746,1000 crude}
+{8 3.164839,9 0.152407,16 0.925677,22 0.514665,28 1.591423,61 2.899018,139 0.293929,149 0.579492,150 1.288654,158 1.443325,183 1.892967,197 2.189248,198 1.384816,200 2.042468,211 2.42014,235 3.372134,249 1.276165,254 1.756618,256 1.055429,283 1.383014,284 1.892967,286 1.664061,289 0.95504,290 1.732294,322 1.664061,324 2.824373,449 3.915326,466 1.807985,482 2.102492,509 1.642731,512 2.215154,526 1.020326,531 1.756618,544 1.686067,546 1.327532,560 1.509389,561 1.956024,567 2.189248,575 2.312873,583 2.189248,598 0.676594,623 1.601946,635 1.664061,660 1.781826,662 2.144514,681 2.144514,702 3.398974,703 1.863467,722 1.080668,743 2.16595,748 2.237071,758 1.427748,761 2.493685,772 5.901497,776 1.58242,777 1.538672,798 2.34392,804 1.342804,814 1.020326,815 1.577224,823 2.144514,825 1.131467,830 3.059582,835 1.956024,867 1.314329,871 2.238781,881 1.301373,892 2.025396,1000 crude}
+{9 0.067381,44 0.747889,45 1.151855,50 1.239992,63 2.237071,135 2.34392,138 1.011821,196 1.162278,200 2.992162,203 1.419654,211 2.42014,235 1.686067,247 1.807985,278 1.046485,282 1.622039,283 2.766027,289 0.95504,310 2.624967,319 1.781826,328 2.477975,329 4.031076,340 1.526938,380 6.409535,406 4.940591,437 1.340992,438 2.34392,515 2.338724,523 2.288438,528 3.372134,549 3.545673,577 1.526938,598 0.676594,599 1.892967,606 1.601946,631 1.301373,634 1.630826,685 2.543326,707 1.368722,722 1.762493,752 1.509389,761 2.296141,804 1.342804,819 1.923778,823 2.144514,824 3.244078,852 1.892967,858 1.459261,868 1.492274,1000 crude}
+{9 0.042513,11 0.730774,21 1.011821,22 0.514665,28 0.795712,67 1.544943,138 1.603698,150 1.288654,194 1.526938,203 1.039878,217 1.332497,222 1.708795,234 2.189248,255 0.895378,259 1.835171,262 0.932061,282 1.622039,322 1.664061,344 2.404231,385 2.404231,407 2.404231,423 2.470295,475 4.921974,539 1.923778,541 1.172861,570 2.312873,581 1.427748,598 0.676594,604 1.781826,606 1.601946,674 1.340992,685 2.543326,697 1.544943,709 0.827368,710 2.189248,716 4.031076,734 0.730774,762 1.622039,777 0.970794,781 1.037655,805 0.522966,830 2.367215,862 1.58242,867 1.314329,870 0.939636,882 1.956024,1000 crude}
+{4 0.758392,9 0.119349,13 0.924567,19 1.288654,20 1.233434,22 0.815724,24 2.223323,25 1.131467,28 1.261173,32 1.776537,36 0.561603,38 1.162278,42 0.902561,138 1.603698,139 0.465867,170 3.810617,196 1.162278,203 1.257276,213 1.475571,222 1.708795,256 1.055429,330 5.388297,332 1.781826,344 4.808463,354 2.102492,377 2.404231,380 1.459261,385 4.808463,423 2.470295,436 2.288438,441 2.470295,464 2.237071,488 2.717524,512 1.397607,526 1.020326,531 1.756618,537 0.681825,544 1.686067,565 1.301373,581 1.427748,630 1.563428,632 1.732294,639 0.747889,643 1.368722,679 1.923778,688 1.863467,718 2.312873,729 1.863467,734 1.158249,751 1.686067,755 1.644645,773 1.383014,780 2.918521,789 1.863467,802 1.563428,804 0.671402,805 0.522966,836 2.717524,852 3.000281,860 1.577224,1000 crude}
+{4 0.478492,9 0.109894,11 0.730774,13 1.849134,19 1.288654,20 0.977473,22 0.514665,24 2.223323,25 1.131467,28 1.261173,32 0.888269,42 0.902561,107 1.989842,138 1.011821,139 0.465867,167 4.204984,170 2.404231,177 3.332371,179 1.443325,194 1.526938,203 0.709827,217 0.666248,268 1.686067,330 5.141742,332 2.824127,344 3.810617,357 2.470295,377 2.404231,385 2.404231,422 2.470295,423 2.470295,441 2.470295,451 2.144514,452 2.025396,464 2.237071,504 1.923778,519 2.34392,537 1.080668,539 1.923778,541 1.172861,550 1.028936,632 1.732294,656 2.102492,710 2.189248,734 1.158249,755 2.409361,762 1.622039,780 1.459261,802 1.563428,805 0.522966,828 1.892967,860 0.995118,867 1.314329,1000 crude}
+{4 1.111024,9 0.085026,13 0.924567,19 1.288654,20 1.731343,24 3.120828,25 1.131467,28 1.591423,32 1.407872,36 1.123207,42 0.902561,44 0.747889,49 1.397607,138 1.011821,139 0.682483,203 0.709827,228 2.824373,249 1.276165,251 2.022673,256 1.055429,268 1.686067,292 4.160474,312 1.956024,330 5.141742,331 2.470295,332 2.824127,334 2.404231,380 1.459261,436 3.627089,437 1.340992,451 2.144514,488 2.717524,505 1.910853,512 2.215154,526 2.040652,537 0.681825,565 2.062627,590 1.354718,598 0.676594,639 0.747889,707 1.368722,709 0.827368,734 1.158249,753 1.383014,780 2.918521,830 1.183608,860 1.990235,864 1.151855,1000 crude}
+{4 0.478492,9 0.098712,11 1.696804,13 0.924567,20 1.233434,21 1.603698,22 0.514665,32 1.776537,36 0.561603,44 1.495779,139 0.293929,143 1.732294,193 1.892967,196 1.162278,217 1.332497,234 2.189248,288 2.543326,396 2.543326,408 2.624967,410 1.781826,412 3.304826,466 1.807985,525 2.681984,537 0.681825,539 1.923778,541 1.172861,579 1.427748,617 1.807985,621 2.624967,631 1.301373,632 1.732294,687 3.089886,709 1.311347,710 2.189248,722 0.681825,743 1.082975,751 3.372134,753 3.88261,758 1.427748,802 1.563428,805 0.522966,843 2.824373,857 1.835171,860 0.995118,897 2.950748,1000 crude}
+{4 0.478492,9 0.141225,11 1.158249,13 0.924567,20 0.616717,22 0.514665,24 1.761941,28 0.795712,32 0.888269,107 1.989842,138 1.011821,139 0.465867,170 2.404231,177 2.102492,179 1.443325,203 0.895702,217 0.666248,245 1.708795,256 1.672816,265 2.215154,278 1.046485,289 0.95504,292 2.624967,314 2.34392,330 4.19291,332 1.781826,334 2.404231,377 2.404231,452 2.025396,464 2.237071,494 3.715025,504 3.049117,525 1.340992,526 1.020326,537 0.681825,539 1.923778,544 1.686067,570 2.918521,581 1.427748,598 0.676594,612 1.664061,688 1.863467,689 1.492274,709 1.311347,710 2.189248,718 1.459261,734 1.158249,755 1.644645,781 1.037655,784 1.492274,804 0.671402,805 0.522966,870 0.939636,1000 crude}
+{9 0.042513,15 2.508076,19 1.288654,44 0.747889,149 0.579492,238 1.835171,333 2.624967,365 2.062873,565 1.301373,602 1.228342,709 1.311347,780 1.459261,802 1.563428,803 1.526938,868 1.492274,1000 crude}
+{4 0.758392,5 3.285463,9 0.141225,21 1.011821,28 0.795712,30 2.543326,33 4.541746,38 1.162278,70 1.956024,137 3.627089,139 0.682483,143 1.732294,165 2.404231,179 1.443325,198 0.692408,203 0.447851,217 1.055979,235 3.914927,250 2.950748,262 0.932061,289 0.95504,290 1.732294,316 3.448393,328 3.126856,346 1.664061,372 2.189248,421 2.470295,439 2.824373,468 2.262928,473 3.785934,476 3.398974,496 2.288438,508 1.732294,509 3.285463,544 1.686067,549 2.237071,559 2.404231,561 1.956024,571 5.543488,577 2.42014,587 2.543326,612 1.664061,615 1.368722,634 1.028936,639 0.747889,642 1.183608,645 1.046485,660 1.781826,674 1.340992,681 2.144514,697 2.448677,707 2.737443,722 0.681825,743 2.16595,761 1.407872,766 1.732294,773 1.383014,777 0.970794,781 1.037655,784 2.984548,794 2.287617,804 1.064147,813 1.835171,814 1.020326,825 2.924799,830 1.183608,837 1.443325,871 2.238781,881 1.301373,885 2.624967,894 1.923778,1000 crude}
+{5 1.642731,9 0.109894,14 1.000441,16 1.509714,20 0.616717,24 1.761941,31 2.025396,36 0.561603,42 0.902561,60 2.470295,68 2.365198,139 0.465867,198 1.384816,203 0.447851,265 1.397607,278 1.046485,282 1.622039,306 1.989842,318 2.025396,328 1.563428,349 1.622039,360 6.307651,403 1.642731,422 2.470295,434 4.137271,435 3.469877,445 2.237071,456 2.144514,498 7.171746,501 4.476525,520 2.144514,526 2.040652,541 1.172861,546 1.327532,550 1.028936,575 3.388298,596 2.237071,598 1.072376,606 1.601946,612 1.664061,614 2.950748,674 1.340992,722 0.681825,723 0.970794,725 3.10542,728 1.459261,734 0.730774,750 2.189248,762 1.622039,777 1.538672,792 1.892967,803 1.526938,805 1.045932,820 2.404231,830 1.183608,853 2.865589,858 1.459261,862 1.58242,865 2.144514,879 2.288438,882 1.956024,987 2.543326,1000 crude}
+{5 1.642731,9 0.127539,11 0.730774,13 0.924567,14 1.63165,16 1.168074,24 2.223323,31 4.702824,36 1.123207,42 2.095681,45 2.977502,47 4.160474,50 1.965341,68 1.492274,84 3.304826,107 1.989842,138 1.011821,139 0.587859,150 2.042468,176 1.664061,194 1.526938,196 1.162278,198 1.097441,203 1.039878,217 0.666248,247 1.807985,249 1.276165,252 1.544943,255 0.895378,256 1.055429,263 2.144514,265 2.215154,289 0.95504,306 3.153826,322 1.664061,324 2.824373,328 1.563428,338 2.824373,347 1.956024,349 1.622039,350 2.288438,360 7.95937,368 2.543326,403 1.642731,411 4.041403,422 3.915326,428 2.470295,434 6.164104,435 3.469877,445 2.237071,456 2.144514,459 2.404231,484 2.543326,490 1.956024,498 10.066818,504 1.923778,505 1.205614,506 5.086652,512 1.397607,518 3.810617,526 1.020326,537 0.681825,541 1.858941,546 2.104089,550 1.630826,570 1.459261,575 4.847559,582 2.824373,590 1.354718,596 2.237071,600 1.509389,605 1.492274,631 1.301373,635 1.664061,639 0.747889,643 1.368722,645 1.046485,658 2.025396,671 1.835171,674 3.113687,678 2.708377,680 1.151855,684 2.288438,697 2.448677,703 1.863467,707 1.368722,709 0.827368,722 0.681825,723 0.970794,725 3.10542,734 1.461548,743 1.082975,746 1.58242,750 2.189248,758 1.427748,761 0.888269,762 1.622039,763 1.509389,768 4.476525,773 2.192025,777 1.538672,802 1.563428,805 1.568898,811 2.824373,814 1.020326,825 1.793332,830 1.183608,841 1.642731,847 2.950748,858 2.312873,859 1.622039,860 0.995118,862 2.508076,864 1.151855,866 2.215154,868 1.492274,871 1.412514,875 1.956024,881 1.301373,882 1.956024,890 1.732294,912 2.824373,919 3.10542,926 3.10542,996 3.585873,1000 crude}
+{4 0.956984,9 0.14707,11 0.730774,13 0.924567,16 0.925677,20 0.977473,22 1.330389,28 1.591423,44 0.747889,50 1.965341,61 1.777525,137 3.627089,138 1.011821,139 0.293929,149 1.158984,150 1.288654,158 1.443325,165 3.810617,177 2.102492,189 3.10542,193 1.892967,196 1.162278,198 1.384816,203 1.257276,213 1.475571,214 5.683474,217 0.666248,245 1.708795,251 1.276165,255 0.895378,262 0.932061,270 2.189248,278 1.046485,280 1.276165,282 2.570871,283 1.383014,289 1.91008,305 4.576877,316 2.852123,319 1.781826,321 6.094984,323 2.189248,342 1.492274,349 1.622039,372 2.189248,380 2.918521,382 3.810617,403 1.642731,406 2.470295,411 3.126856,439 2.824373,442 2.543326,468 1.427748,471 2.824373,500 2.34392,505 1.205614,508 4.863165,525 1.340992,531 2.784173,538 2.824127,541 1.172861,550 1.630826,559 2.404231,560 1.509389,561 1.956024,565 2.062627,575 2.312873,584 4.497232,598 0.676594,634 1.630826,639 0.747889,645 1.046485,674 2.125422,679 3.049117,681 2.144514,686 1.892967,687 2.448677,702 2.144514,705 1.892967,707 3.842487,708 1.708795,718 2.918521,722 0.681825,723 2.725364,746 3.164839,761 0.888269,763 2.392326,764 2.42014,777 1.538672,788 2.34392,798 3.715025,801 1.340992,804 1.064147,805 0.522966,809 2.824373,814 2.637504,815 0.995118,824 1.622039,825 2.627185,826 1.509389,832 2.708377,835 4.541746,858 2.918521,860 0.995118,871 1.412514,884 2.404231,894 3.049117,922 2.717524,943 3.304826,986 2.824373,1000 crude}
+{0 1.622039,4 1.516784,9 0.085026,20 0.977473,32 0.888269,36 2.194123,44 0.747889,49 1.397607,61 1.121493,138 2.615519,139 0.293929,149 0.579492,171 1.835171,184 3.674265,199 7.627574,231 3.719604,232 2.189248,249 1.276165,265 1.397607,281 1.183608,521 2.102492,537 0.681825,572 1.58242,586 1.228342,600 1.509389,609 3.332371,634 1.028936,687 1.544943,691 3.585873,700 1.397607,722 1.080668,753 2.192025,765 2.34392,776 1.58242,792 1.892967,799 2.189248,815 0.995118,832 2.708377,837 1.443325,880 2.144514}
+{0 1.622039,9 0.042513,16 0.584037,19 1.288654,20 0.616717,22 0.815724,29 2.144514,33 1.956024,34 5.249934,47 2.624967,139 0.293929,187 2.950748,198 0.692408,205 4.066326,211 3.053877,228 2.824373,242 4.066326,254 1.756618,286 1.664061,503 1.956024,511 1.544943,520 3.398974,524 3.585873,545 2.950748,552 2.717524,553 1.989842,554 2.950748,557 7.673568,560 1.509389,571 2.144514,586 1.228342,588 9.441716,598 0.676594,603 4.066326,617 1.807985,624 2.824373,625 3.585873,641 4.066326,656 3.332371,661 3.10542,673 3.585873,675 2.404231,722 0.681825,730 3.585873,737 2.189248,743 1.082975,750 2.189248,756 4.066326,792 1.892967,794 1.443325,805 0.522966,810 1.327532,827 3.304826,837 1.443325,839 4.066326,847 2.950748,855 2.34392,864 1.151855,888 2.237071,889 3.304826,894 1.923778}
+{23 5.083277,36 1.451723,66 7.369213,69 3.10542,70 3.100224,109 5.683474,111 3.585873,112 3.585873,113 5.683474,115 5.683474,116 5.683474,119 6.21084,121 3.585873,122 6.609652,123 3.585873,125 5.683474,139 0.465867,143 4.022263,146 3.244078,149 0.579492,166 3.304826,173 2.950748,183 1.892967,189 3.10542,198 1.097441,203 0.447851,208 2.950748,217 1.055979,227 2.624967,236 2.950748,239 4.307173,245 1.708795,250 2.950748,259 2.908677,260 3.304826,267 3.304826,280 1.276165,281 1.183608,285 1.756618,289 1.513703,511 1.544943,518 5.582453,544 1.686067,546 1.327532,550 1.630826,556 2.237071,557 3.304826,559 2.404231,563 1.475571,569 1.835171,570 1.459261,574 8.152571,587 4.031076,590 1.354718,596 2.237071,597 2.950748,598 0.676594,599 1.892967,600 1.509389,607 2.950748,610 6.21084,616 2.189248,622 4.066326,631 1.301373,633 3.304826,634 1.630826,639 0.747889,643 2.169372,644 2.404231,645 1.65864,662 2.144514,669 4.066326,672 4.940591,677 4.476525,689 2.365198,690 2.624967,696 3.545673,704 2.404231,707 1.368722,720 4.676826,722 0.681825,728 1.459261,734 2.051541,737 2.189248,752 3.018779,754 2.824373,759 2.950748,760 2.288438,766 1.732294,781 1.037655,783 3.10542,787 1.892967,802 1.563428,804 1.064147,807 2.784173,811 2.824373,812 2.237071,828 1.892967,841 1.642731,843 6.55799,848 4.066326,856 1.183608,860 1.577224,864 1.825647,868 1.492274,879 2.288438,885 4.160474,890 4.863165,897 2.950748}
+{23 2.189248,36 1.123207,66 2.624967,69 3.10542,70 3.100224,109 3.585873,111 3.585873,112 3.585873,113 5.683474,115 5.683474,119 6.21084,121 3.585873,122 6.609652,123 3.585873,125 5.683474,139 0.293929,143 1.732294,146 1.622039,166 3.304826,183 1.892967,189 3.10542,198 1.097441,217 0.666248,236 2.950748,239 4.307173,259 2.908677,260 5.238025,267 3.304826,280 1.276165,281 1.183608,285 1.756618,289 0.95504,511 1.544943,518 3.810617,546 1.327532,550 1.028936,556 2.237071,559 2.404231,569 1.835171,574 6.309895,587 2.543326,590 1.354718,596 2.237071,597 2.950748,598 0.676594,600 1.509389,610 3.10542,616 2.189248,631 1.301373,633 3.304826,639 0.747889,643 2.169372,644 2.404231,645 1.65864,672 3.915326,677 2.824373,689 1.492274,696 3.545673,704 2.404231,720 2.950748,722 0.681825,728 1.459261,734 1.158249,737 2.189248,752 3.018779,754 2.824373,760 2.288438,766 1.732294,783 3.10542,802 1.563428,804 0.671402,807 2.784173,812 2.237071,828 1.892967,843 2.824373,856 1.183608,860 0.995118,864 1.151855,865 2.144514,868 1.492274,890 1.732294,897 2.950748}
+{0 3.244078,19 1.288654,23 3.469877,37 4.676826,42 0.902561,70 3.100224,146 1.622039,150 1.288654,156 3.304826,217 1.055979,223 1.288654,231 1.601946,249 2.022673,286 1.664061,499 2.470295,526 1.020326,546 1.327532,559 2.404231,574 5.435047,583 2.189248,596 3.545673,599 1.892967,610 7.210561,612 2.637474,702 2.144514,705 1.892967,706 2.624967,728 1.459261,734 0.730774,740 4.066326,781 1.037655,794 2.287617,805 0.522966,812 3.545673,825 1.131467,832 2.708377,844 2.062873,864 1.825647,871 1.412514,890 2.745621}
+{0 2.570871,9 0.042513,16 0.584037,19 1.288654,30 4.031076,44 0.747889,70 1.956024,118 3.585873,120 3.585873,142 1.989842,147 3.304826,155 2.237071,160 4.066326,161 3.10542,168 4.066326,241 2.950748,249 2.022673,265 1.397607,540 3.10542,568 2.470295,571 2.144514,598 0.676594,608 4.066326,647 2.288438,697 1.544943,700 1.397607,718 1.459261,725 4.921974,751 2.672353,767 4.066326,774 5.238025,775 6.444974,776 1.58242,794 1.443325,796 3.304826,801 1.340992,805 0.522966,833 4.066326,834 4.066326,842 4.921974,847 2.950748,855 2.34392,894 1.923778}
+{0 4.553639,9 0.042513,11 0.730774,12 5.901497,22 0.815724,23 3.469877,37 8.852245,44 1.736545,47 2.624967,136 4.066326,151 3.10542,152 4.676826,165 3.810617,174 3.10542,203 0.895702,214 3.585873,234 2.189248,268 1.686067,275 4.066326,276 2.062873,279 2.470295,280 1.276165,281 1.183608,508 1.732294,514 3.585873,520 2.144514,525 2.125422,528 2.672353,534 2.950748,535 3.304826,541 1.172861,543 2.717524,550 1.028936,559 3.810617,580 3.585873,584 1.601946,598 0.676594,601 3.585873,615 1.368722,617 1.807985,621 2.624967,626 3.304826,631 2.062627,634 1.028936,638 4.676826,645 1.046485,648 2.144514,658 2.025396,664 1.412514,665 2.950748,666 6.444974,667 3.585873,670 1.863467,679 3.049117,687 1.544943,700 2.795214,703 1.863467,709 0.827368,715 3.10542,721 2.824373,729 1.863467,731 4.066326,743 1.082975,751 3.372134,753 3.575039,773 1.383014,777 1.538672,800 3.304826,802 1.563428,804 1.064147,805 0.828881,814 1.020326,818 2.144514,821 3.10542,840 4.066326,844 4.789842,856 1.183608,863 4.066326,867 1.314329,870 1.879272,879 2.288438,882 1.956024,893 1.835171}
+{0 1.622039,4 0.478492,9 0.067381,20 1.233434,22 0.815724,28 1.261173,32 2.493685,36 2.194123,42 0.902561,44 1.185377,61 1.121493,138 2.023642,139 0.587859,144 1.892967,149 0.579492,171 1.835171,184 1.58242,196 1.162278,198 1.789849,201 2.824373,203 0.447851,213 1.475571,225 2.824373,248 2.543326,282 1.622039,286 1.664061,505 2.79935,509 1.642731,512 1.397607,521 2.102492,536 2.102492,537 0.681825,547 2.025396,558 2.543326,569 1.835171,578 6.094984,579 2.262928,586 1.228342,590 1.354718,619 3.469877,620 4.160474,623 1.601946,642 2.748252,681 3.398974,719 2.953525,722 2.045476,753 1.383014,761 0.888269,765 2.34392,813 1.835171,832 1.708795,845 2.470295,862 1.58242,869 2.062627,874 1.642731}
+{0 1.622039,11 0.730774,21 1.603698,22 0.514665,114 3.585873,117 5.683474,124 3.585873,126 3.585873,153 1.664061,171 1.835171,198 1.384816,203 0.709827,217 1.055979,220 5.683474,224 4.066326,247 1.807985,259 2.908677,277 3.10542,280 1.276165,288 2.543326,507 4.066326,527 4.066326,539 3.049117,551 2.34392,589 4.066326,591 4.066326,593 6.444974,604 1.781826,632 1.732294,637 4.066326,650 4.066326,651 3.304826,682 4.066326,684 2.288438,687 1.544943,693 2.062873,699 3.585873,710 3.469877,712 3.585873,714 4.066326,726 4.066326,739 3.585873,751 2.672353,770 2.717524,779 3.627089,781 1.644645,789 1.863467,791 1.563428,871 1.412514,890 1.732294}
+{0 2.570871,9 0.098712,14 1.000441,16 0.584037,22 1.330389,27 2.543326,28 0.795712,36 0.561603,61 1.121493,139 0.465867,149 0.579492,158 1.443325,183 3.785934,192 4.921974,197 5.659125,198 1.384816,211 3.053877,215 2.824373,219 3.304826,235 1.686067,263 2.144514,285 1.756618,500 3.715025,510 4.066326,511 1.544943,512 2.215154,515 1.475571,517 4.066326,528 2.672353,532 5.238025,567 2.189248,575 1.459261,590 1.354718,594 2.824373,611 3.585873,639 0.747889,640 3.10542,652 3.10542,664 1.412514,668 3.10542,674 1.340992,680 1.151855,688 2.953525,697 1.544943,698 4.066326,702 2.144514,722 0.681825,733 2.717524,741 3.585873,743 1.716475,746 1.58242,748 2.237071,749 4.808463,769 2.624967,772 2.950748,794 2.287617,798 5.442413,801 1.340992,804 1.064147,805 0.522966,806 3.304826,814 2.637504,816 4.246399,825 1.131467,826 1.509389,830 1.183608,836 2.717524,845 2.470295,852 1.892967,871 1.412514,876 2.717524,892 2.025396}
+{0 1.622039,14 0.631208,31 2.025396,203 0.447851,206 4.921974,207 2.950748,211 3.947078,226 2.824373,233 2.470295,255 0.895378,272 3.10542,502 4.066326,504 1.923778,506 4.031076,561 1.956024,598 0.676594,671 2.908677,674 1.340992,692 3.153826,702 2.144514,718 1.459261,752 2.392326,758 1.427748,762 1.622039,763 1.509389,781 1.037655,788 2.34392,793 1.863467,794 1.443325,805 0.522966,814 1.020326,816 3.285463,841 1.642731,864 1.151855,867 2.083162,877 2.950748}

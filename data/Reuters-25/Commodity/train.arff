@@ -1,0 +1,1772 @@
+@relation 'F__reuters_RetuersData_Train-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-I-N0-L-S-stemmerweka.core.stemmers.LovinsStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Remove-R2-156,1061-1064,1066-1069,1071-1088,1090-1093,1096-1104,1106-1107,1110-1123,1125-1140,1142-1161,1163-1169,1965-1982,1984-1991,2399-2499,2848-2849,2851-2856,2861-2862,2864-2865,2867-2889,2891-2893,2899-2901,2905-2917,2921-2926,2929-2931,2933-2946,2948-2955,3504,3507-3512,3514-3516,3714-3723,3725,3729-3730,3732-3748,3751-3752,3754-3758,3760-3762,4180-4183,4185-4189,4192-4194,4196-4202,4205-4213,4215-4223,4226-4274,4518-4519,4521-4526,4529,4531-4542,4545-4551,4710-4711,4714-4716,4718,4720-4726,4728,4956-4962,4964,4966-4967,4971,4973-4976,4982-4984,4986-4989,4991-5007,5009-5011,5013-5020,5022-5041,5044-5049,5321,5385-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N 1005-weka.filters.unsupervised.attribute.Remove-R1001-1005'
+
+@attribute coffe numeric
+@attribute sugar numeric
+@attribute wheat numeric
+@attribute gold numeric
+@attribute coco numeric
+@attribute grain numeric
+@attribute intern numeric
+@attribute copper numeric
+@attribute oil numeric
+@attribute agricultur numeric
+@attribute min numeric
+@attribute organ numeric
+@attribute alumin numeric
+@attribute ic numeric
+@attribute buffer numeric
+@attribute tin numeric
+@attribute icc numeric
+@attribute ounc numeric
+@attribute quot numeric
+@attribute brazil numeric
+@attribute veges numeric
+@attribute corn numeric
+@attribute metal numeric
+@attribute deleg numeric
+@attribute palm numeric
+@attribute soybean numeric
+@attribute departm numeric
+@attribute producer numeric
+@attribute whit numeric
+@attribute bag numeric
+@attribute miner numeric
+@attribute london numeric
+@attribute ton numeric
+@attribute consumer numeric
+@attribute compan numeric
+@attribute colomb numeric
+@attribute council numeric
+@attribute malays numeric
+@attribute export numeric
+@attribute mees numeric
+@attribute fat numeric
+@attribute rl numeric
+@attribute usd numeric
+@attribute tender numeric
+@attribute crop numeric
+@attribute raw numeric
+@attribute stock numeric
+@attribute season numeric
+@attribute smelter numeric
+@attribute agre numeric
+@attribute talk numeric
+@attribute cattl numeric
+@attribute institut numeric
+@attribute program numeric
+@attribute ses numeric
+@attribute trader numeric
+@attribute tac numeric
+@attribute manager numeric
+@attribute sovies numeric
+@attribute deposit numeric
+@attribute farm numeric
+@attribute barle numeric
+@attribute maiz numeric
+@attribute negoti numeric
+@attribute ec numeric
+@attribute ghan numeric
+@attribute collaps numeric
+@attribute ibc numeric
+@attribute oilseed numeric
+@attribute cent numeric
+@attribute compromis numeric
+@attribute beef numeric
+@attribute pork numeric
+@attribute cathod numeric
+@attribute non-member numeric
+@attribute dauster numeric
+@attribute jori numeric
+@attribute differ numeric
+@attribute intervent numeric
+@attribute enhanc numeric
+@attribute ric numeric
+@attribute cargo numeric
+@attribute bonus numeric
+@attribute subsidi numeric
+@attribute singapor numeric
+@attribute silver numeric
+@attribute subsid numeric
+@attribute itc numeric
+@attribute meat numeric
+@attribute suspens numeric
+@attribute bees numeric
+@attribute dair numeric
+@attribute ventur numeric
+@attribute failur numeric
+@attribute crus numeric
+@attribute pump numeric
+@attribute resourc numeric
+@attribute cents/litr numeric
+@attribute petrol numeric
+@attribute alcan numeric
+@attribute bushel numeric
+@attribute olein numeric
+@attribute ccc numeric
+@attribute ivor numeric
+@attribute lyng numeric
+@attribute register numeric
+@attribute rapeseed numeric
+@attribute kanon numeric
+@attribute smelt numeric
+@attribute reb numeric
+@attribute sorghum numeric
+@attribute propers numeric
+@attribute underground numeric
+@attribute dril numeric
+@attribute forml numeric
+@attribute cere numeric
+@attribute erbyn numeric
+@attribute koben numeric
+@attribute soft numeric
+@attribute atpc numeric
+@attribute explor numeric
+@attribute br numeric
+@attribute pt numeric
+@attribute reintroduc numeric
+@attribute ussr numeric
+@attribute crushes numeric
+@attribute octan numeric
+@attribute gm numeric
+@attribute nicaragu numeric
+@attribute roaster numeric
+@attribute paz numeric
+@attribute deodoris numeric
+@attribute bleach numeric
+@attribute shipm numeric
+@attribute 60-kg numeric
+@attribute ship numeric
+@attribute zer numeric
+@attribute zon numeric
+@attribute sidelin numeric
+@attribute siew numeric
+@attribute siding numeric
+@attribute shipper numeric
+@attribute young numeric
+@attribute shower numeric
+@attribute shouldn numeric
+@attribute semi-annu numeric
+@attribute sensit numeric
+@attribute senior numeric
+@attribute ab numeric
+@attribute abandon numeric
+@attribute seiz numeric
+@attribute seek numeric
+@attribute sev numeric
+@attribute shal numeric
+@attribute shadow numeric
+@attribute separ numeric
+@attribute sentim numeric
+@attribute ser numeric
+@attribute sept numeric
+@attribute sometim numeric
+@attribute sooon numeric
+@attribute writ numeric
+@attribute smith numeric
+@attribute smal numeric
+@attribute solut numeric
+@attribute wrot numeric
+@attribute spel numeric
+@attribute spread numeric
+@attribute split numeric
+@attribute spark numeric
+@attribute sort numeric
+@attribute spec numeric
+@attribute wrangl numeric
+@attribute simp numeric
+@attribute sir numeric
+@attribute singl numeric
+@attribute significant numeric
+@attribute signif numeric
+@attribute simil numeric
+@attribute yield numeric
+@attribute yamoussoukr numeric
+@attribute slump numeric
+@attribute slis numeric
+@attribute yaound numeric
+@attribute sl numeric
+@attribute slip numeric
+@attribute slight numeric
+@attribute ambassador numeric
+@attribute altern numeric
+@attribute rot numeric
+@attribute ap numeric
+@attribute revers numeric
+@attribute risk numeric
+@attribute ringgit numeric
+@attribute algem numeric
+@attribute alejandr numeric
+@attribute rumour numeric
+@attribute rout numeric
+@attribute rotterdam numeric
+@attribute alloc numeric
+@attribute rubber numeric
+@attribute republ numeric
+@attribute reschedl numeric
+@attribute requir numeric
+@attribute renew numeric
+@attribute arang numeric
+@attribute represent numeric
+@attribute arabic numeric
+@attribute restrict numeric
+@attribute return numeric
+@attribute retail numeric
+@attribute reserv numeric
+@attribute appe numeric
+@attribute respect numeric
+@attribute resolut numeric
+@attribute scop numeric
+@attribute acr numeric
+@attribute acros numeric
+@attribute scatter numeric
+@attribute scarc numeric
+@attribute adequ numeric
+@attribute schem numeric
+@attribute second-hand numeric
+@attribute secres numeric
+@attribute secondhand numeric
+@attribute accis numeric
+@attribute achief numeric
+@attribute abs numeric
+@attribute sdr numeric
+@attribute age numeric
+@attribute sabah numeric
+@attribute rush numeric
+@attribute aic numeric
+@attribute albers numeric
+@attribute aggrav numeric
+@attribute agreement numeric
+@attribute saturda numeric
+@attribute satisf numeric
+@attribute adopt numeric
+@attribute advant numeric
+@attribute afford numeric
+@attribute safeguard numeric
+@attribute sant numeric
+@attribute salvador numeric
+@attribute tel numeric
+@attribute temporao/ear numeric
+@attribute tempora numeric
+@attribute untouch numeric
+@attribute taw numeric
+@attribute techniqu numeric
+@attribute techn numeric
+@attribute unresolut numeric
+@attribute theores numeric
+@attribute unregister numeric
+@attribute unsur numeric
+@attribute ten numeric
+@attribute unspectacl numeric
+@attribute unsuit numeric
+@attribute switzerland numeric
+@attribute upper numeric
+@attribute upward numeric
+@attribute vers numeric
+@attribute versus numeric
+@attribute urugua numeric
+@attribute varies numeric
+@attribute tact numeric
+@attribute unwant numeric
+@attribute tast numeric
+@attribute uphil numeric
+@attribute swol numeric
+@attribute tackl numeric
+@attribute tabl numeric
+@attribute tradit numeric
+@attribute transpar numeric
+@attribute tranch numeric
+@attribute uncertaint numeric
+@attribute tog numeric
+@attribute total numeric
+@attribute tomorrow numeric
+@attribute tree numeric
+@attribute turnover numeric
+@attribute tripl numeric
+@attribute typ numeric
+@attribute treat numeric
+@attribute treatm numeric
+@attribute twice-year numeric
+@attribute unif numeric
+@attribute uneconom numeric
+@attribute unhap numeric
+@attribute thought numeric
+@attribute thing numeric
+@attribute unlik numeric
+@attribute unlimis numeric
+@attribute thursda numeric
+@attribute unchang numeric
+@attribute tip numeric
+@attribute underl numeric
+@attribute underton numeric
+@attribute undeclar numeric
+@attribute three-year numeric
+@attribute stem numeric
+@attribute stg/ton numeric
+@attribute step numeric
+@attribute whos numeric
+@attribute widespread numeric
+@attribute stead numeric
+@attribute wheel numeric
+@attribute wes numeric
+@attribute strength numeric
+@attribute straddle-bound numeric
+@attribute stockpil numeric
+@attribute stick numeric
+@attribute western numeric
+@attribute stor numeric
+@attribute withold numeric
+@attribute stag numeric
+@attribute withhold numeric
+@attribute stabil numeric
+@attribute srok numeric
+@attribute stabilis numeric
+@attribute worth numeric
+@attribute winner numeric
+@attribute stat numeric
+@attribute stand numeric
+@attribute withdraw numeric
+@attribute stagn numeric
+@attribute stanc numeric
+@attribute winter numeric
+@attribute surplus numeric
+@attribute surpris numeric
+@attribute vot numeric
+@attribute superior+ numeric
+@attribute summer numeric
+@attribute vulner numeric
+@attribute support numeric
+@attribute swift numeric
+@attribute vic numeric
+@attribute switch numeric
+@attribute suscept numeric
+@attribute surround numeric
+@attribute view numeric
+@attribute virtu numeric
+@attribute subject numeric
+@attribute subsequ numeric
+@attribute weather numeric
+@attribute weigh numeric
+@attribute stronger numeric
+@attribute weekens numeric
+@attribute subclaus numeric
+@attribute warrant numeric
+@attribute wait numeric
+@attribute ward numeric
+@attribute succeed numeric
+@attribute weak numeric
+@attribute suchard numeric
+@attribute watches numeric
+@attribute kouam numeric
+@attribute kil numeric
+@attribute labour numeric
+@attribute kual numeric
+@attribute kamg numeric
+@attribute june/ju numeric
+@attribute keen numeric
+@attribute ke numeric
+@attribute lev numeric
+@attribute leg numeric
+@attribute lift numeric
+@attribute li numeric
+@attribute laid numeric
+@attribute lack numeric
+@attribute lc numeric
+@attribute land numeric
+@attribute larger numeric
+@attribute interv numeric
+@attribute intermis numeric
+@attribute iron numeric
+@attribute ip numeric
+@attribute instal numeric
+@attribute insid numeric
+@attribute intermedi numeric
+@attribute interfer numeric
+@attribute interior numeric
+@attribute jen numeric
+@attribute jakart numeric
+@attribute juerg numeric
+@attribute jobber numeric
+@attribute isol numeric
+@attribute island numeric
+@attribute jacob numeric
+@attribute item numeric
+@attribute jack numeric
+@attribute member-countr numeric
+@attribute mechan numeric
+@attribute mes numeric
+@attribute membership numeric
+@attribute may/september numeric
+@attribute may/ju numeric
+@attribute measur numeric
+@attribute mayb numeric
+@attribute meant numeric
+@attribute midwa numeric
+@attribute midmorn numeric
+@attribute minor numeric
+@attribute mind numeric
+@attribute mid numeric
+@attribute mic numeric
+@attribute middlem numeric
+@attribute mid-febru numeric
+@attribute midda numeric
+@attribute lunch numeric
+@attribute lumpur numeric
+@attribute mam numeric
+@attribute madagascar numeric
+@attribute load numeric
+@attribute liquor numeric
+@attribute lowest numeric
+@attribute lorenz numeric
+@attribute loser numeric
+@attribute matter numeric
+@attribute market-stabil numeric
+@attribute may-bu numeric
+@attribute maxim numeric
+@attribute manpower numeric
+@attribute manoeuvr numeric
+@attribute market-regl numeric
+@attribute march/april numeric
+@attribute margin numeric
+@attribute government numeric
+@attribute govern numeric
+@attribute grind numeric
+@attribute grenad numeric
+@attribute gmt numeric
+@attribute ghana numeric
+@attribute gon numeric
+@attribute golf numeric
+@attribute hand numeric
+@attribute hammer numeric
+@attribute hap numeric
+@attribute handicap numeric
+@attribute grower numeric
+@attribute ground numeric
+@attribute halt numeric
+@attribute guine numeric
+@attribute hait numeric
+@attribute fortnight-long numeric
+@attribute fortnight numeric
+@attribute fourth numeric
+@attribute founder numeric
+@attribute foreign numeric
+@attribute fob numeric
+@attribute forthcom numeric
+@attribute forg numeric
+@attribute forges numeric
+@attribute funer numeric
+@attribute fulfil numeric
+@attribute gather numeric
+@attribute ga numeric
+@attribute fre numeric
+@attribute franc numeric
+@attribute fruit numeric
+@attribute frida numeric
+@attribute froz numeric
+@attribute inact numeric
+@attribute in-stor numeric
+@attribute incis numeric
+@attribute incent numeric
+@attribute impact numeric
+@attribute identif numeric
+@attribute implic numeric
+@attribute impl numeric
+@attribute implem numeric
+@attribute ins numeric
+@attribute initi numeric
+@attribute insectic numeric
+@attribute insect numeric
+@attribute individu numeric
+@attribute indistinguish numeric
+@attribute inform numeric
+@attribute ineffect numeric
+@attribute inferior numeric
+@attribute high-qu numeric
+@attribute high-acis numeric
+@attribute histor numeric
+@attribute highest numeric
+@attribute harvest numeric
+@attribute harshes numeric
+@attribute henr numeric
+@attribute head numeric
+@attribute heinz numeric
+@attribute hundr numeric
+@attribute humid numeric
+@attribute icch numeric
+@attribute hundred numeric
+@attribute hom numeric
+@attribute hofer numeric
+@attribute hr numeric
+@attribute houphouet-boign numeric
+@attribute hous numeric
+@attribute preclus numeric
+@attribute pre-ses numeric
+@attribute prefer numeric
+@attribute predict numeric
+@attribute powder numeric
+@attribute pound numeric
+@attribute pre-compromis numeric
+@attribute pract numeric
+@attribute principl numeric
+@attribute price-support numeric
+@attribute procedur numeric
+@attribute prior numeric
+@attribute premium-pric numeric
+@attribute prem numeric
+@attribute prevail numeric
+@attribute present numeric
+@attribute prev numeric
+@attribute pinch numeric
+@attribute pick numeric
+@attribute pla numeric
+@attribute pl numeric
+@attribute pessim numeric
+@attribute permis numeric
+@attribute physic numeric
+@attribute peter numeric
+@attribute petroleum numeric
+@attribute pollin numeric
+@attribute polit numeric
+@attribute popl numeric
+@attribute poor numeric
+@attribute pleas numeric
+@attribute plambeck numeric
+@attribute polic numeric
+@attribute png numeric
+@attribute pod numeric
+@attribute receipt numeric
+@attribute read numeric
+@attribute recommens numeric
+@attribute reckon numeric
+@attribute ran numeric
+@attribute ral numeric
+@attribute react numeric
+@attribute ratif numeric
+@attribute re-nomin numeric
+@attribute reject numeric
+@attribute reiter numeric
+@attribute remov numeric
+@attribute reluc numeric
+@attribute reconven numeric
+@attribute reconv numeric
+@attribute reflect numeric
+@attribute record numeric
+@attribute refer numeric
+@attribute promot numeric
+@attribute prolong numeric
+@attribute prospect numeric
+@attribute proper numeric
+@attribute producer/consumer numeric
+@attribute processor numeric
+@attribute progres numeric
+@attribute profittak numeric
+@attribute prognostic numeric
+@attribute quant numeric
+@attribute qua numeric
+@attribute rain numeric
+@attribute quick numeric
+@attribute psycholog numeric
+@attribute provid numeric
+@attribute qu numeric
+@attribute purpos numeric
+@attribute push numeric
+@attribute niger numeric
+@attribute nibbl numeric
+@attribute non- numeric
+@attribute night numeric
+@attribute net numeric
+@attribute neces numeric
+@attribute ng numeric
+@attribute newly-agreed numeric
+@attribute oblig numeric
+@attribute number numeric
+@attribute observer numeric
+@attribute observ numeric
+@attribute norm numeric
+@attribute non-icc numeric
+@attribute noth numeric
+@attribute northern numeric
+@attribute norwa numeric
+@attribute moment numeric
+@attribute moistur numeric
+@attribute mop numeric
+@attribute monda numeric
+@attribute modif numeric
+@attribute mistak numeric
+@attribute moham numeric
+@attribute modific numeric
+@attribute mogstad numeric
+@attribute natal numeric
+@attribute narrow numeric
+@attribute nearer numeric
+@attribute natur numeric
+@attribute mount numeric
+@attribute morn numeric
+@attribute must-bu numeric
+@attribute mourn numeric
+@attribute mud numeric
+@attribute paid numeric
+@attribute pact numeric
+@attribute papu numeric
+@attribute pal numeric
+@attribute outright numeric
+@attribute outlin numeric
+@attribute overproduc numeric
+@attribute outturn numeric
+@attribute overhang numeric
+@attribute pens numeric
+@attribute peg numeric
+@attribute perfect numeric
+@attribute percent numeric
+@attribute parliament numeric
+@attribute par numeric
+@attribute peat numeric
+@attribute patterson numeric
+@attribute pay numeric
+@attribute odour numeric
+@attribute october/april numeric
+@attribute oft numeric
+@attribute offtak numeric
+@attribute obv numeric
+@attribute obtain numeric
+@attribute october-september numeric
+@attribute occur numeric
+@attribute oct/dec numeric
+@attribute optim numeric
+@attribute oppos numeric
+@attribute outcom numeric
+@attribute origin numeric
+@attribute onses numeric
+@attribute onc numeric
+@attribute opinion numeric
+@attribute ont numeric
+@attribute op numeric
+@attribute blew numeric
+@attribute blast numeric
+@attribute bread numeric
+@attribute bras numeric
+@attribute belt numeric
+@attribute beir numeric
+@attribute blankes numeric
+@attribute best-known numeric
+@attribute beyons numeric
+@attribute carg numeric
+@attribute calla numeric
+@attribute centur numeric
+@attribute centromin numeric
+@attribute briques numeric
+@attribute break-ev numeric
+@attribute burn numeric
+@attribute brit numeric
+@attribute bruk numeric
+@attribute andean numeric
+@attribute amalgam numeric
+@attribute asarc numeric
+@attribute aray numeric
+@attribute affili numeric
+@attribute advantag numeric
+@attribute alt numeric
+@attribute ail numeric
+@attribute allens numeric
+@attribute bedevil numeric
+@attribute barcel numeric
+@attribute beijing-santiag numeric
+@attribute beij numeric
+@attribute auster numeric
+@attribute auspic numeric
+@attribute bab numeric
+@attribute avoid numeric
+@attribute award numeric
+@attribute confeder numeric
+@attribute committee numeric
+@attribute cont numeric
+@attribute consensus numeric
+@attribute comerc numeric
+@attribute combin numeric
+@attribute commitm numeric
+@attribute cominc numeric
+@attribute command numeric
+@attribute coup numeric
+@attribute correct numeric
+@attribute court numeric
+@attribute cour numeric
+@attribute conveni numeric
+@attribute contained-copper numeric
+@attribute copperworker numeric
+@attribute conveyor numeric
+@attribute copperbelt numeric
+@attribute chilub numeric
+@attribute chilean numeric
+@attribute christ numeric
+@attribute chitambal numeric
+@attribute chamber numeric
+@attribute chacapalc numeric
+@attribute chil numeric
+@attribute channel numeric
+@attribute check numeric
+@attribute cobriz numeric
+@attribute cobalt numeric
+@attribute columb numeric
+@attribute codelc numeric
+@attribute coffin numeric
+@attribute cipec numeric
+@attribute chuquicam numeric
+@attribute cnt numeric
+@attribute climb numeric
+@attribute clt numeric
+@attribute surg numeric
+@attribute supermarkes numeric
+@attribute tanzan numeric
+@attribute swing numeric
+@attribute strict numeric
+@attribute stres numeric
+@attribute sunda numeric
+@attribute strik numeric
+@attribute submis numeric
+@attribute threat numeric
+@attribute thailand numeric
+@attribute tough numeric
+@attribute tonight numeric
+@attribute taylor numeric
+@attribute targes numeric
+@attribute tha numeric
+@attribute teck numeric
+@attribute temper numeric
+@attribute six-year numeric
+@attribute sima numeric
+@attribute solubl numeric
+@attribute soar numeric
+@attribute short-term numeric
+@attribute shil numeric
+@attribute sight numeric
+@attribute shortfal numeric
+@attribute si numeric
+@attribute stalem numeric
+@attribute sporad numeric
+@attribute status numeric
+@attribute state-run numeric
+@attribute sought numeric
+@attribute sooner numeric
+@attribute splinter numeric
+@attribute sound numeric
+@attribute speak numeric
+@attribute vietnam numeric
+@attribute verif numeric
+@attribute votuporang numeric
+@attribute volunt numeric
+@attribute urgent numeric
+@attribute upcom numeric
+@attribute van numeric
+@attribute usu numeric
+@attribute valis numeric
+@attribute zimbabw numeric
+@attribute yower numeric
+@attribute abroad numeric
+@attribute abol numeric
+@attribute wagon numeric
+@attribute vr numeric
+@attribute wrong numeric
+@attribute washingt numeric
+@attribute win numeric
+@attribute ugand numeric
+@attribute troubl numeric
+@attribute uic numeric
+@attribute ugandan numeric
+@attribute transport numeric
+@attribute tr numeric
+@attribute trim numeric
+@attribute treasur numeric
+@attribute trigger numeric
+@attribute unfair numeric
+@attribute unexpect numeric
+@attribute unwil numeric
+@attribute unroast numeric
+@attribute unusu numeric
+@attribute uncertain numeric
+@attribute umuaram numeric
+@attribute undoubt numeric
+@attribute understand numeric
+@attribute undertak numeric
+@attribute longest numeric
+@attribute locomotiv numeric
+@attribute lubric numeric
+@attribute lornec numeric
+@attribute left-w numeric
+@attribute lefebvr numeric
+@attribute lim numeric
+@attribute leys numeric
+@attribute liaison numeric
+@attribute mao numeric
+@attribute majeur numeric
+@attribute markk numeric
+@attribute mapar numeric
+@attribute lyel numeric
+@attribute lusak numeric
+@attribute magm numeric
+@attribute madec numeric
+@attribute madrid numeric
+@attribute johannesburg numeric
+@attribute january-march numeric
+@attribute justif numeric
+@attribute john numeric
+@attribute intergovernm numeric
+@attribute inter-union numeric
+@attribute iwcc numeric
+@attribute interrupt numeric
+@attribute investig numeric
+@attribute landlock numeric
+@attribute lad numeric
+@attribute lay numeric
+@attribute launch numeric
+@attribute kembl numeric
+@attribute kaund numeric
+@attribute kwach numeric
+@attribute kenneth numeric
+@attribute km numeric
+@attribute objectiv numeric
+@attribute non-trad numeric
+@attribute olin numeric
+@attribute officially-fic numeric
+@attribute nicanor numeric
+@attribute newmont numeric
+@attribute non-fer numeric
+@attribute nickel numeric
+@attribute nippers numeric
+@attribute outles numeric
+@attribute outbreak numeric
+@attribute outskirt numeric
+@attribute outokumpu numeric
+@attribute one-week numeric
+@attribute one-third numeric
+@attribute orient numeric
+@attribute ongo numeric
+@attribute open-ens numeric
+@attribute metallverk numeric
+@attribute metallurg numeric
+@attribute mim numeric
+@attribute michel numeric
+@attribute mdp numeric
+@attribute mas numeric
+@attribute metallgesellschaft numeric
+@attribute meal numeric
+@attribute merg numeric
+@attribute mozambiqu numeric
+@attribute mozambican numeric
+@attribute murdochvil numeric
+@attribute mt numeric
+@attribute mueller numeric
+@attribute minpec numeric
+@attribute mineroperu numeric
+@attribute monopolis numeric
+@attribute mint numeric
+@attribute molybden numeric
+@attribute earthquak numeric
+@attribute earner numeric
+@attribute effici numeric
+@attribute edt numeric
+@attribute divers numeric
+@attribute disillusionm numeric
+@attribute drift numeric
+@attribute divis numeric
+@attribute doubl numeric
+@attribute explos numeric
+@attribute ex-work numeric
+@attribute extr numeric
+@attribute extingu numeric
+@attribute enafer numeric
+@attribute electrolys numeric
+@attribute event numeric
+@attribute envis numeric
+@attribute evacu numeric
+@attribute death numeric
+@attribute dar-es-salaam numeric
+@attribute defer numeric
+@attribute deeper numeric
+@attribute ctc numeric
+@attribute crew numeric
+@attribute dal numeric
+@attribute customer numeric
+@attribute cyprus numeric
+@attribute derail numeric
+@attribute deples numeric
+@attribute disgruntl numeric
+@attribute deter numeric
+@attribute detergent numeric
+@attribute degre numeric
+@attribute degrad numeric
+@attribute deograci numeric
+@attribute democr numeric
+@attribute democrat numeric
+@attribute heat numeric
+@attribute health numeric
+@attribute highland numeric
+@attribute hierarch numeric
+@attribute guminsk numeric
+@attribute guillerm numeric
+@attribute headquarter numeric
+@attribute hans numeric
+@attribute happen numeric
+@attribute independent numeric
+@attribute incom numeric
+@attribute inspir numeric
+@attribute input numeric
+@attribute huancay numeric
+@attribute hindr numeric
+@attribute in-proces numeric
+@attribute il numeric
+@attribute imf numeric
+@attribute frederick numeric
+@attribute fire-damag numeric
+@attribute freight numeric
+@attribute free-cut numeric
+@attribute fees numeric
+@attribute extract numeric
+@attribute fir numeric
+@attribute fifteen numeric
+@attribute finland numeric
+@attribute goldfield numeric
+@attribute go-it-alon numeric
+@attribute greater numeric
+@attribute government-control numeric
+@attribute grav numeric
+@attribute funct numeric
+@attribute full-pl numeric
+@attribute gasp numeric
+@attribute fundam numeric
+@attribute gang numeric
+@attribute frit numeric
+@attribute fresh numeric
+@attribute gavir numeric
+@attribute frost numeric
+@attribute find numeric
+@attribute fernandez numeric
+@attribute flow numeric
+@attribute five-year numeric
+@attribute flood numeric
+@attribute great numeric
+@attribute gordon numeric
+@attribute gros numeric
+@attribute green numeric
+@attribute gera numeric
+@attribute gentleman numeric
+@attribute gom numeric
+@attribute gilbers numeric
+@attribute glob numeric
+@attribute er numeric
+@attribute equival numeric
+@attribute eshleman numeric
+@attribute escalant numeric
+@attribute el numeric
+@attribute ecuador numeric
+@attribute ensur numeric
+@attribute elder numeric
+@attribute enap numeric
+@attribute faq numeric
+@attribute fals numeric
+@attribute fer numeric
+@attribute felt numeric
+@attribute ex-dock numeric
+@attribute espec numeric
+@attribute extern numeric
+@attribute expenditur numeric
+@attribute expir numeric
+@attribute infl numeric
+@attribute inevit numeric
+@attribute inject numeric
+@attribute inflec numeric
+@attribute immin numeric
+@attribute imc numeric
+@attribute ind numeric
+@attribute imp numeric
+@attribute incorpor numeric
+@attribute intransig numeric
+@attribute interview numeric
+@attribute ital numeric
+@attribute invit numeric
+@attribute inst numeric
+@attribute insist numeric
+@attribute interim numeric
+@attribute insur numeric
+@attribute inter-african numeric
+@attribute guzman numeric
+@attribute guidel numeric
+@attribute haul numeric
+@attribute hast numeric
+@attribute guaranteed numeric
+@attribute guarante numeric
+@attribute guaxup numeric
+@attribute guatemal numeric
+@attribute guatemalan numeric
+@attribute horick numeric
+@attribute hondur numeric
+@attribute illustr numeric
+@attribute host numeric
+@attribute @@class@@ {alum,cocoa,coffee,copper,gold,grain,livestock,oilseed,sugar,tin,veg-oil,crude,gas,acq,cpi,interest,money-fx,ship,trade}
+
+@data
+{12 4.547774,32 0.718901,49 1.358902,58 3.517539,92 2.891462}
+{12 3.604026,32 0.453576,34 1.500638,48 5.473582,99 6.580549}
+{12 2.273887,32 0.453576,99 3.290274}
+{12 4.547774,32 0.453576,34 1.500638,48 4.337711,50 2.569563,83 2.772345,99 6.580549}
+{12 3.604026,32 0.453576,34 1.500638,48 5.473582,99 6.580549}
+{6 1.187346,12 5.279802,22 3.331063,31 1.701989,32 0.718901,34 1.500638,46 1.304151,48 2.736791,52 2.291892,69 3.818454,99 7.639781}
+{6 1.187346,12 5.279802,99 9.870823}
+{12 5.877913,22 2.101667,31 1.701989,32 0.718901,34 3.001277,46 1.304151,55 2.785916,57 2.174697}
+{7 2.074481,8 1.548877,12 7.208051,22 2.101667,32 1.273348,34 2.378456,48 2.736791,69 1.909227}
+{12 6.821661,22 3.331063,32 0.718901,48 2.736791,108 3.035387}
+{12 3.604026,32 0.907152,34 1.500638,83 2.772345,108 4.810975}
+{6 1.187346,10 3.451512,22 2.101667,34 3.001277,50 1.621214,56 2.101667,83 2.772345}
+{12 4.547774,22 2.101667,30 2.310377,32 0.907152,34 1.500638,38 1.165369,49 1.358902,108 3.035387}
+{12 3.604026,32 0.907152}
+{6 1.187346,12 3.604026,32 0.718901,46 2.06703,108 3.035387}
+{12 6.383608,39 2.046366,48 8.675423,54 1.335561,99 5.214962}
+{12 2.273887,22 2.101667,31 1.701989}
+{12 6.383608,22 5.43273,31 1.701989,32 0.453576,46 1.304151,54 1.335561,55 2.785916,58 1.758769,84 7.846362}
+{12 3.604026,22 3.331063,32 0.907152,34 1.500638,48 2.736791,108 4.810975}
+{6 1.187346,12 4.547774,32 1.273348,52 2.291892}
+{12 3.604026,69 3.818454}
+{12 5.279802,32 0.718901,48 5.473582}
+{12 2.273887,54 2.116814,58 2.787584,92 5.782925}
+{6 1.187346,12 2.273887,22 4.203334,31 1.701989,54 1.335561,55 1.392958,57 2.174697,84 7.04795}
+{10 1.725756,12 6.821661,32 1.053171,34 2.378456,38 1.470532,48 5.473582,83 2.772345,105 2.222519}
+{10 2.735259,12 2.273887,22 2.101667,32 0.907152,34 3.001277,83 2.772345}
+{10 2.735259,12 5.279802,34 2.378456,48 2.736791,83 2.772345,108 3.035387}
+{4 5.419757,6 2.374693,9 1.254581,11 1.494838,14 3.353258,16 4.620754,23 3.622878,27 1.202334,31 2.697588,33 1.733863,36 2.710002,39 1.291113,41 1.839355,46 2.06703,50 3.764342,54 1.335561,103 8.906923,107 7.316814,121 7.04795,147 3.821359,169 3.15118,180 4.332821,196 3.571321,209 2.174697,328 2.310377,334 2.603026,453 3.852368,454 3.371915,460 2.329368,493 2.849441,496 3.852368,506 3.090868,589 2.554934,602 4.332821,605 6.354632,639 2.38968,1000 cocoa}
+{4 5.419757,19 1.679009,29 5.468928,32 0.718901,38 0.735266,44 3.198348,47 1.717743,105 2.222519,133 2.526475,137 3.090868,141 6.421911,143 3.852368,158 7.62886,162 9.558408,197 3.290274,246 5.860711,263 5.860711,315 2.58212,323 2.670727,331 4.813274,340 2.455744,361 8.665643,406 4.332821,408 4.051774,414 4.813274,425 7.704737,435 2.849441,449 2.849441,484 1.839355,489 4.332821,490 3.852368,505 3.852368,545 3.217244,553 2.411009,556 2.809821,566 2.273887,581 2.023113,627 2.702972,630 9.626549,1000 cocoa}
+{4 4.990416,6 1.187346,11 1.494838,14 4.23134,16 2.310377,19 1.679009,23 1.811439,32 0.453576,33 1.733863,36 1.709821,37 4.658737,46 2.608302,57 3.446813,65 5.872394,77 6.106808,103 2.809821,135 1.941472,182 3.852368,276 4.813274,301 4.813274,371 2.528774,508 3.571321,511 2.670727,569 6.10586,614 4.332821,634 3.206559,1000 cocoa}
+{4 7.143908,6 2.374693,11 1.494838,14 8.647723,15 3.856239,16 6.486048,23 7.077093,27 1.905654,32 1.053171,33 2.748108,36 3.419642,39 2.582227,41 5.518064,46 5.330669,49 2.717803,57 5.62151,63 2.885614,64 1.489086,66 2.702972,77 4.071206,116 3.290274,117 3.290274,133 1.594028,145 3.852368,155 3.371915,163 2.411009,178 2.528774,222 4.813274,241 4.813274,247 4.813274,273 3.852368,278 3.422667,296 3.697697,300 3.464472,302 2.702972,306 4.813274,315 2.58212,330 2.610415,341 2.936197,362 3.464472,377 3.852368,379 3.217244,391 4.813274,392 4.810975,419 4.813274,434 4.813274,438 4.813274,444 4.332821,451 4.332821,460 5.408626,461 3.371915,477 2.670727,500 2.936197,506 3.090868,535 2.736791,537 4.332821,582 3.697697,589 4.049475,634 4.046227,1000 cocoa}
+{4 5.419757,6 1.187346,11 1.494838,14 6.706516,16 2.310377,23 6.01747,27 3.107988,33 4.86757,36 4.419823,39 3.33748,41 3.678709,46 4.134061,49 2.153808,57 2.174697,63 1.82062,64 2.360145,65 2.936197,70 7.172607,74 4.337711,77 5.261957,107 3.15118,121 3.035387,177 2.772345,203 2.144556,206 1.963834,237 4.898911,335 4.332821,362 3.464472,372 2.891462,379 3.217244,411 4.332821,431 2.736791,444 4.332821,501 2.455744,505 3.852368,514 1.340167,582 3.697697,592 4.332821,596 3.290274,597 4.051774,600 2.455744,616 3.464472,634 4.046227,1000 cocoa}
+{4 7.891077,6 1.187346,11 1.494838,14 10.059774,16 7.992591,18 1.477722,19 2.661167,27 1.202334,29 2.11567,31 2.697588,32 1.437801,36 2.710002,37 5.408626,41 3.678709,44 1.961058,46 6.201091,49 1.358902,54 2.116814,55 4.993701,57 5.62151,65 4.653762,74 4.337711,77 2.035603,89 2.58212,103 2.809821,133 2.526475,171 2.190274,176 3.290274,215 4.813274,221 2.809821,228 8.585787,246 3.697697,268 4.813274,316 3.852368,322 1.839355,328 4.620754,334 1.642326,340 2.455744,350 2.610415,355 4.332821,357 2.610415,366 8.316455,379 3.217244,392 3.035387,404 3.852368,418 2.610415,428 6.10586,441 3.217244,446 2.772345,463 4.813274,466 4.822019,468 3.464472,497 1.878415,501 2.455744,509 2.772345,511 2.670727,514 1.340167,527 2.639915,534 2.772345,544 3.15118,559 4.813274,563 4.810975,564 3.852368,566 4.547774,612 5.491059,613 3.217244,626 3.571321,634 2.023113,636 4.516257,1000 cocoa}
+{4 3.861113,6 1.187346,11 2.369262,14 3.353258,16 2.310377,23 1.811439,36 1.709821,41 1.839355,46 2.06703,57 2.174697,1000 cocoa}
+{4 4.482613,6 1.187346,11 1.494838,14 6.347011,16 4.620754,23 5.742125,27 2.404668,33 4.481972,36 3.970082,39 1.291113,41 2.915308,46 3.912453,54 1.335561,65 2.936197,70 4.049475,74 2.736791,77 3.226354,103 2.809821,107 6.30236,116 3.290274,117 3.290274,121 6.070774,175 2.809821,291 3.691962,304 3.290274,311 3.217244,324 3.090868,356 4.332821,389 3.371915,402 3.15118,431 2.736791,460 6.02133,520 2.849441,541 4.813274,546 4.051774,547 3.852368,593 4.813274,634 3.206559,1000 cocoa}
+{4 1.930556,6 1.187346,11 1.494838,14 2.11567,16 3.661861,23 1.811439,27 1.202334,33 3.467727,36 2.710002,39 1.291113,41 2.915308,46 1.304151,49 2.153808,70 4.049475,107 3.15118,121 3.035387,431 2.736791,522 3.290274,563 3.035387,631 2.849441,1000 cocoa}
+{4 6.678628,6 1.881899,11 1.494838,14 6.706516,16 5.364529,23 5.742125,27 3.607001,32 0.453576,33 5.496217,36 2.710002,37 2.329368,39 4.466518,41 2.915308,46 4.134061,49 2.717803,54 1.335561,63 1.82062,64 2.978172,70 2.554934,74 5.473582,77 4.071206,168 3.371915,206 1.963834,264 3.035387,282 3.15118,286 3.852368,326 3.217244,350 2.610415,393 4.911488,458 2.273887,460 3.691962,477 2.670727,571 4.332821,579 3.371915,596 3.290274,600 2.455744,621 2.256338,632 2.610415,1000 cocoa}
+{4 5.791669,6 1.881899,11 1.494838,14 5.939437,16 2.310377,23 5.085352,27 1.905654,33 4.86757,36 2.710002,37 2.329368,39 1.291113,41 2.915308,46 3.661215,49 1.358902,54 1.335561,65 2.936197,70 2.554934,74 4.337711,77 5.261957,107 6.30236,114 2.984019,121 6.070774,163 2.411009,203 2.144556,208 2.809821,214 2.503566,250 2.736791,293 2.891462,334 1.642326,375 3.697697,460 2.329368,475 2.984019,506 3.090868,551 2.849441,566 2.273887,581 2.023113,590 3.371915,600 2.455744,612 3.464472,634 3.206559,1000 cocoa}
+{4 6.920972,6 1.187346,11 1.494838,14 6.706516,16 3.661861,19 1.679009,23 5.434317,27 2.791733,33 4.025906,36 1.709821,37 5.408626,41 1.839355,46 3.912453,49 1.358902,57 2.174697,65 2.936197,70 2.554934,74 6.354632,77 6.106808,107 4.994502,121 4.810975,163 2.411009,170 3.571321,214 2.503566,250 2.736791,264 3.035387,278 3.422667,334 1.642326,379 3.217244,432 4.051774,465 3.697697,551 2.849441,566 3.604026,600 3.892262,609 3.217244,616 3.464472,1000 cocoa}
+{4 4.482613,6 1.881899,11 1.494838,14 4.23134,16 3.661861,23 1.811439,36 1.709821,41 1.839355,46 2.608302,49 1.358902,57 2.174697,74 2.736791,77 3.226354,208 2.809821,379 3.217244,421 2.310377,634 2.023113,1000 cocoa}
+{4 8.343726,6 1.187346,9 0.791552,11 2.369262,14 8.647723,16 7.674906,23 4.682502,27 2.404668,31 1.701989,32 1.360728,33 4.025906,36 4.800075,38 0.735266,39 2.046366,41 6.110204,46 5.330669,49 3.51271,50 2.569563,54 1.335561,57 5.04949,65 2.936197,70 2.554934,77 4.726523,78 2.061278,103 4.453462,107 6.30236,121 6.070774,146 3.697697,151 2.455744,171 3.471502,210 3.852368,211 2.273887,221 5.619643,228 3.697697,237 3.090868,252 4.051774,291 2.329368,300 3.464472,303 3.090868,316 7.704737,317 4.394063,321 4.332821,322 1.839355,324 3.090868,328 5.364529,384 4.332821,392 3.035387,417 4.813274,421 3.661861,423 4.332821,424 4.813274,432 4.051774,437 2.849441,460 2.329368,480 4.813274,499 4.332821,507 4.051774,514 1.340167,518 2.891462,520 2.849441,522 3.290274,529 4.332821,536 4.813274,539 2.772345,548 2.433016,566 2.273887,582 3.697697,601 4.813274,605 2.736791,612 3.464472,615 4.332821,634 2.023113,1000 cocoa}
+{1 1.397962,4 6.413169,6 2.374693,9 0.791552,11 2.369262,14 7.319016,16 6.486048,23 5.742125,27 2.791733,31 1.701989,32 0.718901,33 4.025906,36 5.129463,39 3.624613,41 5.518064,46 4.511621,49 3.155272,50 1.621214,54 2.671122,58 1.758769,63 3.64124,77 3.226354,103 4.453462,107 3.15118,116 5.214962,117 3.290274,121 3.035387,145 3.852368,155 3.371915,157 2.035603,164 2.849441,174 3.852368,184 3.15118,221 2.809821,261 4.051774,270 3.697697,322 1.839355,334 1.642326,336 2.58212,392 3.035387,403 3.290274,409 4.332821,411 4.332821,418 2.610415,430 4.332821,432 4.051774,461 3.371915,486 4.051774,495 5.860711,498 4.051774,506 4.898911,509 2.772345,513 4.332821,522 3.290274,546 4.051774,553 3.821359,571 4.332821,589 4.049475,592 6.86736,599 3.290274,600 2.455744,604 2.239222,631 2.849441,637 3.571321,639 3.787553,1000 cocoa}
+{0 3.497957,4 8.609184,6 2.756933,11 2.369262,14 8.055107,15 2.433016,16 6.931131,18 2.342135,19 1.679009,23 4.682502,27 3.375378,31 3.403978,32 1.172477,33 5.20159,36 2.710002,37 3.691962,38 0.735266,39 2.582227,41 3.678709,43 1.567868,46 5.216604,49 4.307616,50 1.621214,54 2.116814,55 1.392958,63 2.885614,64 2.360145,66 2.702972,70 4.049475,74 6.354632,77 5.714659,87 5.099211,93 2.528774,133 1.594028,140 4.813274,154 4.332821,168 5.34436,172 4.332821,175 2.809821,181 3.571321,185 4.051774,191 3.290274,200 3.464472,206 1.963834,208 2.809821,228 3.697697,250 2.736791,251 4.332821,259 3.852368,275 5.099211,278 2.159462,282 6.30236,292 3.464472,293 2.891462,308 3.571321,319 3.035387,328 2.310377,332 2.809821,334 2.603026,339 3.852368,347 2.503566,348 4.813274,364 3.090868,365 3.035387,367 4.051774,378 4.332821,393 2.455744,399 2.984019,418 2.610415,421 2.310377,427 3.090868,440 2.610415,447 4.332821,455 3.852368,458 2.273887,460 4.658737,471 4.051774,483 2.984019,492 3.371915,510 4.813274,514 2.124114,555 4.813274,566 4.547774,568 3.090868,588 4.813274,596 3.290274,598 3.035387,599 3.290274,603 3.852368,605 7.683144,618 2.849441,621 2.256338,638 3.464472,1000 cocoa}
+{4 5.419757,6 1.187346,11 1.494838,14 5.939437,16 2.310377,23 3.622878,27 2.404668,33 3.467727,37 2.329368,39 1.291113,41 2.915308,46 3.661215,49 2.153808,50 1.621214,54 1.335561,57 2.174697,63 1.82062,64 1.489086,74 4.337711,77 3.226354,155 3.371915,250 2.736791,311 3.217244,460 2.329368,500 2.936197,553 2.411009,634 2.023113,1000 cocoa}
+{4 1.930556,6 1.187346,11 1.494838,14 3.353258,16 4.620754,23 2.871063,39 2.046366,41 1.839355,46 2.06703,54 1.335561,70 2.554934,116 3.290274,117 3.290274,202 3.371915,431 2.736791,1000 cocoa}
+{0 1.506488,1 1.397962,4 3.059859,203 2.144556,292 5.491059,426 4.810975,514 1.340167,634 2.023113,1000 cocoa}
+{4 3.861113,32 1.273348,38 1.470532,186 3.576211,322 1.839355,502 4.813274,1000 cocoa}
+{4 1.930556,6 1.881899,14 2.11567,27 1.905654,31 1.701989,33 1.733863,41 1.839355,46 1.304151,49 2.153808,63 1.82062,64 1.489086,317 2.772345,322 1.839355,416 4.813274,472 2.411009,551 2.849441,595 4.813274,1000 cocoa}
+{4 3.059859,32 1.172477,44 1.23729,47 3.988475,65 2.936197,323 2.670727,514 1.340167,1000 cocoa}
+{4 3.059859,32 1.172477,44 1.23729,47 3.988475,65 2.936197,323 2.670727,514 1.340167,1000 cocoa}
+{4 3.059859,32 1.172477,44 1.23729,47 3.988475,65 2.936197,323 2.670727,514 1.340167,1000 cocoa}
+{4 3.059859,6 1.187346,11 1.494838,16 4.620754,38 1.165369,394 3.290274,443 5.660411,1000 cocoa}
+{4 6.920972,6 1.187346,11 1.494838,14 4.23134,16 3.661861,23 4.206031,32 0.453576,36 3.970082,37 3.691962,39 2.046366,41 4.270849,46 3.028145,49 2.717803,54 2.671122,55 1.392958,57 4.349394,65 2.936197,74 2.736791,77 2.035603,136 3.035387,160 4.813274,171 2.190274,319 3.035387,334 1.642326,373 3.697697,379 3.217244,384 4.332821,420 4.813274,428 3.852368,435 2.849441,469 3.464472,514 2.124114,520 2.849441,529 4.332821,605 4.337711,634 2.023113,1000 cocoa}
+{4 4.990416,6 1.187346,11 1.494838,14 6.706516,16 3.661861,23 5.434317,27 2.791733,33 4.481972,39 1.291113,41 2.915308,46 4.134061,54 1.335561,57 4.349394,63 1.82062,64 2.360145,70 2.554934,77 3.226354,114 2.984019,116 3.290274,117 3.290274,221 2.809821,278 2.159462,340 2.455744,342 2.772345,368 3.697697,393 2.455744,421 2.310377,431 2.736791,457 2.38968,506 3.090868,514 1.340167,539 2.772345,582 3.697697,621 2.256338,1000 cocoa}
+{4 3.861113,6 1.187346,11 1.494838,14 5.939437,16 3.661861,23 5.434317,27 1.905654,33 2.748108,41 4.270849,46 3.661215,63 1.82062,70 4.049475,77 4.071206,116 6.580549,117 3.290274,165 4.813274,206 1.963834,264 3.035387,278 2.159462,375 3.697697,436 4.813274,455 3.852368,487 2.368988,506 6.181737,582 3.697697,604 2.239222,637 3.571321,1000 cocoa}
+{4 1.930556,6 1.187346,14 3.353258,16 3.661861,23 2.871063,27 1.202334,33 2.748108,36 2.710002,39 2.046366,41 2.915308,46 2.06703,64 1.489086,116 3.290274,117 3.290274,155 3.371915,161 3.217244,258 3.290274,278 2.159462,336 2.58212,393 2.455744,488 4.051774,494 3.852368,547 3.852368,585 4.051774,589 2.554934,594 4.813274,600 2.455744,1000 cocoa}
+{4 4.990416,6 1.187346,11 1.494838,14 7.028104,16 4.620754,23 5.085352,27 2.791733,33 4.481972,36 2.710002,39 1.291113,41 2.915308,46 4.332296,49 2.153808,54 1.335561,57 2.174697,70 4.049475,74 2.736791,77 4.071206,116 3.290274,117 3.290274,145 3.852368,175 2.809821,206 1.963834,213 2.58212,278 3.422667,286 3.852368,326 3.217244,340 3.892262,398 4.051774,431 2.736791,470 3.15118,495 3.697697,504 4.813274,543 4.813274,621 3.576211,631 2.849441,634 2.023113,1000 cocoa}
+{4 1.930556,6 1.187346,11 1.494838,16 4.620754,23 1.811439,65 2.936197,103 2.809821,116 3.290274,117 3.290274,352 3.571321,356 6.86736,1000 cocoa}
+{4 5.419757,6 2.374693,9 1.254581,11 1.494838,14 3.353258,16 4.620754,23 3.622878,27 1.202334,31 2.697588,33 1.733863,36 2.710002,39 1.291113,41 1.839355,46 2.06703,50 3.764342,54 1.335561,103 8.906923,107 7.316814,121 7.04795,147 3.821359,169 3.15118,180 4.332821,196 3.571321,209 2.174697,328 2.310377,334 2.603026,453 3.852368,454 3.371915,460 2.329368,493 2.849441,496 3.852368,506 3.090868,589 2.554934,602 4.332821,605 6.354632,639 2.38968,1000 cocoa}
+{4 1.930556,6 1.187346,9 0.791552,11 1.494838,16 5.364529,23 3.622878,36 3.419642,39 1.291113,54 2.116814,103 6.524203,107 4.994502,121 4.810975,159 3.371915,174 3.852368,209 2.174697,278 2.159462,336 2.58212,430 4.332821,453 3.852368,486 4.051774,493 2.849441,496 3.852368,1000 cocoa}
+{0 4.229246,4 3.059859,6 1.187346,14 3.353258,27 1.905654,31 2.697588,32 0.718901,34 1.500638,41 1.839355,46 2.608302,49 2.153808,50 3.242427,57 2.174697,78 2.061278,93 2.528774,186 2.256338,209 2.174697,271 3.217244,318 11.176077,319 3.035387,325 3.290274,328 3.661861,329 3.571321,345 4.051774,353 3.035387,354 4.813274,382 4.813274,388 4.813274,448 1.868442,450 4.051774,457 2.38968,487 2.368988,512 3.290274,579 3.371915,610 3.852368,1000 cocoa}
+{4 1.930556,6 1.187346,11 1.494838,16 4.620754,508 3.571321,574 2.610415,578 2.291892,1000 cocoa}
+{0 1.506488,1 1.397962,4 1.930556,6 1.187346,8 1.548877,31 1.701989,274 3.852368,322 1.839355,352 3.571321,370 7.62886,376 7.62886,390 4.051774,456 3.217244,523 3.697697,561 4.813274,565 2.670727,620 4.813274,1000 cocoa}
+{4 5.419757,6 2.374693,11 1.494838,14 3.353258,19 1.679009,23 1.811439,27 2.404668,32 0.453576,39 2.046366,41 1.839355,46 2.06703,50 2.569563,65 2.936197,103 2.809821,183 4.332821,191 3.290274,201 2.772345,221 4.453462,223 1.941472,242 3.290274,285 4.813274,314 4.813274,334 1.642326,352 3.571321,360 4.813274,576 4.813274,605 2.736791,1000 cocoa}
+{4 1.930556,14 2.11567,16 2.310377,32 0.453576,46 1.304151,54 2.116814,262 4.184167,297 4.813274,305 2.58212,309 4.813274,337 4.810975,347 2.503566,369 2.610415,385 4.813274,401 6.86736,521 3.852368,548 2.433016,558 4.813274,572 5.698881,625 3.852368,634 3.206559,1000 cocoa}
+{4 3.861113,9 0.791552,32 0.907152,38 1.165369,152 2.061278,179 2.129962,264 3.035387,295 4.813274,387 3.090868,412 6.10586,548 2.433016,566 2.273887,584 2.479243,1000 cocoa}
+{4 6.119719,6 1.187346,14 5.468928,16 3.661861,27 2.404668,31 1.701989,32 1.053171,37 7.737994,38 1.165369,41 3.678709,46 4.134061,49 2.717803,55 3.234348,57 2.174697,74 6.354632,181 3.571321,193 5.660411,203 3.39904,231 4.051774,310 3.035387,316 6.10586,319 3.035387,320 2.702972,328 2.310377,358 3.090868,364 4.898911,392 3.035387,393 2.455744,397 3.422667,439 4.879919,446 2.772345,605 7.074502,621 2.256338,629 3.15118,1000 cocoa}
+{4 3.861113,6 1.187346,11 1.494838,14 2.11567,16 3.661861,23 1.811439,27 1.202334,31 1.701989,33 1.733863,41 1.839355,46 1.304151,49 1.358902,50 2.569563,55 3.600744,63 4.227348,70 2.554934,138 4.813274,144 4.813274,156 3.571321,163 2.411009,186 3.576211,192 3.217244,206 1.963834,308 3.571321,346 3.852368,351 7.62886,390 4.051774,397 2.159462,433 3.852368,452 4.813274,482 3.15118,538 3.090868,539 2.772345,548 2.433016,573 2.670727,586 3.464472,600 2.455744,608 4.332821,619 4.813274,631 2.849441,634 2.023113,1000 cocoa}
+{4 3.059859,29 8.055107,44 3.922116,54 2.671122,60 1.671516,105 2.222519,152 2.061278,166 3.15118,177 2.772345,189 8.716275,218 3.852368,243 3.035387,244 3.090868,246 13.256106,253 4.813274,254 4.813274,260 4.332821,269 4.813274,277 2.222519,280 3.697697,283 3.571321,290 2.984019,291 2.329368,298 7.62886,313 2.190274,333 3.852368,338 6.86736,395 4.332821,405 3.464472,407 3.571321,415 2.936197,445 4.332821,455 6.10586,459 3.852368,473 4.332821,474 3.571321,484 4.270849,490 3.852368,501 2.455744,514 2.124114,516 6.421911,519 4.051774,524 4.813274,526 3.15118,527 4.184167,532 11.721423,549 4.726523,552 4.898911,560 3.035387,562 3.754757,581 3.206559,587 2.736791,611 4.332821,633 3.035387,1000 cocoa}
+{4 1.930556,19 1.679009,29 4.23134,44 2.872898,54 2.116814,55 2.785916,157 2.035603,166 3.15118,177 2.772345,189 5.34436,209 2.174697,243 3.035387,245 4.813274,246 8.585787,279 5.491059,283 3.571321,289 3.15118,307 3.15118,327 2.159462,343 3.371915,344 2.190274,386 3.697697,395 4.332821,407 3.571321,413 2.849441,422 4.051774,464 4.813274,484 2.915308,485 4.813274,501 2.455744,515 4.813274,532 8.585787,554 3.697697,562 2.368988,581 2.023113,623 4.813274,635 4.332821,1000 cocoa}
+{0 3.894215,32 0.718901,61 3.375911,129 3.217244,190 2.849441,219 4.051774,239 3.15118,440 4.137411,717 3.090868,959 7.62886,1000 coffee}
+{0 3.894215,19 3.898539,29 4.912434,38 1.165369,105 3.52261,135 4.507959,157 2.035603,344 3.471502,399 2.984019,413 2.849441,448 1.868442,581 2.023113,720 4.092563,760 3.697697,811 3.571321,970 4.051774,1000 coffee}
+{0 4.519464,1 2.215718,4 3.861113,6 2.374693,9 0.791552,11 1.494838,13 4.046227,18 2.342135,19 7.698195,25 5.095615,26 1.123645,27 2.404668,32 0.453576,33 2.748108,38 2.635902,44 3.922116,50 2.569563,52 2.291892,54 1.335561,63 1.82062,66 2.702972,69 3.818454,75 2.849441,76 2.849441,77 2.035603,86 1.975291,89 2.58212,100 3.422667,147 2.411009,179 2.129962,209 2.174697,237 3.090868,240 5.660411,262 2.639915,270 3.697697,275 3.217244,293 2.891462,313 4.380548,328 2.310377,332 2.809821,333 3.852368,336 2.58212,340 2.455744,344 2.190274,418 2.610415,421 3.661861,448 5.24538,457 2.38968,465 3.697697,466 2.411009,484 3.678709,527 2.639915,549 2.035603,621 2.256338,638 3.464472,701 4.051774,727 2.239222,747 3.571321,756 4.516257,780 3.15118,937 2.528774,939 3.371915,953 9.626549,969 3.090868,978 3.852368,1000 coffee}
+{0 4.229246,6 1.187346,11 1.494838,13 3.206559,18 3.431165,19 5.577549,27 1.905654,29 6.347011,33 2.748108,35 2.239222,38 2.635902,44 1.961058,49 3.155272,50 3.764342,52 2.291892,54 1.335561,63 1.82062,67 5.619643,75 9.032513,76 2.849441,105 4.445039,129 3.217244,133 1.594028,149 3.464472,209 2.174697,238 2.639915,277 2.222519,326 3.217244,328 2.310377,369 2.610415,469 3.464472,530 4.408886,542 2.329368,610 3.852368,639 3.787553,727 3.549084,731 4.051774,735 3.852368,757 3.571321,766 3.852368,972 4.332821,1000 coffee}
+{0 3.894215,19 1.679009,26 1.123645,27 2.404668,29 4.23134,36 1.709821,49 1.358902,52 4.583784,54 1.335561,67 7.263283,151 3.892262,322 4.754663,604 2.239222,621 2.256338,774 7.639781,948 7.62886,992 2.809821,1000 coffee}
+{10 1.725756,458 2.273887,549 2.035603,732 4.332821,751 4.332821,772 2.891462,782 4.332821,946 4.332821,993 4.332821,1000 coffee}
+{0 4.229246,6 1.187346,11 1.494838,13 4.046227,18 2.955445,19 3.358019,27 1.202334,29 2.11567,31 2.697588,35 3.549084,36 1.709821,38 1.165369,39 2.997872,49 1.358902,50 2.569563,54 2.116814,57 2.174697,75 2.849441,76 2.849441,89 2.58212,93 2.528774,134 4.051774,171 2.190274,197 3.290274,291 2.329368,310 3.035387,322 1.839355,437 2.849441,439 2.101667,738 3.15118,754 3.464472,935 3.571321,1000 coffee}
+{0 5.004444,6 1.187346,27 1.905654,29 3.353258,38 2.442501,44 1.23729,46 2.06703,63 1.82062,146 3.697697,152 2.061278,157 2.035603,204 2.809821,214 2.503566,217 3.290274,225 3.571321,234 4.332821,399 2.984019,448 2.96141,468 3.464472,518 2.891462,525 2.702972,533 6.10586,556 2.809821,621 2.256338,628 4.051774,649 2.610415,715 3.464472,736 3.852368,743 3.464472,745 4.332821,759 4.051774,762 5.860711,764 3.852368,767 10.380748,770 5.860711,771 7.474322,807 3.090868,934 2.849441,952 4.008013,962 6.86736,965 2.772345,967 3.371915,969 3.090868,989 4.051774,1000 coffee}
+{0 3.497957,6 1.881899,11 1.494838,18 2.955445,19 2.661167,27 1.905654,38 1.470532,39 3.624613,49 1.358902,50 1.621214,52 2.291892,63 1.82062,75 2.849441,76 2.849441,80 1.898804,128 5.099211,151 2.455744,195 3.571321,206 3.927668,243 3.035387,317 2.772345,322 1.839355,369 2.610415,579 3.371915,639 2.38968,679 3.852368,955 3.15118,966 3.290274,994 3.15118,997 3.090868,1000 coffee}
+{0 3.497957,6 1.187346,35 4.478445,202 5.34436,448 3.736884,621 2.256338,721 2.891462,747 3.571321,777 3.852368,935 7.142643,966 5.214962,1000 coffee}
+{0 4.229246,1 1.397962,2 1.077855,3 1.878415,4 1.930556,6 1.187346,9 0.791552,11 2.989676,18 2.342135,21 2.933085,25 2.547808,26 1.123645,27 1.202334,31 1.701989,38 1.470532,42 1.574316,49 1.358902,51 4.233002,54 1.335561,69 3.818454,72 4.582859,85 2.809821,157 2.035603,204 4.453462,216 5.698881,293 2.891462,305 4.092563,308 3.571321,327 3.422667,334 1.642326,372 2.891462,393 2.455744,405 3.464472,415 2.936197,418 2.610415,461 5.34436,484 1.839355,503 6.354632,538 6.181737,785 3.290274,925 2.936197,969 3.090868,1000 coffee}
+{0 4.775454,6 2.374693,11 1.494838,13 7.70271,14 2.11567,18 6.38661,19 5.037028,23 5.085352,27 4.577712,29 2.11567,31 2.697588,32 0.453576,33 6.215835,36 1.709821,38 2.064153,39 2.046366,43 1.567868,44 2.872898,46 3.371181,49 2.717803,50 2.569563,52 2.291892,54 3.101077,55 3.234348,63 5.111126,66 2.702972,67 2.809821,69 3.818454,70 2.554934,74 2.736791,75 8.548322,76 2.849441,77 5.261957,89 2.58212,93 4.008013,114 2.984019,147 2.411009,149 3.464472,168 3.371915,188 2.736791,190 2.849441,199 2.984019,209 3.446813,226 2.936197,271 5.099211,278 2.159462,291 2.329368,315 4.092563,332 2.809821,334 1.642326,341 2.936197,350 2.610415,375 3.697697,437 2.849441,450 4.051774,514 2.124114,525 2.702972,530 1.898804,548 4.866032,572 2.849441,605 2.736791,636 2.849441,682 3.090868,727 2.239222,745 4.332821,772 2.891462,781 3.217244,937 2.528774,963 3.290274,979 2.503566,983 3.852368,1000 coffee}
+{0 3.012976,6 1.187346,35 4.478445,202 5.34436,448 3.736884,621 2.256338,747 3.571321,777 3.852368,935 5.660411,966 5.214962,1000 coffee}
+{0 4.519464,6 1.881899,11 1.494838,13 4.046227,18 4.148491,27 1.202334,31 1.701989,33 1.733863,38 0.735266,49 3.155272,63 1.82062,69 3.818454,93 4.008013,123 7.316814,129 9.651732,182 3.852368,206 1.963834,223 1.941472,250 2.736791,403 3.290274,539 2.772345,566 2.273887,572 2.849441,578 2.291892,586 3.464472,600 2.455744,763 7.62886,1000 coffee}
+{0 5.400703,6 1.881899,11 1.494838,13 4.046227,18 3.819857,19 1.679009,27 2.791733,31 2.697588,32 0.453576,33 2.748108,38 1.470532,39 1.291113,49 2.717803,50 1.621214,63 1.82062,89 2.58212,147 2.411009,182 3.852368,195 3.571321,235 3.464472,334 1.642326,347 2.503566,369 2.610415,448 2.96141,525 5.405945,734 3.217244,772 2.891462,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,18 3.431165,23 3.622878,27 1.202334,33 1.733863,35 2.239222,36 1.709821,38 0.735266,39 2.046366,49 1.358902,50 1.621214,437 2.849441,440 2.610415,482 3.15118,553 2.411009,1000 coffee}
+{0 3.497957,6 1.187346,11 1.494838,13 2.023113,18 2.955445,19 2.661167,23 3.622878,27 2.404668,33 2.748108,36 2.710002,38 1.165369,39 1.291113,44 1.23729,49 2.153808,50 2.569563,54 1.335561,70 2.554934,89 2.58212,114 2.984019,123 3.15118,159 3.371915,171 2.190274,184 3.15118,447 4.332821,547 3.852368,552 3.090868,553 2.411009,572 2.849441,719 5.491059,725 2.936197,734 3.217244,1000 coffee}
+{0 3.894215,6 1.187346,11 1.494838,13 3.206559,18 2.342135,31 1.701989,38 1.165369,49 1.358902,50 2.569563,66 2.702972,93 2.528774,544 3.15118,563 3.035387,753 3.852368,1000 coffee}
+{0 5.400703,6 1.187346,11 1.494838,13 3.206559,18 4.433167,19 5.577549,23 1.811439,26 2.609023,27 4.577712,28 2.087941,31 4.399577,33 3.467727,35 4.478445,36 1.709821,38 1.165369,44 1.23729,46 1.304151,49 2.153808,50 5.139126,54 2.671122,63 1.82062,64 1.489086,66 2.702972,77 2.035603,80 1.898804,93 4.008013,103 2.809821,114 2.984019,118 3.787553,163 3.821359,201 2.772345,206 1.963834,209 2.174697,212 3.371915,214 2.503566,238 2.639915,243 3.035387,272 2.936197,291 2.329368,302 4.28411,326 3.217244,330 2.610415,334 3.813364,458 2.273887,467 2.670727,487 2.368988,497 1.878415,514 1.340167,525 4.28411,530 3.797607,574 2.610415,599 3.290274,632 2.610415,633 3.035387,746 7.704737,750 3.464472,753 3.852368,765 3.090868,866 3.090868,941 3.15118,955 3.15118,977 4.051774,978 3.852368,994 3.15118,1000 coffee}
+{0 5.574668,6 1.881899,11 1.494838,13 4.697524,18 5.11208,19 5.037028,23 5.085352,27 3.107988,29 2.11567,31 1.701989,32 0.453576,33 4.025906,34 1.500638,35 3.549084,36 2.710002,38 2.330739,39 2.997872,46 1.304151,49 2.717803,50 3.764342,52 2.291892,54 2.116814,63 3.64124,67 2.809821,69 1.909227,70 2.554934,75 2.849441,76 2.849441,89 4.092563,93 4.008013,171 2.190274,206 1.963834,213 2.58212,221 2.809821,317 2.772345,322 1.839355,368 3.697697,482 3.15118,501 2.455744,514 1.340167,525 4.28411,534 2.772345,548 2.433016,714 4.332821,734 3.217244,737 3.852368,772 2.891462,775 3.464472,845 3.571321,950 3.217244,984 3.852368,985 3.852368,998 4.332821,1000 coffee}
+{0 1.506488,1 1.397962,4 1.930556,57 3.446813,212 3.371915,336 6.674683,514 1.340167,525 2.702972,613 3.217244,677 3.852368,1000 coffee}
+{0 3.894215,6 1.187346,11 1.494838,13 2.023113,18 2.342135,19 2.661167,29 3.353258,31 2.697588,35 6.286292,38 1.900635,46 1.304151,50 2.569563,63 1.82062,93 2.528774,157 2.035603,238 2.639915,272 2.936197,310 3.035387,347 2.503566,368 3.697697,525 4.28411,549 2.035603,574 2.610415,633 3.035387,718 3.035387,772 2.891462,784 3.217244,935 9.231732,957 2.936197,972 6.86736,978 3.852368,979 2.503566,1000 coffee}
+{0 5.004444,6 1.187346,9 0.791552,11 1.494838,13 4.046227,18 2.955445,23 1.811439,26 1.123645,27 1.905654,29 5.468928,31 2.697588,35 8.286108,38 2.720808,39 1.291113,41 1.839355,50 2.569563,54 2.116814,56 2.101667,57 2.174697,70 2.554934,89 2.58212,93 2.528774,105 4.445039,152 2.061278,205 11.093091,214 2.503566,220 3.217244,227 3.697697,229 4.332821,238 2.639915,292 3.464472,310 3.035387,323 2.670727,397 2.159462,399 2.984019,439 2.101667,460 2.329368,472 2.411009,487 2.368988,501 2.455744,525 4.28411,530 3.797607,539 2.772345,548 2.433016,549 3.226354,552 3.090868,578 2.291892,624 3.15118,727 2.239222,754 3.464472,765 3.090868,783 4.051774,784 3.217244,934 2.849441,935 3.571321,942 2.809821,949 3.697697,951 6.421911,957 2.936197,963 3.290274,976 4.332821,978 3.852368,979 2.503566,982 3.852368,990 4.332821,998 4.332821,1000 coffee}
+{0 2.387727,29 2.11567,35 2.239222,44 1.23729,134 4.051774,196 3.571321,439 2.101667,961 4.332821,1000 coffee}
+{0 3.894215,6 1.187346,11 1.494838,13 3.206559,18 2.955445,19 3.358019,27 1.202334,31 1.701989,35 4.478445,38 1.470532,39 1.291113,44 1.23729,46 1.304151,49 2.153808,89 2.58212,93 4.008013,151 3.892262,164 2.849441,171 2.190274,205 7.395394,286 3.852368,290 2.984019,323 2.670727,334 1.642326,415 2.936197,466 2.411009,501 2.455744,552 3.090868,563 3.035387,572 2.849441,734 3.217244,783 4.051774,784 3.217244,934 2.849441,949 3.697697,966 3.290274,973 3.571321,1000 coffee}
+{0 3.894215,6 1.881899,11 2.369262,18 1.477722,19 1.679009,27 1.202334,31 1.701989,35 5.199314,38 0.735266,39 3.33748,41 1.839355,57 2.174697,63 1.82062,128 3.217244,205 3.697697,214 2.503566,290 2.984019,347 2.503566,350 2.610415,439 2.101667,472 2.411009,500 2.936197,748 2.639915,934 2.849441,949 3.697697,981 3.371915,1000 coffee}
+{0 4.775454,6 1.187346,11 1.494838,13 4.046227,18 3.431165,19 4.340177,27 2.404668,29 4.23134,31 3.403978,35 7.098167,38 2.635902,39 1.291113,41 1.839355,49 2.717803,50 3.242427,54 1.335561,55 1.392958,57 2.174697,70 2.554934,89 2.58212,93 2.528774,105 5.16053,209 2.174697,214 2.503566,237 3.090868,238 4.184167,272 2.936197,291 2.329368,304 3.290274,315 2.58212,323 2.670727,383 3.697697,392 3.035387,397 2.159462,437 2.849441,439 2.101667,530 4.408886,548 3.856239,549 2.035603,563 3.035387,574 2.610415,624 3.15118,629 3.15118,718 3.035387,744 3.090868,748 2.639915,775 3.464472,935 9.231732,942 2.809821,964 4.332821,973 3.571321,1000 coffee}
+{0 3.497957,6 2.374693,11 1.494838,13 3.206559,18 4.148491,29 2.11567,31 1.701989,33 1.733863,38 1.707235,39 2.046366,52 2.291892,63 1.82062,80 3.797607,237 3.090868,303 3.090868,334 1.642326,372 2.891462,418 2.610415,636 2.849441,766 3.852368,776 3.290274,954 12.163768,983 3.852368,1000 coffee}
+{0 1.506488,6 1.187346,34 3.879094,55 1.392958,63 1.82062,84 6.070774,122 3.464472,152 2.061278,194 4.332821,618 2.849441,729 9.407929,739 7.62886,937 4.008013,971 4.051774,1000 coffee}
+{0 3.012976,1 2.795925,4 3.861113,41 1.839355,54 2.116814,203 3.39904,428 3.852368,514 1.340167,520 2.849441,581 4.046227,636 2.849441,1000 coffee}
+{0 2.387727,1 1.397962,4 1.930556,203 2.144556,292 3.464472,426 4.810975,573 4.233002,589 2.554934,627 2.702972,634 2.023113,639 2.38968,1000 coffee}
+{0 2.387727,1 1.397962,4 1.930556,41 1.839355,54 2.116814,69 5.727681,190 2.849441,203 2.144556,208 4.453462,514 1.340167,581 3.206559,988 4.051774,1000 coffee}
+{0 3.497957,6 1.881899,11 1.494838,13 2.023113,18 1.477722,19 3.898539,27 1.905654,31 1.701989,38 1.165369,39 3.33748,49 1.358902,50 1.621214,52 2.291892,54 1.335561,67 2.809821,75 5.698881,76 2.849441,80 1.898804,128 3.217244,206 1.963834,243 3.035387,347 2.503566,418 2.610415,530 1.898804,579 3.371915,583 3.035387,590 3.371915,633 3.035387,955 3.15118,994 3.15118,997 3.090868,1000 coffee}
+{0 3.497957,32 0.718901,38 0.735266,258 3.290274,439 3.331063,562 2.368988,758 6.928945,1000 coffee}
+{0 2.387727,19 1.679009,32 1.053171,35 2.239222,38 0.735266,103 2.809821,322 1.839355,945 3.035387,995 4.051774,1000 coffee}
+{0 2.387727,19 3.358019,35 4.478445,38 1.165369,80 1.898804,105 3.52261,128 3.217244,133 2.526475,141 4.051774,148 5.214962,178 2.528774,219 4.051774,243 3.035387,280 3.697697,435 2.849441,449 2.849441,514 1.340167,566 2.273887,639 3.787553,715 3.464472,744 3.090868,945 3.035387,952 2.528774,960 7.62886,994 3.15118,1000 coffee}
+{0 3.497957,6 1.187346,11 2.369262,13 4.046227,18 2.342135,19 1.679009,23 1.811439,27 2.791733,33 1.733863,35 2.239222,36 1.709821,38 1.165369,39 2.582227,49 1.358902,50 1.621214,54 1.335561,80 1.898804,128 3.217244,187 4.051774,201 2.772345,243 3.035387,442 3.217244,606 3.217244,955 3.15118,956 3.464472,975 2.329368,981 3.371915,994 4.994502,995 4.051774,997 3.090868,999 3.852368,1000 coffee}
+{0 1.506488,19 1.679009,29 2.11567,38 0.735266,52 2.291892,67 5.619643,105 4.445039,277 2.222519,322 1.839355,725 2.936197,1000 coffee}
+{0 1.506488,19 1.679009,38 0.735266,52 2.291892,67 4.453462,105 2.222519,460 2.329368,572 2.849441,1000 coffee}
+{0 1.506488,19 1.679009,29 4.912434,38 0.735266,52 2.291892,54 1.335561,67 4.453462,105 6.239401,357 2.610415,549 2.035603,639 3.787553,725 2.936197,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,13 2.023113,18 4.148491,19 4.340177,27 1.202334,29 4.23134,31 1.701989,36 2.710002,38 1.470532,39 2.046366,50 1.621214,52 3.632563,67 7.888166,75 4.516257,76 2.849441,105 6.667558,114 2.984019,123 3.15118,240 3.571321,250 2.736791,278 2.159462,294 2.38968,330 2.610415,343 3.371915,350 2.610415,362 3.464472,397 2.159462,407 3.571321,440 2.610415,514 1.340167,530 1.898804,577 3.290274,621 2.256338,639 2.38968,720 2.58212,879 3.852368,884 3.571321,991 2.984019,1000 coffee}
+{0 3.012976,19 2.661167,27 1.202334,31 1.701989,39 2.046366,52 2.291892,67 5.619643,75 5.698881,76 2.849441,196 3.571321,347 2.503566,600 2.455744,1000 coffee}
+{0 2.387727,13 4.046227,19 3.358019,39 2.997872,52 2.291892,54 1.335561,67 4.453462,75 5.698881,76 2.849441,186 2.256338,187 4.051774,206 1.963834,227 3.697697,272 2.936197,329 3.571321,586 3.464472,1000 coffee}
+{0 3.012976,19 2.661167,27 1.202334,35 2.239222,39 2.582227,52 2.291892,54 1.335561,67 2.809821,75 2.849441,76 2.849441,236 3.290274,347 2.503566,717 3.090868,719 3.464472,1000 coffee}
+{0 3.012976,6 1.187346,11 1.494838,19 1.679009,29 4.23134,52 2.291892,67 2.809821,74 2.736791,105 5.16053,133 1.594028,322 1.839355,357 2.610415,733 5.860711,945 3.035387,1000 coffee}
+{0 1.506488,6 1.187346,11 1.494838,13 5.229672,39 2.046366,1000 coffee}
+{0 3.012976,6 1.187346,11 2.369262,13 4.697524,18 4.908888,19 4.713575,23 5.434317,27 3.375378,29 4.912434,33 4.025906,36 3.419642,38 1.900635,39 2.997872,46 2.06703,49 2.717803,50 2.569563,54 2.116814,63 3.64124,271 3.217244,294 2.38968,311 3.217244,322 1.839355,514 1.340167,525 2.702972,534 2.772345,738 4.994502,746 3.852368,750 5.491059,755 3.571321,757 3.571321,995 4.051774,1000 coffee}
+{0 4.229246,6 1.187346,11 1.494838,13 5.679597,18 4.684269,19 5.037028,23 4.682502,27 3.994067,31 2.697588,32 0.453576,33 3.467727,35 2.239222,36 2.710002,38 1.707235,39 3.87334,46 1.304151,49 2.717803,50 2.569563,52 2.291892,54 2.116814,55 1.392958,63 5.111126,70 2.554934,75 2.849441,76 2.849441,80 1.898804,123 3.15118,159 3.371915,163 2.411009,195 3.571321,199 2.984019,206 1.963834,213 2.58212,236 3.290274,300 3.464472,315 2.58212,355 4.332821,418 2.610415,440 2.610415,514 1.340167,534 2.772345,579 3.371915,633 3.035387,722 2.639915,740 4.051774,750 3.464472,966 3.290274,997 3.090868,1000 coffee}
+{0 3.012976,6 1.187346,11 2.369262,13 4.697524,18 3.819857,19 2.661167,23 4.682502,27 4.159392,31 2.697588,33 4.025906,36 1.709821,38 1.165369,39 2.582227,50 2.569563,54 3.749394,55 1.392958,63 2.885614,66 2.702972,77 2.035603,197 3.290274,199 2.984019,204 2.809821,214 2.503566,340 2.455744,350 2.610415,353 3.035387,369 2.610415,418 2.610415,431 4.337711,572 2.849441,600 2.455744,940 3.290274,986 4.332821,1000 coffee}
+{0 3.894215,6 1.881899,11 1.494838,13 3.206559,18 2.955445,19 1.679009,23 3.622878,27 1.202334,32 0.453576,33 1.733863,36 1.709821,38 1.165369,39 2.046366,49 2.153808,50 1.621214,54 1.335561,89 2.58212,171 2.190274,206 1.963834,278 2.159462,319 3.035387,440 2.610415,501 2.455744,539 2.772345,624 3.15118,734 3.217244,896 3.571321,937 2.528774,1000 coffee}
+{0 1.506488,6 1.187346,11 1.494838,13 3.206559,18 2.342135,23 1.811439,27 2.404668,50 1.621214,54 1.335561,278 2.159462,477 2.670727,590 3.371915,725 2.936197,738 3.15118,746 3.852368,1000 coffee}
+{0 3.497957,6 1.187346,11 1.494838,13 3.206559,18 2.955445,23 2.871063,36 1.709821,38 1.165369,39 2.582227,49 2.153808,50 1.621214,54 1.335561,171 2.190274,233 3.571321,448 1.868442,553 2.411009,631 2.849441,980 3.571321,1000 coffee}
+{0 1.506488,6 1.187346,11 1.494838,13 4.046227,18 2.342135,23 2.871063,27 1.202334,29 2.11567,33 1.733863,38 0.735266,39 1.291113,63 1.82062,123 3.15118,277 2.222519,278 2.159462,294 2.38968,738 3.15118,785 3.290274,1000 coffee}
+{0 1.506488,6 1.187346,11 1.494838,13 2.023113,18 3.431165,19 1.679009,23 5.085352,27 1.202334,33 1.733863,35 3.549084,36 1.709821,38 1.165369,39 2.997872,44 1.23729,49 1.358902,50 1.621214,54 1.335561,123 3.15118,171 2.190274,186 2.256338,271 3.217244,272 2.936197,472 2.411009,482 3.15118,498 4.051774,557 2.849441,631 2.849441,778 3.571321,934 2.849441,1000 coffee}
+{0 3.012976,6 1.187346,11 1.494838,18 1.477722,19 2.661167,35 2.239222,38 0.735266,50 1.621214,52 2.291892,75 2.849441,76 2.849441,93 2.528774,105 3.52261,123 3.15118,133 1.594028,203 2.144556,741 4.051774,945 3.035387,1000 coffee}
+{0 4.775454,6 1.881899,11 1.494838,13 6.720637,18 6.684569,19 5.808418,23 6.266549,27 5.1964,31 1.701989,33 4.481972,35 2.239222,36 3.419642,38 1.707235,39 2.997872,44 1.23729,46 2.06703,47 2.722558,49 1.358902,50 3.242427,54 3.452375,55 2.207786,63 5.111126,66 2.702972,69 1.909227,93 4.008013,105 2.222519,129 3.217244,163 2.411009,184 3.15118,199 5.968039,238 2.639915,291 2.329368,294 3.787553,326 3.217244,334 2.603026,369 2.610415,393 2.455744,503 2.736791,506 3.090868,514 1.340167,534 2.772345,545 5.099211,547 3.852368,548 2.433016,553 2.411009,557 2.849441,579 3.371915,581 2.023113,724 5.660411,746 3.852368,757 3.571321,778 3.571321,936 6.580549,950 3.217244,966 3.290274,968 3.035387,984 3.852368,985 3.852368,994 3.15118,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,13 3.206559,18 2.342135,23 1.811439,35 2.239222,36 2.710002,38 0.735266,39 2.046366,49 1.358902,50 2.569563,54 1.335561,171 2.190274,408 4.051774,431 2.736791,600 2.455744,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,13 3.206559,18 2.342135,23 3.622878,27 1.905654,33 1.733863,36 1.709821,38 0.735266,39 2.582227,46 2.06703,50 1.621214,54 2.116814,278 3.422667,289 3.15118,340 2.455744,393 2.455744,418 2.610415,431 2.736791,725 2.936197,750 5.491059,1000 coffee}
+{0 4.229246,6 1.881899,11 1.494838,18 3.431165,19 1.679009,27 1.905654,31 1.701989,32 0.907152,33 1.733863,38 1.900635,39 1.291113,44 1.23729,49 1.358902,89 2.58212,184 3.15118,206 1.963834,291 2.329368,441 3.217244,713 3.571321,727 2.239222,975 5.408626,1000 coffee}
+{0 3.894215,6 1.187346,13 5.229672,18 4.908888,19 5.037028,23 1.811439,27 2.404668,31 1.701989,32 0.718901,33 4.025906,35 4.478445,38 1.707235,39 1.291113,44 1.23729,46 1.304151,49 1.358902,50 1.621214,55 1.392958,63 2.885614,70 5.109868,80 1.898804,89 2.58212,93 2.528774,123 3.15118,151 2.455744,186 2.256338,201 2.772345,214 2.503566,221 2.809821,232 12.442134,311 3.217244,325 3.290274,440 2.610415,442 3.217244,548 2.433016,603 7.704737,606 3.217244,713 3.571321,773 6.421911,956 3.464472,975 2.329368,979 2.503566,983 3.852368,988 4.051774,997 3.090868,1000 coffee}
+{0 2.387727,32 1.172477,38 1.470532,44 1.961058,46 1.304151,157 2.035603,179 2.129962,186 2.256338,279 3.464472,291 2.329368,398 4.051774,484 1.839355,501 2.455744,581 2.023113,727 2.239222,1000 coffee}
+{0 4.775454,4 3.059859,6 1.187346,9 1.583105,11 2.369262,13 2.023113,18 1.477722,27 2.791733,31 4.399577,32 0.453576,33 1.733863,38 1.165369,39 2.046366,47 1.717743,49 1.358902,50 2.569563,55 1.392958,66 4.28411,69 1.909227,70 2.554934,93 2.528774,103 9.334025,107 6.30236,114 2.984019,121 6.070774,163 2.411009,181 3.571321,184 4.994502,191 3.290274,209 2.174697,334 1.642326,357 2.610415,415 2.936197,458 4.547774,472 3.821359,496 3.852368,501 2.455744,534 2.772345,549 2.035603,577 3.290274,586 3.464472,589 2.554934,688 3.371915,725 2.936197,743 3.464472,748 2.639915,944 3.571321,986 4.332821,991 2.984019,1000 coffee}
+{0 3.894215,6 1.187346,11 1.494838,29 2.11567,38 0.735266,44 2.47458,47 1.717743,350 2.610415,439 2.101667,562 3.754757,583 3.035387,1000 coffee}
+{0 2.387727,8 2.454912,31 1.701989,69 1.909227,94 2.736791,185 4.051774,211 2.273887,237 3.090868,328 2.310377,448 3.736884,482 3.15118,487 2.368988,497 1.878415,503 2.736791,514 1.340167,573 2.670727,574 2.610415,639 2.38968,644 3.035387,716 4.332821,717 3.090868,736 3.852368,939 3.371915,966 3.290274,967 3.371915,969 3.090868,1000 coffee}
+{0 2.387727,18 1.477722,19 1.679009,35 2.239222,38 0.735266,39 2.582227,128 5.099211,206 1.963834,334 1.642326,448 1.868442,460 3.691962,466 2.411009,487 2.368988,648 3.852368,1000 coffee}
+{0 3.012976,6 1.187346,11 1.494838,13 3.206559,18 1.477722,19 1.679009,27 1.202334,35 2.239222,39 1.291113,49 1.358902,50 1.621214,80 1.898804,195 3.571321,243 3.035387,347 2.503566,353 3.035387,369 2.610415,448 1.868442,955 3.15118,981 3.371915,994 3.15118,1000 coffee}
+{0 4.229246,9 1.254581,32 1.273348,38 1.707235,53 1.434045,179 2.129962,191 3.290274,207 4.332821,229 4.332821,264 3.035387,412 8.944923,527 4.184167,609 3.217244,678 3.090868,727 3.549084,771 2.891462,940 3.290274,1000 coffee}
+{0 3.012976,6 1.187346,11 1.494838,13 2.023113,18 1.477722,29 2.11567,38 1.165369,39 2.046366,49 1.358902,55 1.392958,89 2.58212,93 2.528774,350 2.610415,775 3.464472,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,18 1.477722,19 2.661167,27 2.404668,35 2.239222,39 2.046366,50 2.569563,55 2.207786,63 1.82062,80 1.898804,114 2.984019,128 3.217244,155 3.371915,286 3.852368,347 2.503566,402 3.15118,567 3.464472,632 2.610415,997 3.090868,1000 coffee}
+{0 4.229246,6 1.187346,29 3.353258,35 6.286292,38 1.707235,54 2.116814,55 1.392958,105 5.16053,205 8.585787,220 3.217244,238 2.639915,291 2.329368,292 3.464472,397 3.422667,439 2.101667,530 3.797607,539 2.772345,548 2.433016,563 3.035387,639 2.38968,727 2.239222,783 4.051774,949 3.697697,964 4.332821,976 4.332821,979 2.503566,990 4.332821,1000 coffee}
+{0 3.894215,6 1.187346,11 1.494838,13 5.229672,18 3.819857,19 6.716038,27 2.404668,29 6.706516,31 2.697588,36 1.709821,38 2.720808,39 2.582227,44 1.23729,46 1.304151,50 4.551322,52 2.291892,54 2.671122,66 2.702972,67 5.619643,74 2.736791,75 7.365697,76 2.849441,82 2.291892,93 4.008013,105 5.16053,123 3.15118,135 1.941472,175 2.809821,178 2.528774,209 2.174697,226 2.936197,238 2.639915,272 2.936197,291 3.691962,293 2.891462,326 3.217244,392 3.035387,397 2.159462,421 2.310377,448 2.96141,465 3.697697,530 3.009533,549 2.035603,553 2.411009,560 3.035387,637 3.571321,639 4.77936,772 2.891462,780 3.15118,942 2.809821,968 3.035387,970 4.051774,1000 coffee}
+{0 4.229246,6 2.374693,11 1.494838,13 2.023113,18 3.431165,19 3.898539,27 2.791733,29 2.11567,33 1.733863,38 2.064153,41 1.839355,46 2.06703,47 3.435486,49 2.153808,50 2.569563,54 1.335561,55 2.207786,69 6.604841,105 2.222519,129 7.470209,163 2.411009,203 2.144556,235 3.464472,305 2.58212,327 3.422667,333 3.852368,334 1.642326,448 1.868442,450 4.051774,484 1.839355,497 1.878415,500 2.936197,507 4.051774,516 4.051774,599 3.290274,733 3.697697,735 3.852368,744 3.090868,756 4.516257,785 3.290274,936 3.290274,942 2.809821,958 6.10586,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,13 3.206559,18 2.955445,19 1.679009,23 3.622878,27 3.107988,35 2.239222,38 0.735266,39 3.33748,46 1.304151,54 2.116814,63 2.885614,80 1.898804,128 3.217244,201 2.772345,243 3.035387,442 3.217244,606 3.217244,750 3.464472,955 3.15118,956 3.464472,975 2.329368,994 4.994502,997 3.090868,1000 coffee}
+{0 1.506488,29 5.468928,733 3.697697,943 4.332821,945 3.035387,1000 coffee}
+{0 4.519464,6 1.187346,11 2.369262,13 3.206559,18 1.477722,27 1.905654,38 1.900635,44 2.47458,80 3.009533,303 3.090868,484 3.678709,549 2.035603,562 3.754757,941 4.994502,1000 coffee}
+{0 3.497957,6 1.187346,11 1.494838,13 3.206559,18 1.477722,29 3.353258,32 0.907152,38 1.707235,44 1.23729,105 2.222519,186 2.256338,350 2.610415,987 7.62886,1000 coffee}
+{0 3.012976,32 0.907152,38 0.735266,44 2.47458,56 2.101667,148 7.639781,207 11.200181,282 3.15118,324 3.090868,445 4.332821,514 1.340167,560 3.035387,1000 coffee}
+{0 5.211592,6 1.881899,11 1.494838,13 3.206559,18 5.7733,19 4.340177,23 5.085352,27 3.607001,33 3.467727,35 3.549084,36 1.709821,38 1.707235,39 2.046366,46 1.304151,49 2.717803,50 1.621214,54 1.335561,63 2.885614,80 1.898804,89 2.58212,103 2.809821,114 2.984019,123 3.15118,152 2.061278,155 3.371915,164 2.849441,169 3.15118,171 2.190274,184 3.15118,188 2.736791,203 2.144556,210 3.852368,221 4.453462,236 3.290274,271 3.217244,305 2.58212,322 1.839355,372 2.891462,402 4.994502,469 3.464472,514 1.340167,539 2.772345,552 3.090868,553 2.411009,566 2.273887,638 3.464472,687 2.984019,714 4.332821,730 3.852368,734 3.217244,737 3.852368,742 3.290274,778 3.571321,937 2.528774,950 3.217244,954 4.332821,977 4.051774,1000 coffee}
+{0 4.229246,6 1.187346,13 3.206559,18 3.819857,19 5.037028,29 7.319016,38 2.064153,46 2.06703,49 1.358902,50 2.569563,52 2.291892,55 1.392958,74 2.736791,93 2.528774,188 2.736791,484 3.678709,500 2.936197,733 5.860711,945 4.810975,950 3.217244,1000 coffee}
+{0 2.387727,6 1.187346,11 1.494838,13 2.023113,18 1.477722,19 2.661167,39 1.291113,55 1.392958,159 3.371915,270 3.697697,291 2.329368,319 3.035387,327 2.159462,344 2.190274,353 3.035387,635 4.332821,777 3.852368,936 3.290274,1000 coffee}
+{0 3.012976,13 2.023113,18 1.477722,19 1.679009,23 1.811439,33 1.733863,36 1.709821,38 0.735266,39 2.582227,49 1.358902,52 2.291892,63 2.885614,67 2.809821,75 4.516257,76 2.849441,147 2.411009,204 2.809821,772 2.891462,1000 coffee}
+{0 1.506488,6 1.187346,34 2.378456,46 1.304151,63 1.82062,84 4.810975,122 3.464472,194 4.332821,506 3.090868,616 3.464472,618 2.849441,621 2.256338,729 8.103549,768 3.290274,769 7.62886,937 2.528774,971 6.421911,1000 coffee}
+{0 1.506488,26 1.123645,32 0.453576,38 0.735266,728 2.984019,1000 coffee}
+{0 5.004444,6 1.187346,11 1.494838,13 5.229672,18 3.431165,26 1.780935,27 1.905654,32 0.718901,38 1.900635,47 1.717743,74 2.736791,147 2.411009,181 3.571321,208 4.453462,227 3.697697,334 1.642326,366 3.217244,514 2.124114,627 2.702972,723 5.473582,728 6.928678,1000 coffee}
+{0 2.387727,19 1.679009,129 3.217244,133 1.594028,372 2.891462,393 2.455744,435 2.849441,566 2.273887,634 2.023113,741 4.051774,744 3.090868,945 3.035387,965 2.772345,1000 coffee}
+{0 3.012976,1 1.397962,4 1.930556,29 7.028104,277 2.222519,313 2.190274,514 1.340167,573 2.670727,613 5.099211,1000 coffee}
+{0 3.497957,6 1.187346,11 1.494838,13 4.046227,18 3.431165,19 1.679009,23 1.811439,27 1.905654,31 1.701989,33 1.733863,39 2.582227,49 1.358902,50 2.569563,54 1.335561,63 3.64124,114 2.984019,272 2.936197,278 2.159462,467 2.670727,471 4.051774,1000 coffee}
+{0 5.400703,6 1.187346,9 0.791552,11 1.494838,13 4.697524,18 3.819857,23 1.811439,27 2.404668,29 3.353258,31 3.403978,32 0.453576,33 1.733863,38 1.470532,39 2.046366,47 1.717743,49 1.358902,50 3.242427,54 1.335561,56 2.101667,89 2.58212,93 4.008013,114 2.984019,209 2.174697,406 4.332821,422 4.051774,448 1.868442,460 2.329368,503 2.736791,512 3.290274,628 4.051774,636 2.849441,715 3.464472,730 3.852368,740 4.051774,743 3.464472,744 3.090868,767 7.395394,770 3.697697,902 4.332821,1000 coffee}
+{0 4.229246,8 1.548877,38 1.470532,197 3.290274,217 3.290274,225 3.571321,518 2.891462,759 4.051774,762 5.860711,767 7.395394,770 7.395394,962 8.665643,966 3.290274,989 4.051774,1000 coffee}
+{0 1.506488,38 1.165369,44 1.961058,60 1.671516,137 6.181737,200 3.464472,749 8.665643,898 4.332821,1000 coffee}
+{0 2.387727,32 0.718901,322 1.839355,779 4.332821,944 3.571321,945 3.035387,1000 coffee}
+{0 3.497957,32 1.053171,38 0.735266,439 3.331063,726 7.62886,758 3.464472,952 2.528774,1000 coffee}
+{7 2.074481,10 2.735259,30 4.620754,112 3.090868,572 2.849441,871 4.813274,877 3.697697,920 6.817639,930 4.051774,1000 copper}
+{7 2.074481,69 3.026053,73 3.090868,660 4.813274,1000 copper}
+{7 5.362456,32 0.718901,34 3.001277,83 2.772345,695 9.407929,700 3.371915,706 8.665643,802 7.62886,1000 copper}
+{7 5.823805,10 1.725756,32 0.453576,34 2.378456,38 0.735266,41 1.839355,49 1.358902,63 1.82062,243 3.035387,302 2.702972,315 2.58212,358 3.090868,487 2.368988,514 1.340167,526 3.15118,647 4.813274,661 4.813274,666 4.813274,676 4.813274,684 4.332821,685 3.852368,687 2.984019,691 4.813274,695 6.421911,696 9.626549,700 6.743831,706 10.0605,710 4.813274,720 4.092563,790 8.665643,809 4.813274,826 4.813274,844 9.626549,881 4.813274,894 6.86736,895 5.660411,905 7.62886,906 2.58212,1000 copper}
+{6 1.187346,7 5.362456,22 3.331063,23 2.871063,27 1.202334,31 1.701989,36 1.709821,39 2.046366,206 1.963834,237 3.090868,239 3.15118,275 3.217244,322 1.839355,476 4.332821,497 1.878415,509 2.772345,544 4.994502,659 3.697697,688 3.371915,689 4.332821,784 3.217244,810 9.626549,823 4.813274,837 4.332821,884 3.571321,889 4.332821,927 4.051774,928 3.697697,931 3.852368,1000 copper}
+{7 5.362456,39 2.046366,54 2.671122,63 1.82062,273 3.852368,319 3.035387,322 1.839355,397 2.159462,427 3.090868,472 2.411009,535 2.736791,598 3.035387,636 2.849441,679 3.852368,785 3.290274,822 8.103549,835 4.813274,891 3.852368,928 5.860711,1000 copper}
+{7 3.287975,22 3.331063,31 1.701989,32 1.726924,46 3.028145,94 2.736791,262 2.639915,322 1.839355,681 2.849441,1000 copper}
+{7 4.816796,23 1.811439,27 1.202334,33 1.733863,39 2.046366,54 2.116814,63 1.82062,273 3.852368,319 3.035387,322 1.839355,397 2.159462,460 2.329368,472 2.411009,672 4.813274,700 3.371915,1000 copper}
+{7 2.074481,30 2.310377,34 1.500638,69 3.026053,73 3.090868,503 2.736791,873 3.697697,885 3.697697,1000 copper}
+{7 2.074481,30 2.310377,34 1.500638,69 3.026053,73 3.090868,503 2.736791,873 3.697697,885 3.697697,1000 copper}
+{7 4.816796,12 3.604026,17 2.256338,22 2.101667,31 1.701989,32 0.453576,73 4.898911,85 5.619643,163 3.821359,280 3.697697,805 4.813274,829 6.10586,1000 copper}
+{7 3.287975,10 1.725756,69 3.026053,73 3.090868,83 2.772345,801 3.697697,827 3.571321,1000 copper}
+{7 3.287975,10 1.725756,69 3.026053,73 3.090868,83 2.772345,801 3.697697,827 3.571321,1000 copper}
+{7 3.287975,10 1.725756,69 3.026053,73 3.090868,83 2.772345,801 3.697697,827 3.571321,1000 copper}
+{7 3.287975,10 1.725756,69 3.026053,73 3.090868,83 2.772345,801 3.697697,827 3.571321,1000 copper}
+{7 2.074481,10 1.725756,32 0.453576,873 3.697697,1000 copper}
+{7 3.287975,10 3.451512,105 2.222519,584 2.479243,668 4.813274,695 4.051774,700 3.371915,709 9.626549,756 2.849441,839 4.332821,859 4.813274,901 4.813274,1000 copper}
+{7 2.074481,10 5.470518,30 2.310377,32 0.453576,34 1.500638,157 2.035603,211 2.273887,336 2.58212,357 2.610415,440 2.610415,581 2.023113,655 3.697697,692 3.852368,791 6.86736,836 3.217244,843 4.332821,851 3.852368,866 3.090868,874 3.571321,920 4.653762,930 6.421911,1000 copper}
+{7 2.074481,10 4.461015,30 2.310377,32 0.453576,34 1.500638,112 3.090868,334 1.642326,353 3.035387,357 2.610415,581 2.023113,655 3.697697,707 6.86736,812 3.371915,836 3.217244,883 3.852368,915 4.332821,920 2.936197,1000 copper}
+{7 2.074481,10 5.470518,30 2.310377,32 0.453576,34 1.500638,157 2.035603,211 2.273887,336 2.58212,357 2.610415,440 2.610415,581 2.023113,655 3.697697,692 3.852368,791 6.86736,843 4.332821,851 3.852368,866 3.090868,874 3.571321,920 4.653762,930 6.421911,1000 copper}
+{7 2.074481,10 4.84481,30 2.310377,32 0.453576,34 1.500638,112 3.090868,334 1.642326,353 3.035387,357 2.610415,581 2.023113,655 3.697697,707 6.86736,812 3.371915,836 3.217244,883 3.852368,915 4.332821,920 4.653762,1000 copper}
+{7 5.823805,10 1.725756,22 2.101667,56 2.101667,83 2.772345,148 5.214962,168 3.371915,280 5.860711,585 4.051774,657 4.813274,797 9.626549,830 4.813274,834 15.989352,840 7.62886,848 3.852368,866 10.267643,922 6.86736,977 4.051774,1000 copper}
+{7 2.074481,10 1.725756,30 5.972238,38 0.735266,85 2.809821,135 3.077161,448 1.868442,641 4.813274,650 4.813274,680 4.332821,699 6.86736,760 3.697697,762 3.697697,787 4.813274,792 6.10586,795 4.332821,796 4.051774,811 3.571321,814 4.051774,821 3.464472,854 4.332821,855 4.813274,868 3.852368,882 4.051774,886 4.332821,906 2.58212,919 3.697697,1000 copper}
+{7 4.148962,10 3.451512,30 5.364529,32 0.453576,34 1.500638,38 0.735266,57 2.174697,135 1.941472,236 3.290274,640 7.62886,652 7.62886,658 4.813274,680 4.332821,699 6.86736,703 13.51257,792 6.10586,795 4.332821,796 6.421911,811 7.142643,814 4.051774,821 3.464472,854 4.332821,872 7.62886,886 4.332821,902 4.332821,909 4.813274,952 2.528774,1000 copper}
+{7 4.148962,10 1.725756,22 2.101667,31 1.701989,32 1.053171,34 1.500638,38 0.735266,48 4.337711,57 2.174697,108 3.035387,133 1.594028,186 2.256338,277 2.222519,477 2.670727,682 3.090868,686 3.464472,698 3.571321,793 4.813274,803 8.665643,884 5.660411,893 4.813274,1000 copper}
+{7 4.148962,10 4.461015,32 0.453576,34 1.500638,56 2.101667,157 3.226354,203 2.144556,211 2.273887,322 1.839355,526 3.15118,690 4.813274,799 4.813274,806 3.852368,852 3.290274,870 3.15118,879 3.852368,880 7.62886,923 3.852368,967 3.371915,1000 copper}
+{7 2.074481,22 2.101667,46 2.608302,73 6.181737,262 2.639915,322 1.839355,867 3.217244,911 4.813274,1000 copper}
+{7 3.287975,22 2.101667,32 1.67843,46 1.304151,262 2.639915,322 1.839355,533 3.852368,643 8.665643,678 3.090868,1000 copper}
+{7 4.148962,22 2.101667,73 3.090868,151 2.455744,495 5.860711,653 4.813274,663 4.332821,664 4.332821,675 2.329368,702 3.852368,721 2.891462,824 4.332821,829 7.704737,857 7.142643,862 6.86736,873 5.860711,912 3.464472,1000 copper}
+{7 3.287975,22 2.101667,32 1.67843,46 2.608302,94 2.736791,322 1.839355,681 2.849441,711 4.332821,1000 copper}
+{7 6.575949,10 3.451512,18 1.477722,22 3.331063,30 6.486048,32 1.053171,38 2.442501,57 2.174697,135 1.941472,157 2.035603,188 2.736791,197 8.505236,211 2.273887,262 2.639915,272 2.936197,282 3.15118,312 2.433016,341 2.936197,369 2.610415,448 1.868442,549 2.035603,550 2.984019,631 2.849441,636 2.849441,645 6.421911,649 2.610415,674 5.860711,688 3.371915,701 6.421911,704 4.051774,743 3.464472,758 3.464472,798 9.626549,800 4.051774,818 7.704737,820 3.852368,831 4.051774,850 4.813274,863 3.571321,876 4.051774,904 4.813274,916 2.809821,979 3.968059,989 4.051774,1000 copper}
+{7 4.148962,10 3.451512,32 1.273348,34 1.500638,56 2.101667,446 4.394063,448 1.868442,514 1.340167,573 5.341454,704 6.421911,819 10.473685,856 4.332821,926 4.332821,1000 copper}
+{7 5.823805,10 3.451512,18 1.477722,30 3.661861,32 0.453576,34 1.500638,38 1.165369,135 3.077161,197 3.290274,201 2.772345,645 8.103549,697 9.626549,715 3.464472,743 5.491059,794 7.62886,800 4.051774,804 4.051774,845 3.571321,849 3.852368,863 3.571321,910 4.813274,979 2.503566,1000 copper}
+{3 4.361546,22 2.101667,31 1.701989,64 1.489086,85 2.809821,152 2.061278,278 2.159462,283 3.571321,458 2.273887,511 2.670727,857 3.571321,1000 gold}
+{3 5.635246,6 1.187346,10 3.451512,17 3.576211,18 1.477722,27 1.202334,34 3.001277,46 2.06703,69 1.909227,92 2.891462,105 2.222519,111 3.035387,322 3.678709,372 2.891462,442 3.217244,566 2.273887,584 2.479243,606 3.217244,618 2.849441,621 2.256338,747 3.571321,807 3.090868,863 3.571321,1000 gold}
+{3 1.878415,10 2.735259,30 3.661861,39 2.046366,63 1.82062,150 6.86736,175 2.809821,221 2.809821,334 3.284653,339 3.852368,358 3.090868,497 1.878415,538 3.090868,720 2.58212,894 4.332821,1000 gold}
+{3 2.977218,10 4.007082,17 3.576211,32 0.453576,34 1.500638,92 4.582859,96 2.772345,342 2.772345,520 2.849441,523 3.697697,533 3.852368,656 2.503566,1000 gold}
+{3 4.855634,10 4.007082,17 5.239055,32 1.273348,59 4.453462,96 4.394063,137 3.090868,179 2.129962,209 2.174697,211 4.547774,535 2.736791,1000 gold}
+{3 2.977218,10 2.735259,17 4.512676,32 0.907152,34 1.500638,656 2.503566,705 3.464472,1000 gold}
+{3 4.855634,27 1.202334,32 0.718901,38 0.735266,312 2.433016,760 3.697697,867 3.217244,1000 gold}
+{3 5.273379,10 5.177269,17 6.334342,19 2.661167,22 2.101667,32 0.453576,34 4.501915,111 4.810975,175 2.809821,244 6.181737,774 3.290274,939 3.371915,1000 gold}
+{3 1.878415,8 1.548877,85 2.809821,93 2.528774,448 1.868442,539 2.772345,1000 gold}
+{3 2.977218,10 2.735259,32 1.053171,152 2.061278,967 3.371915,1000 gold}
+{3 5.273379,10 3.451512,17 4.512676,32 0.453576,59 2.809821,85 2.809821,111 3.035387,113 3.217244,152 3.267048,918 4.994502,1000 gold}
+{3 4.361546,34 2.378456,59 4.453462,147 2.411009,340 2.455744,350 2.610415,493 4.516257,530 4.908336,812 3.371915,877 3.697697,882 4.051774,1000 gold}
+{3 2.977218,10 1.725756,17 2.256338,32 0.453576,46 2.608302,96 2.772345,113 6.434488,152 2.061278,177 2.772345,261 4.051774,458 4.547774,578 2.291892,584 2.479243,918 6.30236,1000 gold}
+{3 6.239961,8 1.548877,10 2.735259,17 4.512676,26 1.123645,31 1.701989,46 3.028145,85 2.809821,157 2.035603,291 2.329368,336 2.58212,448 1.868442,522 3.290274,538 3.090868,551 2.849441,600 2.455744,636 2.849441,774 3.290274,857 3.571321,866 3.090868,1000 gold}
+{3 6.239961,8 1.548877,10 2.735259,17 4.512676,26 1.123645,31 1.701989,46 3.028145,85 2.809821,157 2.035603,291 2.329368,336 2.58212,448 1.868442,522 3.290274,538 3.090868,551 2.849441,600 2.455744,636 2.849441,774 3.290274,857 3.571321,866 3.090868,1000 gold}
+{3 4.361546,8 1.548877,11 1.494838,32 0.718901,38 0.735266,94 2.736791,156 3.571321,204 2.809821,226 2.936197,317 2.772345,322 1.839355,523 3.697697,525 2.702972,944 3.571321,965 2.772345,1000 gold}
+{3 4.855634,10 4.007082,17 5.239055,32 1.273348,59 4.453462,96 4.394063,137 3.090868,179 2.129962,209 2.174697,211 4.547774,535 2.736791,1000 gold}
+{3 4.855634,17 4.512676,32 0.907152,96 2.772345,111 3.035387,112 3.090868,113 3.217244,152 2.061278,209 3.446813,373 3.697697,518 2.891462,656 2.503566,705 3.464472,829 3.852368,918 9.45354,1000 gold}
+{3 5.273379,7 3.287975,10 5.177269,32 0.718901,59 4.453462,206 1.963834,250 2.736791,289 3.15118,320 2.702972,443 5.660411,448 1.868442,600 2.455744,919 3.697697,937 2.528774,1000 gold}
+{3 3.756831,10 5.177269,28 2.087941,29 2.11567,30 5.364529,32 0.453576,34 2.378456,50 1.621214,112 6.181737,209 2.174697,315 4.092563,347 3.968059,394 3.290274,457 4.77936,497 1.878415,720 2.58212,807 3.090868,866 3.090868,1000 gold}
+{171 3.471502,1000 gold}
+{3 5.273379,7 3.287975,10 3.451512,32 1.053171,34 2.378456,211 3.604026,584 2.479243,1000 gold}
+{3 5.635246,17 5.832549,32 1.172477,34 1.500638,96 4.394063,111 3.035387,137 7.989779,179 2.129962,514 2.124114,656 2.503566,705 3.464472,918 3.15118,1000 gold}
+{3 3.756831,10 1.725756,17 3.576211,30 2.310377,32 0.718901,34 1.500638,113 5.099211,177 2.772345,514 1.340167,918 8.846481,1000 gold}
+{3 5.635246,17 3.576211,18 1.477722,57 2.174697,258 5.214962,458 2.273887,511 2.670727,1000 gold}
+{3 6.734049,11 1.494838,17 4.512676,33 1.733863,34 1.500638,39 1.291113,105 2.222519,157 2.035603,163 3.821359,178 2.528774,192 5.099211,204 2.809821,258 7.639781,296 3.697697,399 2.984019,448 1.868442,458 4.547774,501 2.455744,511 4.233002,517 9.407929,563 4.810975,572 2.849441,598 3.035387,621 2.256338,720 2.58212,722 2.639915,784 5.099211,816 6.181737,907 4.051774,969 4.898911,1000 gold}
+{3 4.361546,10 1.725756,17 3.576211,34 1.500638,177 2.772345,827 7.142643,1000 gold}
+{3 2.977218,10 4.84481,32 0.907152,34 3.001277,59 2.809821,92 2.891462,152 2.061278,157 2.035603,179 2.129962,221 2.809821,320 2.702972,341 2.936197,367 9.407929,503 2.736791,621 3.576211,772 2.891462,1000 gold}
+{3 2.977218,32 0.453576,59 5.619643,137 3.090868,284 3.571321,320 2.702972,377 3.852368,821 3.464472,919 3.697697,952 2.528774,1000 gold}
+{3 2.977218,32 0.453576,59 5.619643,137 3.090868,284 3.571321,320 2.702972,377 3.852368,821 3.464472,919 3.697697,952 2.528774,1000 gold}
+{3 4.855634,10 3.451512,17 2.256338,32 0.453576,34 1.500638,65 5.872394,92 5.782925,151 2.455744,178 2.528774,211 2.273887,371 5.871632,634 3.206559,919 3.697697,923 6.10586,1000 gold}
+{3 2.977218,32 0.453576,59 2.809821,85 2.809821,120 3.15118,203 2.144556,211 2.273887,322 1.839355,387 3.090868,442 5.099211,606 5.099211,721 2.891462,1000 gold}
+{3 2.977218,10 1.725756,30 2.310377,32 1.172477,85 2.809821,112 3.090868,179 2.129962,312 2.433016,322 1.839355,553 3.821359,577 3.290274,682 3.090868,785 3.290274,821 3.464472,923 3.852368,937 2.528774,1000 gold}
+{3 1.878415,8 1.548877,22 3.331063,46 1.304151,85 8.429464,176 3.290274,204 2.809821,328 2.310377,337 3.035387,353 3.035387,426 3.035387,560 3.035387,574 2.610415,596 3.290274,963 3.290274,969 3.090868,1000 gold}
+{3 7.677953,6 1.187346,31 1.701989,32 1.273348,34 2.378456,56 7.777091,57 2.174697,59 2.809821,84 3.035387,147 2.411009,167 3.035387,190 2.849441,258 5.214962,280 7.395394,334 1.642326,336 2.58212,448 1.868442,494 9.958228,497 1.878415,509 2.772345,591 3.697697,637 3.571321,761 4.051774,857 3.571321,1000 gold}
+{3 2.977218,17 2.256338,22 3.331063,69 1.909227,319 3.035387,322 1.839355,466 2.411009,591 3.697697,596 3.290274,600 2.455744,639 2.38968,1000 gold}
+{3 1.878415,10 3.451512,30 3.661861,54 2.116814,57 2.174697,112 3.090868,152 2.061278,188 2.736791,357 2.610415,493 2.849441,687 2.984019,920 2.936197,1000 gold}
+{3 3.756831,10 4.461015,32 1.273348,226 2.936197,509 2.772345,514 1.340167,698 7.142643,967 3.371915,1000 gold}
+{3 4.361546,10 4.461015,17 5.239055,32 1.437801,211 7.553689,238 2.639915,509 2.772345,514 1.340167,952 4.008013,1000 gold}
+{3 2.977218,10 3.451512,30 2.310377,34 1.500638,63 1.82062,77 2.035603,112 3.090868,720 2.58212,1000 gold}
+{3 1.878415,10 4.461015,30 3.661861,34 1.500638,209 3.446813,315 2.58212,453 3.852368,589 2.554934,720 2.58212,804 6.421911,1000 gold}
+{3 4.361546,17 5.239055,136 3.035387,186 2.256338,211 2.273887,262 2.639915,448 2.96141,678 3.090868,1000 gold}
+{3 6.950963,10 3.451512,17 5.832549,32 1.172477,34 2.378456,59 2.809821,85 4.453462,111 7.04795,112 4.898911,113 3.217244,120 3.15118,152 2.061278,203 2.144556,211 2.273887,312 2.433016,520 4.516257,574 2.610415,627 2.702972,720 2.58212,1000 gold}
+{3 1.878415,10 3.451512,34 1.500638,46 1.304151,53 2.86809,112 3.090868,113 5.099211,120 3.15118,584 2.479243,702 3.852368,1000 gold}
+{3 3.756831,7 3.287975,17 4.512676,32 1.273348,59 7.263283,111 4.810975,113 3.217244,120 3.15118,155 3.371915,211 5.279802,261 4.051774,578 3.632563,720 2.58212,918 6.30236,1000 gold}
+{3 1.878415,7 2.074481,17 3.576211,22 2.101667,53 1.434045,59 2.809821,111 3.035387,113 5.099211,137 3.090868,829 3.852368,918 3.15118,1000 gold}
+{3 6.239961,10 1.725756,17 3.576211,46 1.304151,56 3.331063,258 3.290274,727 2.239222,774 3.290274,857 8.292352,1000 gold}
+{3 4.855634,10 3.451512,17 8.815266,26 1.123645,38 1.165369,213 2.58212,277 4.445039,381 3.290274,1000 gold}
+{3 2.977218,17 3.576211,32 0.718901,59 2.809821,96 2.772345,113 3.217244,373 5.860711,918 6.30236,1000 gold}
+{3 2.977218,7 3.287975,10 1.725756,17 5.239055,22 2.101667,32 0.718901,34 3.001277,85 4.453462,96 2.772345,342 2.772345,503 5.473582,573 2.670727,621 2.256338,656 2.503566,705 3.464472,1000 gold}
+{5 1.169056,336 2.58212,868 3.852368,912 3.464472,1000 grain}
+{2 1.077855,9 0.791552,11 2.369262,25 2.547808,27 1.202334,44 1.23729,60 5.552656,77 2.035603,100 2.159462,104 3.691962,188 2.736791,223 1.941472,327 2.159462,330 2.610415,344 2.190274,632 2.610415,639 2.38968,1000 grain}
+{2 2.155709,9 1.254581,32 0.453576,58 1.758769,497 1.878415,581 2.023113,748 2.639915,925 2.936197,1000 grain}
+{2 1.708359,5 4.874877,21 1.466542,32 1.360728,42 2.495232,44 4.110188,47 1.717743,50 1.621214,58 6.69626,124 3.856239,225 3.571321,289 3.15118,322 1.839355,327 6.845334,344 5.661776,484 1.839355,514 1.340167,519 4.051774,549 3.226354,578 2.291892,631 2.849441,633 3.035387,634 2.023113,644 3.035387,727 2.239222,768 3.290274,897 3.290274,936 3.290274,950 3.217244,1000 grain}
+{2 2.786214,5 1.852911,6 1.187346,32 0.718901,34 2.378456,38 0.735266,44 3.198348,58 4.546353,86 5.925873,124 2.433016,133 1.594028,322 1.839355,327 5.014117,344 3.471502,466 2.411009,581 2.023113,979 2.503566,1000 grain}
+{9 1.254581,19 4.340177,32 0.453576,38 1.165369,44 1.23729,58 1.758769,62 5.43273,332 2.809821,344 2.190274,484 1.839355,549 2.035603,583 3.035387,884 5.660411,1000 grain}
+{2 1.708359,5 1.852911,25 2.547808,32 0.718901,38 0.735266,62 3.331063,110 3.968059,514 2.124114,642 5.660411,1000 grain}
+{5 1.169056,25 3.732471,32 1.626052,44 2.47458,47 1.717743,62 5.43273,110 5.813101,152 2.061278,179 3.375911,186 2.256338,242 3.290274,262 5.279831,277 2.222519,353 3.035387,369 2.610415,386 3.697697,407 3.571321,415 2.936197,439 4.203334,484 7.669971,514 2.124114,532 3.697697,549 5.261957,562 7.106963,584 2.479243,644 3.035387,681 2.849441,896 3.571321,925 2.936197,965 2.772345,1000 grain}
+{5 2.338113,25 3.732471,27 1.202334,32 1.67843,44 3.71187,47 5.153229,62 4.879919,110 5.007133,152 2.061278,166 3.15118,179 5.505873,242 6.580549,305 2.58212,312 2.433016,407 3.571321,439 4.203334,484 5.163721,514 1.340167,532 5.860711,549 5.714659,562 7.106963,584 2.479243,811 3.571321,937 2.528774,941 3.15118,965 2.772345,1000 grain}
+{2 1.077855,9 0.791552,21 1.466542,80 1.898804,115 2.329368,133 1.594028,317 2.772345,503 7.683144,1000 grain}
+{9 0.791552,38 0.735266,80 3.009533,102 2.206209,133 1.594028,151 2.455744,317 2.772345,503 2.736791,1000 grain}
+{2 1.077855,9 0.791552,21 2.324415,46 1.304151,100 2.159462,110 2.503566,317 2.772345,495 5.860711,912 5.491059,1000 grain}
+{2 3.233564,5 1.852911,9 1.254581,26 2.90458,32 1.053171,38 1.900635,44 1.961058,56 2.101667,209 2.174697,313 2.190274,415 2.936197,501 2.455744,514 1.340167,581 2.023113,621 2.256338,916 2.809821,991 2.984019,1000 grain}
+{2 3.02592,32 0.718901,44 3.473512,47 1.717743,68 2.38968,179 4.259925,188 2.736791,291 2.329368,312 3.856239,369 2.610415,439 3.331063,527 4.184167,565 2.670727,906 2.58212,939 3.371915,1000 grain}
+{2 2.155709,32 0.718901,43 1.567868,49 2.153808,57 2.174697,204 2.809821,322 1.839355,1000 grain}
+{2 2.155709,32 1.172477,58 1.758769,135 1.941472,1000 grain}
+{2 3.580555,5 3.021967,38 0.735266,39 1.291113,46 1.304151,133 1.594028,135 3.077161,178 2.528774,192 3.217244,217 3.290274,313 4.380548,315 2.58212,413 4.516257,467 2.670727,514 1.340167,565 2.670727,566 5.877913,584 2.479243,717 3.090868,718 3.035387,721 5.782925,771 6.713768,861 8.585787,884 3.571321,1000 grain}
+{2 3.02592,5 1.852911,9 0.791552,32 1.506746,38 1.470532,44 3.198348,47 2.722558,53 1.434045,57 2.174697,58 1.758769,60 1.671516,322 1.839355,332 2.809821,484 1.839355,520 2.849441,549 2.035603,566 2.273887,597 4.051774,727 2.239222,991 2.984019,1000 grain}
+{2 1.077855,32 0.453576,38 0.735266,43 1.567868,118 2.38968,347 2.503566,634 2.023113,1000 grain}
+{2 1.708359,5 1.169056,32 1.053171,64 1.489086,347 2.503566,634 2.023113,1000 grain}
+{9 1.254581,21 2.933085,25 1.607488,26 1.123645,27 1.905654,42 4.722949,53 3.32975,82 2.291892,152 2.061278,163 2.411009,169 3.15118,171 3.471502,216 7.365697,278 2.159462,317 2.772345,371 2.528774,426 3.035387,446 2.772345,518 2.891462,621 2.256338,721 2.891462,942 4.453462,1000 grain}
+{2 1.708359,19 2.661167,43 2.485013,54 1.335561,542 2.329368,725 2.936197,1000 grain}
+{5 1.169056,9 1.583105,19 3.358019,32 1.053171,44 2.47458,62 5.43273,89 4.092563,482 3.15118,484 1.839355,549 3.226354,1000 grain}
+{2 1.077855,9 0.791552,44 1.23729,61 2.129962,68 2.38968,294 2.38968,584 2.479243,1000 grain}
+{21 3.790957,38 0.735266,163 2.411009,206 1.963834,302 2.702972,322 1.839355,397 2.159462,439 2.101667,937 2.528774,1000 grain}
+{21 3.790957,27 1.905654,38 1.165369,41 1.839355,60 1.671516,86 1.975291,100 2.159462,178 2.528774,206 1.963834,255 2.936197,439 2.101667,633 3.035387,1000 grain}
+{21 2.933085,26 1.123645,27 1.202334,41 2.915308,54 1.335561,86 3.130762,100 2.159462,439 2.101667,785 3.290274,816 3.090868,1000 grain}
+{2 2.786214,5 2.338113,9 0.791552,44 2.47458,50 1.621214,53 1.434045,60 1.671516,61 2.129962,77 2.035603,157 2.035603,312 2.433016,439 2.101667,535 4.337711,604 2.239222,627 2.702972,756 2.849441,774 3.290274,1000 grain}
+{2 2.155709,32 0.453576,38 0.735266,49 1.358902,50 2.569563,63 2.885614,209 2.174697,214 2.503566,467 2.670727,940 3.290274,1000 grain}
+{2 1.077855,5 2.714465,9 0.791552,25 1.607488,34 2.378456,38 1.470532,39 1.291113,53 3.32975,147 2.411009,167 3.035387,249 3.852368,304 3.290274,313 3.471502,332 2.809821,336 2.58212,497 1.878415,551 4.516257,574 2.610415,581 2.023113,1000 grain}
+{2 1.077855,3 1.878415,5 3.021967,9 1.254581,21 1.466542,22 2.101667,25 2.547808,39 2.046366,50 1.621214,55 2.785916,77 2.035603,85 2.809821,147 2.411009,167 3.035387,171 2.190274,188 2.736791,211 2.273887,290 2.984019,302 2.702972,315 2.58212,330 2.610415,332 2.809821,336 2.58212,389 3.371915,394 3.290274,448 1.868442,460 2.329368,467 2.670727,493 2.849441,565 2.670727,578 3.632563,583 3.035387,636 2.849441,718 3.035387,774 5.214962,785 3.290274,848 3.852368,861 3.697697,1000 grain}
+{2 1.077855,8 2.454912,9 0.791552,21 2.324415,25 3.214975,185 4.051774,281 4.332821,305 2.58212,435 2.849441,774 3.290274,1000 grain}
+{5 1.852911,21 3.405206,25 5.339958,42 1.574316,44 2.872898,53 2.272908,55 3.234348,203 2.144556,216 6.616196,272 2.936197,290 2.984019,305 2.58212,311 5.099211,366 3.217244,371 2.528774,460 2.329368,581 2.023113,754 3.464472,1000 grain}
+{5 1.852911,9 0.791552,21 2.933085,25 1.607488,26 1.123645,42 2.495232,44 1.961058,53 3.32975,55 2.207786,60 1.671516,82 2.291892,179 3.375911,211 2.273887,216 8.548322,239 3.15118,371 4.008013,466 2.411009,527 2.639915,589 2.554934,721 4.582859,1000 grain}
+{2 2.155709,9 0.791552,26 2.24729,32 0.907152,38 1.165369,53 1.434045,79 2.144556,82 4.583784,102 3.496759,133 1.594028,472 2.411009,604 2.239222,675 2.329368,1000 grain}
+{9 0.791552,26 2.24729,32 0.907152,38 1.165369,46 1.304151,53 1.434045,61 4.259925,79 2.144556,82 4.583784,102 3.496759,133 1.594028,472 2.411009,484 1.839355,604 2.239222,885 5.860711,1000 grain}
+{6 1.187346,9 0.791552,26 1.780935,32 0.907152,38 1.165369,46 1.304151,53 1.434045,79 2.144556,82 4.583784,102 3.496759,133 1.594028,472 2.411009,604 2.239222,1000 grain}
+{2 1.708359,9 0.791552,26 2.24729,32 1.172477,34 1.500638,38 1.165369,46 1.304151,53 1.434045,79 2.144556,82 4.583784,102 3.496759,133 1.594028,604 2.239222,675 3.691962,1000 grain}
+{9 0.791552,26 1.780935,32 0.907152,38 0.735266,46 1.304151,53 1.434045,61 4.259925,79 2.144556,82 3.632563,102 3.496759,133 1.594028,472 2.411009,569 6.10586,604 2.239222,675 2.329368,1000 grain}
+{9 0.791552,26 1.780935,32 0.907152,38 1.165369,46 1.304151,53 1.434045,61 4.259925,79 2.144556,82 4.583784,102 3.496759,604 2.239222,675 2.329368,1000 grain}
+{6 1.187346,9 0.791552,26 2.24729,32 0.907152,38 1.165369,46 1.304151,53 1.434045,79 2.144556,82 4.583784,102 3.496759,133 1.594028,472 2.411009,604 2.239222,675 2.329368,1000 grain}
+{2 2.155709,9 0.791552,26 1.123645,32 0.907152,34 1.500638,38 1.165369,53 1.434045,79 2.144556,82 3.632563,102 3.496759,133 1.594028,472 2.411009,584 2.479243,604 2.239222,1000 grain}
+{2 1.708359,8 2.454912,9 0.791552,20 3.375911,26 1.123645,38 0.735266,42 2.495232,53 1.434045,102 3.496759,105 2.222519,135 1.941472,152 2.061278,379 3.217244,514 1.340167,992 2.809821,1000 grain}
+{9 0.791552,21 2.324415,26 1.780935,28 3.309308,102 2.206209,105 2.222519,135 1.941472,337 3.035387,514 1.340167,992 2.809821,997 3.090868,1000 grain}
+{2 1.708359,9 0.791552,26 1.123645,80 3.009533,102 2.206209,136 3.035387,337 3.035387,514 2.124114,992 2.809821,1000 grain}
+{2 1.077855,9 0.791552,26 1.780935,38 1.165369,53 2.272908,102 2.206209,105 2.222519,152 2.061278,379 3.217244,992 2.809821,1000 grain}
+{64 1.489086,115 2.329368,294 2.38968,458 2.273887,1000 grain}
+{5 1.169056,21 2.933085,39 1.291113,111 3.035387,118 2.38968,1000 grain}
+{2 2.502701,9 0.791552,21 2.324415,25 2.547808,26 1.780935,32 1.273348,38 0.735266,47 4.822314,1000 grain}
+{2 1.708359,9 0.791552,26 1.123645,32 0.907152,38 0.735266,53 1.434045,79 2.144556,86 1.975291,118 2.38968,327 3.422667,1000 grain}
+{2 1.077855,5 4.191023,9 1.254581,18 2.342135,21 1.466542,23 1.811439,32 0.718901,38 0.735266,44 1.23729,189 3.371915,191 3.290274,220 3.217244,236 3.290274,313 2.190274,320 2.702972,369 2.610415,371 2.528774,397 2.159462,527 2.639915,530 1.898804,727 2.239222,1000 grain}
+{5 2.338113,18 1.477722,32 0.453576,36 1.709821,157 2.035603,332 4.453462,484 4.270849,549 2.035603,562 2.368988,727 2.239222,1000 grain}
+{5 4.874877,9 2.046133,21 1.466542,26 1.123645,32 1.273348,38 1.470532,44 1.23729,45 2.329368,54 2.116814,55 2.785916,60 3.343032,80 1.898804,157 3.226354,179 2.129962,209 2.174697,226 2.936197,236 3.290274,239 3.15118,332 2.809821,371 5.057549,379 3.217244,397 2.159462,421 2.310377,439 2.101667,448 3.736884,484 3.678709,525 2.702972,527 2.639915,530 3.009533,604 2.239222,609 3.217244,621 3.576211,718 3.035387,727 2.239222,756 2.849441,965 4.394063,1000 grain}
+{5 1.169056,18 1.477722,32 0.907152,38 1.165369,277 2.222519,1000 grain}
+{2 1.708359,5 1.169056,44 1.23729,47 2.722558,80 1.898804,106 2.702972,166 3.15118,344 2.190274,553 2.411009,562 3.754757,581 2.023113,603 3.852368,646 4.332821,719 3.464472,780 3.15118,936 3.290274,941 3.15118,1000 grain}
+{2 1.077855,9 0.791552,44 1.23729,157 2.035603,327 2.159462,344 2.190274,371 2.528774,397 2.159462,474 3.571321,722 4.184167,1000 grain}
+{2 2.155709,32 0.907152,35 3.549084,43 1.567868,118 2.38968,133 2.526475,458 2.273887,634 2.023113,1000 grain}
+{2 1.077855,9 1.837928,26 1.123645,38 0.735266,42 1.574316,50 1.621214,53 1.434045,58 3.517539,79 2.144556,86 1.975291,104 2.329368,223 3.077161,322 1.839355,393 2.455744,448 2.96141,497 1.878415,748 2.639915,1000 grain}
+{5 1.169056,9 1.583105,21 2.933085,26 2.24729,42 4.722949,44 1.23729,53 2.86809,54 1.335561,60 1.671516,69 3.026053,77 2.035603,86 1.975291,100 4.318925,102 5.122659,121 4.810975,147 3.821359,188 2.736791,223 1.941472,244 3.090868,275 3.217244,278 3.422667,311 3.217244,313 5.085659,320 4.28411,334 1.642326,426 3.035387,456 10.687454,466 2.411009,467 2.670727,497 1.878415,621 2.256338,627 2.702972,634 2.023113,677 7.704737,688 3.371915,771 4.582859,812 3.371915,816 3.090868,906 2.58212,937 2.528774,951 4.051774,1000 grain}
+{6 1.187346,21 2.324415,34 2.378456,277 2.222519,307 4.994502,544 3.15118,836 3.217244,939 3.371915,1000 grain}
+{5 3.507169,9 0.791552,18 2.955445,21 1.466542,32 1.053171,36 1.709821,80 1.898804,294 2.38968,549 2.035603,554 3.697697,727 3.549084,1000 grain}
+{2 2.155709,9 0.791552,26 1.123645,32 1.172477,44 1.961058,47 2.722558,218 3.852368,477 4.233002,484 1.839355,562 2.368988,581 2.023113,627 2.702972,1000 grain}
+{1 1.397962,5 1.169056,25 1.607488,44 1.23729,80 3.009533,387 3.090868,397 2.159462,534 2.772345,598 3.035387,722 2.639915,1000 grain}
+{5 2.714465,27 1.202334,34 3.001277,41 1.839355,49 1.358902,64 1.489086,151 2.455744,177 2.772345,212 6.743831,214 2.503566,264 3.035387,364 9.272605,365 4.810975,418 2.610415,475 2.984019,550 2.984019,604 2.239222,621 4.512676,627 2.702972,634 2.023113,687 7.713578,1000 grain}
+{2 2.786214,44 1.961058,58 1.758769,124 2.433016,278 2.159462,312 3.856239,327 5.58213,415 2.936197,572 7.365697,584 3.929507,600 2.455744,725 2.936197,1000 grain}
+{2 1.077855,5 1.169056,32 1.172477,38 1.470532,43 2.485013,55 1.392958,61 2.129962,62 3.331063,157 3.226354,514 1.340167,542 2.329368,639 2.38968,1000 grain}
+{1 1.397962,9 0.791552,32 1.437801,46 1.304151,64 3.849231,71 4.28411,115 3.691962,163 2.411009,186 2.256338,221 7.263283,313 3.471502,327 2.159462,328 4.620754,397 2.159462,435 2.849441,466 2.411009,527 4.184167,566 2.273887,634 2.023113,780 3.15118,1000 grain}
+{2 1.708359,32 1.273348,38 1.900635,55 2.207786,61 2.129962,62 2.101667,64 3.45755,109 4.049475,115 2.329368,118 3.787553,421 3.661861,542 2.329368,566 2.273887,1000 grain}
+{9 0.791552,32 0.718901,38 0.735266,43 1.567868,49 1.358902,54 1.335561,56 3.331063,62 4.203334,64 4.180392,78 2.061278,110 5.007133,171 3.471502,364 4.898911,367 4.051774,394 3.290274,466 2.411009,1000 grain}
+{32 0.718901,38 0.735266,43 1.567868,49 2.717803,62 4.879919,64 3.45755,78 2.061278,110 3.968059,171 3.471502,364 3.090868,991 2.984019,1000 grain}
+{2 3.416718,5 1.169056,9 0.791552,19 3.898539,26 1.123645,32 1.569115,38 0.735266,42 1.574316,47 1.717743,64 2.978172,86 1.975291,118 2.38968,262 2.639915,449 4.516257,549 2.035603,925 2.936197,991 2.984019,1000 grain}
+{9 0.791552,39 2.046366,47 1.717743,60 1.671516,64 3.45755,78 3.267048,115 3.691962,171 2.190274,206 1.963834,397 2.159462,466 2.411009,539 2.772345,589 2.554934,906 2.58212,1000 grain}
+{8 2.454912,20 2.129962,21 3.405206,36 1.709821,41 1.839355,56 3.331063,64 2.360145,69 1.909227,100 2.159462,214 3.968059,330 2.610415,397 3.422667,632 2.610415,807 3.090868,1000 grain}
+{32 0.453576,38 1.165369,54 1.335561,62 2.101667,64 1.489086,109 4.049475,137 3.090868,171 2.190274,387 3.090868,1000 grain}
+{2 1.077855,32 0.718901,38 1.470532,43 1.567868,55 1.392958,61 2.129962,64 1.489086,115 2.329368,118 2.38968,421 2.310377,457 3.787553,542 2.329368,675 2.329368,1000 grain}
+{2 1.077855,32 0.718901,38 1.470532,61 2.129962,62 2.101667,64 1.489086,109 2.554934,421 2.310377,457 3.787553,542 2.329368,675 2.329368,1000 grain}
+{2 2.502701,9 0.791552,32 1.273348,39 2.046366,43 1.567868,78 4.786139,115 3.691962,304 3.290274,313 2.190274,514 1.340167,560 3.035387,597 4.051774,638 5.491059,656 5.813101,1000 grain}
+{27 1.202334,32 1.273348,38 1.470532,39 2.046366,43 1.567868,56 4.879919,62 5.900125,64 3.849231,86 3.130762,110 2.503566,115 2.329368,171 2.190274,203 2.144556,514 1.340167,639 2.38968,761 4.051774,803 4.332821,1000 grain}
+{2 1.708359,32 0.453576,46 1.304151,64 1.489086,78 2.061278,250 2.736791,313 2.190274,421 2.310377,490 3.852368,1000 grain}
+{2 2.786214,9 0.791552,44 2.47458,47 3.435486,60 1.671516,80 3.009533,95 3.464472,135 3.077161,151 2.455744,152 2.061278,157 2.035603,175 2.809821,209 2.174697,213 2.58212,217 6.580549,220 3.217244,259 3.852368,307 3.15118,308 3.571321,312 2.433016,313 2.190274,315 4.092563,344 6.148877,350 2.610415,415 4.653762,421 2.310377,439 2.101667,484 1.839355,549 2.035603,553 4.822019,562 7.106963,565 2.670727,581 4.046227,629 6.30236,644 4.810975,651 3.852368,713 3.571321,722 4.184167,730 3.852368,756 4.516257,780 3.15118,836 3.217244,863 3.571321,874 5.660411,896 3.571321,955 9.45354,1000 grain}
+{5 4.567375,8 1.548877,18 1.477722,41 2.915308,44 1.961058,60 2.64929,82 2.291892,96 4.394063,157 2.035603,164 2.849441,186 2.256338,203 2.144556,223 1.941472,240 3.571321,300 3.464472,371 10.336272,397 3.422667,418 2.610415,433 3.852368,472 2.411009,475 2.984019,492 3.371915,493 6.616196,497 1.878415,509 2.772345,526 6.30236,530 1.898804,573 2.670727,621 3.576211,629 3.15118,772 2.891462,927 4.051774,942 2.809821,957 2.936197,968 3.035387,1000 grain}
+{5 1.852911,38 0.735266,53 1.434045,58 2.787584,79 2.144556,206 1.963834,265 6.86736,483 2.984019,530 3.009533,1000 grain}
+{2 1.077855,32 0.453576,38 1.165369,42 1.574316,43 1.567868,82 2.291892,118 2.38968,133 1.594028,327 2.159462,1000 grain}
+{21 1.466542,32 0.453576,38 0.735266,43 1.567868,133 2.526475,293 2.891462,578 2.291892,587 2.736791,634 3.206559,942 2.809821,952 2.528774,1000 grain}
+{32 1.273348,38 1.707235,43 1.567868,46 1.304151,61 4.259925,62 3.331063,64 2.360145,78 4.122556,115 2.329368,163 2.411009,171 2.190274,294 2.38968,372 2.891462,514 1.340167,639 2.38968,675 2.329368,831 4.051774,1000 grain}
+{2 1.708359,5 1.852911,9 0.791552,25 1.607488,26 1.780935,39 1.291113,42 4.069549,44 1.961058,53 3.706953,61 2.129962,82 2.291892,110 2.503566,189 5.34436,211 4.547774,609 3.217244,754 3.464472,771 4.582859,1000 grain}
+{2 1.708359,32 0.718901,38 1.165369,78 2.061278,115 2.329368,313 2.190274,369 2.610415,458 3.604026,776 3.290274,1000 grain}
+{9 0.791552,18 1.477722,26 1.123645,27 1.905654,32 1.273348,38 1.900635,58 2.787584,62 6.662126,64 1.489086,109 5.109868,1000 grain}
+{1 2.795925,9 1.254581,27 3.107988,39 1.291113,44 1.23729,49 1.358902,56 2.101667,60 4.692538,64 4.180392,68 2.38968,72 2.891462,77 2.035603,78 2.061278,88 2.772345,115 4.658737,157 3.226354,173 3.571321,250 2.736791,291 2.329368,458 6.383608,487 2.368988,542 4.658737,568 3.090868,589 2.554934,675 2.329368,741 4.051774,760 3.697697,963 3.290274,1000 grain}
+{2 3.988536,32 1.360728,38 0.735266,58 3.517539,61 3.375911,62 2.101667,106 2.702972,115 4.658737,135 1.941472,413 4.516257,460 2.329368,1000 grain}
+{2 2.155709,32 1.172477,38 1.165369,53 1.434045,79 2.144556,118 4.77936,135 1.941472,458 3.604026,472 2.411009,1000 grain}
+{2 1.708359,32 1.053171,38 0.735266,43 1.567868,61 3.375911,62 3.331063,64 2.978172,109 2.554934,457 2.38968,1000 grain}
+{2 2.155709,32 1.172477,38 0.735266,55 1.392958,64 1.489086,118 4.77936,135 1.941472,449 2.849441,1000 grain}
+{2 1.708359,32 1.437801,38 1.165369,47 1.717743,78 2.061278,115 2.329368,118 3.787553,136 3.035387,152 2.061278,322 1.839355,656 3.968059,1000 grain}
+{2 2.155709,52 2.291892,142 4.051774,166 3.15118,264 3.035387,327 3.422667,440 2.610415,466 2.411009,572 2.849441,936 5.214962,1000 grain}
+{5 1.852911,9 1.583105,26 1.123645,42 2.495232,53 4.025874,310 3.035387,345 4.051774,404 3.852368,456 10.198423,466 2.411009,573 2.670727,627 2.702972,920 2.936197,1000 grain}
+{2 1.077855,5 1.852911,21 1.466542,53 1.434045,100 4.318925,102 2.206209,199 2.984019,277 2.222519,1000 grain}
+{2 1.077855,5 3.021967,9 1.254581,21 3.405206,25 5.339958,26 1.123645,42 1.574316,44 1.23729,46 3.912453,50 1.621214,53 1.434045,60 2.64929,69 1.909227,100 6.478387,147 2.411009,179 4.259925,216 5.698881,278 2.159462,289 3.15118,336 2.58212,549 3.226354,631 4.516257,639 2.38968,730 3.852368,756 2.849441,807 3.090868,1000 grain}
+{2 1.077855,5 1.852911,9 0.791552,21 1.466542,26 1.780935,61 2.129962,100 2.159462,110 2.503566,211 2.273887,514 1.340167,1000 grain}
+{2 1.077855,5 1.852911,9 0.791552,21 1.466542,26 1.123645,42 1.574316,61 2.129962,100 2.159462,211 4.547774,578 3.632563,1000 grain}
+{5 1.169056,135 3.077161,350 2.610415,413 4.516257,1000 grain}
+{5 3.021967,135 1.941472,211 2.273887,350 5.220831,413 6.616196,1000 grain}
+{5 1.852911,25 3.214975,27 1.905654,32 1.772071,44 3.198348,47 5.153229,62 4.203334,105 2.222519,110 5.007133,179 4.94562,189 5.34436,242 7.639781,263 3.697697,312 2.433016,344 4.380548,347 3.968059,439 3.331063,484 4.754663,490 6.10586,514 2.680333,520 2.849441,532 3.697697,549 4.726523,562 7.509513,584 3.929507,727 2.239222,934 2.849441,937 2.528774,941 3.15118,942 2.809821,1000 grain}
+{9 1.254581,21 1.466542,26 1.123645,42 3.148633,53 4.545816,54 1.335561,317 2.772345,371 4.008013,604 3.549084,644 3.035387,713 3.571321,863 5.660411,918 3.15118,1000 grain}
+{2 1.708359,9 0.791552,21 2.324415,26 1.780935,32 0.907152,49 2.153808,135 1.941472,518 2.891462,560 3.035387,565 2.670727,997 3.090868,1000 grain}
+{2 2.155709,5 1.169056,9 1.837928,25 1.607488,38 0.735266,39 1.291113,41 1.839355,42 1.574316,44 1.23729,53 4.025874,60 4.692538,79 2.144556,255 2.936197,271 3.217244,291 2.329368,327 2.159462,466 2.411009,470 4.994502,497 3.756831,563 4.810975,727 3.549084,748 2.639915,906 2.58212,937 2.528774,1000 grain}
+{5 3.705821,9 0.791552,11 2.369262,34 4.501915,36 1.709821,38 1.900635,39 2.046366,46 1.304151,54 2.116814,57 2.174697,60 3.88114,64 1.489086,77 2.035603,83 2.772345,157 2.035603,171 2.190274,203 2.144556,209 2.174697,239 3.15118,277 2.222519,320 2.702972,330 2.610415,336 4.092563,375 3.697697,394 5.214962,433 3.852368,456 3.217244,475 4.729559,484 1.839355,497 2.977218,500 4.653762,518 2.891462,535 2.736791,573 2.670727,583 3.035387,632 2.610415,662 6.86736,689 4.332821,747 3.571321,768 3.290274,897 3.290274,906 5.995496,912 3.464472,992 2.809821,1000 grain}
+{0 1.506488,2 1.708359,8 4.003789,9 1.837928,21 1.466542,24 5.364529,25 4.155295,32 1.569115,38 1.165369,44 1.23729,46 1.304151,80 5.696411,94 2.736791,136 3.035387,177 4.394063,179 2.129962,181 3.571321,186 2.256338,200 5.491059,264 3.035387,282 3.15118,296 3.697697,325 3.290274,371 2.528774,415 2.936197,473 4.332821,474 3.571321,545 3.217244,553 2.411009,832 5.860711,847 2.670727,1000 grain}
+{2 1.708359,9 0.791552,32 0.907152,46 2.608302,1000 grain}
+{5 1.852911,21 1.466542,25 1.607488,26 1.123645,100 2.159462,460 2.329368,530 1.898804,600 2.455744,655 3.697697,868 7.704737,920 5.872394,1000 grain}
+{5 1.169056,9 0.791552,11 1.494838,21 2.324415,26 1.780935,42 1.574316,68 3.787553,88 2.772345,102 2.206209,136 3.035387,461 3.371915,514 1.340167,992 4.453462,1000 grain}
+{2 1.077855,32 0.718901,33 1.733863,44 1.23729,55 2.785916,381 3.290274,493 4.516257,656 2.503566,980 5.660411,1000 grain}
+{5 1.169056,32 0.907152,62 3.331063,103 2.809821,305 2.58212,484 1.839355,530 1.898804,549 2.035603,1000 grain}
+{2 3.988536,5 3.281956,6 1.187346,32 1.437801,36 1.709821,44 2.47458,46 2.06703,47 4.440301,58 3.517539,61 2.129962,62 4.203334,64 1.489086,77 2.035603,163 2.411009,179 2.129962,208 2.809821,213 2.58212,294 4.77936,344 2.190274,366 3.217244,397 2.159462,402 3.15118,484 1.839355,514 2.124114,548 2.433016,549 4.071206,936 3.290274,1000 grain}
+{2 3.864068,6 1.187346,9 1.254581,27 2.404668,36 1.709821,38 2.064153,44 1.23729,60 2.64929,64 2.978172,69 1.909227,78 3.267048,86 1.975291,149 3.464472,179 2.129962,188 4.337711,209 2.174697,226 2.936197,313 2.190274,328 4.620754,334 5.206052,337 3.035387,393 2.455744,427 7.176774,479 4.332821,525 2.702972,530 3.009533,553 2.411009,642 3.571321,688 3.371915,906 2.58212,967 3.371915,975 2.329368,1000 grain}
+{5 2.338113,9 0.791552,26 1.123645,32 0.718901,44 2.47458,58 2.787584,327 5.014117,454 3.371915,483 2.984019,484 1.839355,514 1.340167,727 2.239222,765 3.090868,870 3.15118,1000 grain}
+{2 1.708359,9 0.791552,26 1.123645,32 0.453576,49 1.358902,135 1.941472,518 2.891462,1000 grain}
+{2 3.233564,5 1.852911,9 0.791552,21 4.399627,26 1.123645,32 1.772071,42 1.574316,43 1.567868,80 3.009533,81 2.554934,118 2.38968,133 1.594028,327 2.159462,421 4.620754,449 10.544183,578 7.6135,584 3.929507,587 4.337711,627 2.702972,1000 grain}
+{21 3.405206,32 1.053171,38 0.735266,47 1.717743,58 2.787584,133 3.188056,152 2.061278,332 2.809821,340 2.455744,497 1.878415,756 2.849441,781 3.217244,916 4.453462,1000 grain}
+{6 1.187346,9 1.583105,21 1.466542,25 1.607488,34 2.378456,54 1.335561,60 3.343032,64 1.489086,80 1.898804,151 2.455744,216 2.849441,255 2.936197,371 6.536787,484 1.839355,492 3.371915,497 1.878415,717 3.090868,816 3.090868,1000 grain}
+{5 1.169056,9 2.374657,28 2.087941,41 1.839355,49 1.358902,50 1.621214,60 3.343032,161 3.217244,164 2.849441,399 2.984019,448 1.868442,717 3.090868,718 3.035387,724 3.571321,908 4.332821,1000 grain}
+{2 2.502701,32 0.907152,38 1.165369,42 1.574316,43 1.567868,82 2.291892,118 4.77936,133 1.594028,264 3.035387,327 2.159462,542 2.329368,1000 grain}
+{32 1.273348,44 1.23729,80 3.797607,186 2.256338,484 2.915308,514 1.340167,1000 grain}
+{2 3.416718,100 2.159462,157 2.035603,167 3.035387,175 2.809821,176 3.290274,294 2.38968,573 2.670727,590 3.371915,861 3.697697,1000 grain}
+{2 1.708359,9 0.791552,38 0.735266,53 1.434045,58 1.758769,79 2.144556,86 1.975291,223 1.941472,255 2.936197,497 1.878415,501 2.455744,1000 grain}
+{2 2.155709,5 1.169056,9 0.791552,32 1.506746,61 3.375911,78 2.061278,327 2.159462,332 2.809821,566 3.604026,642 3.571321,1000 grain}
+{2 2.155709,32 0.453576,61 2.129962,188 2.736791,567 5.491059,852 10.429923,980 3.571321,1000 grain}
+{2 1.077855,21 1.466542,42 1.574316,44 1.23729,220 3.217244,327 2.159462,328 2.310377,487 2.368988,587 2.736791,1000 grain}
+{5 1.169056,9 0.791552,21 3.405206,26 1.123645,42 4.419665,77 4.726523,182 3.852368,255 2.936197,381 3.290274,572 2.849441,578 2.291892,596 3.290274,624 3.15118,866 3.090868,1000 grain}
+{5 3.281956,9 0.791552,26 1.780935,33 1.733863,42 3.655449,46 2.06703,77 2.035603,80 6.019065,179 2.129962,328 2.310377,334 1.642326,549 2.035603,551 2.849441,616 3.464472,636 2.849441,867 3.217244,906 2.58212,942 2.809821,975 2.329368,1000 grain}
+{5 1.169056,9 0.791552,21 4.399627,27 1.202334,38 0.735266,50 1.621214,63 1.82062,69 1.909227,100 2.159462,104 5.408626,190 2.849441,223 1.941472,322 1.839355,439 2.101667,457 2.38968,838 4.051774,937 2.528774,1000 grain}
+{2 2.155709,9 0.791552,38 0.735266,42 1.574316,58 2.787584,60 1.671516,79 2.144556,86 3.130762,104 4.658737,124 2.433016,223 1.941472,1000 grain}
+{2 2.502701,5 2.338113,9 1.583105,11 1.494838,28 2.087941,36 3.970082,38 1.165369,39 2.997872,42 1.574316,50 1.621214,53 1.434045,58 4.083736,60 1.671516,79 2.144556,86 1.975291,104 7.737994,161 3.217244,173 3.571321,177 2.772345,206 3.112603,223 3.882945,227 3.697697,289 3.15118,336 2.58212,341 2.936197,342 2.772345,418 2.610415,439 2.101667,467 4.233002,472 2.411009,494 7.704737,497 1.878415,522 3.290274,525 2.702972,545 3.217244,550 2.984019,1000 grain}
+{2 3.416718,9 1.254581,26 1.123645,38 1.165369,41 2.915308,50 1.621214,53 1.434045,58 3.517539,79 2.144556,86 4.586484,104 6.539364,223 1.941472,418 2.610415,754 3.464472,812 3.371915,973 3.571321,979 2.503566,1000 grain}
+{2 1.077855,9 1.583105,28 2.087941,36 1.709821,39 2.582227,54 1.335561,58 1.758769,60 2.64929,82 2.291892,104 6.539364,209 2.174697,223 1.941472,497 1.878415,530 1.898804,748 2.639915,1000 grain}
+{5 1.852911,9 0.791552,44 2.872898,53 2.272908,60 1.671516,104 5.408626,223 1.941472,334 1.642326,469 3.464472,501 2.455744,613 3.217244,1000 grain}
+{2 2.155709,5 1.169056,9 0.791552,34 1.500638,38 1.900635,39 2.582227,42 1.574316,50 1.621214,53 1.434045,54 1.335561,58 2.787584,60 1.671516,79 2.144556,82 2.291892,86 1.975291,104 6.02133,206 1.963834,223 1.941472,244 3.090868,290 2.984019,342 2.772345,393 2.455744,431 2.736791,626 3.571321,781 3.217244,1000 grain}
+{9 0.791552,14 2.11567,32 0.718901,44 1.23729,46 1.304151,80 3.797607,412 3.852368,458 2.273887,1000 grain}
+{9 1.583105,21 1.466542,25 1.607488,27 1.905654,36 2.710002,38 0.735266,39 1.291113,44 1.23729,60 5.014548,72 2.891462,80 1.898804,152 2.061278,302 2.702972,322 3.678709,439 2.101667,466 2.411009,497 1.878415,501 2.455744,554 3.697697,590 3.371915,780 3.15118,906 2.58212,1000 grain}
+{2 1.077855,5 2.338113,21 1.466542,32 0.907152,38 0.735266,42 1.574316,53 1.434045,58 4.546353,79 2.144556,178 2.528774,291 2.329368,505 3.852368,548 2.433016,567 3.464472,568 3.090868,883 3.852368,1000 grain}
+{5 1.169056,21 2.933085,39 1.291113,41 1.839355,135 1.941472,278 2.159462,511 2.670727,535 2.736791,968 4.810975,1000 grain}
+{5 1.169056,21 3.790957,25 2.547808,42 1.574316,47 1.717743,135 1.941472,217 3.290274,334 1.642326,413 2.849441,916 4.453462,939 3.371915,1000 grain}
+{5 1.169056,9 0.791552,25 2.547808,32 1.626052,44 3.473512,60 1.671516,62 5.43273,110 5.007133,152 3.267048,195 3.571321,223 1.941472,242 6.580549,244 4.898911,277 5.16053,305 2.58212,312 3.856239,344 3.471502,386 3.697697,439 4.203334,484 6.594017,549 2.035603,562 7.106963,581 2.023113,584 2.479243,681 2.849441,941 8.846481,1000 grain}
+{2 2.155709,9 0.791552,26 1.780935,38 1.707235,53 3.32975,105 2.222519,152 2.061278,992 5.619643,1000 grain}
+{2 2.502701,5 3.021967,21 2.933085,32 0.718901,49 3.814919,58 5.842506,77 2.035603,86 3.950582,206 1.963834,233 3.571321,244 3.090868,313 2.190274,393 2.455744,454 5.34436,470 3.15118,512 5.214962,534 4.394063,542 2.329368,560 3.035387,577 3.290274,581 2.023113,979 2.503566,1000 grain}
+{5 3.281956,9 1.254581,26 1.123645,46 1.304151,47 1.717743,53 3.32975,100 2.159462,136 7.846362,168 3.371915,169 8.145682,188 2.736791,220 7.470209,262 2.639915,313 2.190274,334 1.642326,371 2.528774,497 1.878415,520 2.849441,573 2.670727,604 2.239222,638 3.464472,836 3.217244,863 3.571321,940 3.290274,967 3.371915,1000 grain}
+{2 1.077855,32 0.718901,38 0.735266,43 2.485013,133 1.594028,264 3.035387,293 2.891462,500 2.936197,518 2.891462,1000 grain}
+{2 2.155709,5 1.169056,9 0.791552,21 1.466542,26 1.123645,61 2.129962,110 2.503566,211 3.604026,548 2.433016,1000 grain}
+{2 1.708359,9 0.791552,26 2.24729,32 0.718901,38 1.470532,53 1.434045,79 3.39904,86 3.130762,102 2.206209,472 3.821359,514 1.340167,981 3.371915,1000 grain}
+{2 2.502701,5 1.169056,9 0.791552,26 1.780935,32 0.453576,38 0.735266,135 1.941472,581 3.206559,1000 grain}
+{2 1.077855,5 2.338113,9 0.791552,21 2.324415,25 2.547808,26 1.123645,32 1.053171,38 0.735266,49 2.153808,58 1.758769,124 2.433016,446 2.772345,1000 grain}
+{2 1.708359,5 2.338113,9 0.791552,21 2.933085,25 2.547808,26 1.123645,32 1.273348,38 0.735266,49 2.153808,58 1.758769,124 3.856239,446 2.772345,1000 grain}
+{5 2.338113,9 0.791552,44 1.23729,58 2.787584,135 1.941472,196 5.660411,225 3.571321,312 2.433016,371 2.528774,1000 grain}
+{2 1.708359,9 0.791552,36 2.710002,38 1.165369,39 1.291113,42 1.574316,54 1.335561,58 1.758769,60 1.671516,79 2.144556,82 2.291892,86 1.975291,104 5.408626,223 3.077161,278 2.159462,393 2.455744,435 2.849441,448 1.868442,472 2.411009,497 1.878415,530 3.797607,600 2.455744,742 3.290274,1000 grain}
+{2 1.708359,5 2.714465,9 0.791552,21 6.115372,26 1.123645,32 1.506746,38 1.165369,41 1.839355,42 3.655449,44 3.473512,49 1.358902,58 6.50822,64 1.489086,77 2.035603,86 3.130762,104 2.329368,124 3.856239,167 3.035387,169 4.994502,177 2.772345,223 1.941472,233 3.571321,344 2.190274,525 2.702972,553 2.411009,578 2.291892,925 4.653762,991 2.984019,1000 grain}
+{1 2.215718,2 1.077855,5 1.852911,9 2.046133,11 1.494838,18 1.477722,19 1.679009,21 2.933085,26 1.123645,27 3.107988,39 1.291113,42 2.495232,50 1.621214,60 5.29858,62 2.101667,63 3.64124,64 4.946636,71 2.702972,77 2.035603,80 3.009533,86 7.901164,91 4.394063,136 3.035387,208 2.809821,262 4.184167,263 5.860711,334 1.642326,397 3.422667,467 2.670727,483 2.984019,545 3.217244,565 2.670727,616 3.464472,618 2.849441,656 2.503566,750 3.464472,765 3.090868,950 3.217244,952 2.528774,1000 grain}
+{2 2.786214,5 1.169056,9 0.791552,47 1.717743,54 1.335561,63 1.82062,190 2.849441,203 2.144556,302 2.702972,313 2.190274,322 1.839355,334 1.642326,427 3.090868,535 2.736791,550 4.729559,598 3.035387,604 2.239222,771 2.891462,775 3.464472,807 3.090868,937 4.008013,968 3.035387,991 2.984019,1000 grain}
+{2 1.708359,42 1.574316,44 2.47458,51 2.670727,220 5.099211,307 3.15118,328 2.310377,344 3.471502,441 3.217244,474 3.571321,514 1.340167,562 2.368988,587 4.337711,877 3.697697,1000 grain}
+{2 1.708359,54 1.335561,814 4.051774,1000 grain}
+{2 1.077855,32 0.718901,135 1.941472,344 2.190274,537 4.332821,649 2.610415,1000 grain}
+{2 1.077855,32 1.053171,38 0.735266,43 2.485013,61 3.375911,62 2.101667,64 3.45755,109 4.049475,115 2.329368,171 2.190274,421 3.661861,457 3.787553,497 1.878415,542 2.329368,675 2.329368,1000 grain}
+{9 1.254581,26 1.780935,32 0.907152,49 2.153808,55 1.392958,320 6.276107,997 3.090868,1000 grain}
+{5 3.021967,6 1.187346,21 1.466542,32 0.453576,41 4.270849,43 4.401563,55 3.910527,64 3.45755,68 2.38968,115 2.329368,212 3.371915,214 2.503566,283 3.571321,291 2.329368,313 2.190274,342 2.772345,365 3.035387,500 2.936197,520 2.849441,534 2.772345,574 2.610415,639 2.38968,687 6.928678,776 3.290274,1000 grain}
+{21 1.466542,32 0.718901,43 1.567868,133 1.594028,421 2.310377,578 2.291892,587 2.736791,649 2.610415,1000 grain}
+{5 2.714465,9 0.791552,32 0.453576,41 4.270849,43 4.970025,55 2.207786,62 2.101667,64 2.978172,115 2.329368,239 3.15118,283 3.571321,340 2.455744,365 3.035387,687 6.928678,776 5.214962,1000 grain}
+{5 1.852911,9 0.791552,41 1.839355,43 2.485013,55 1.392958,115 2.329368,191 3.290274,322 1.839355,340 2.455744,418 2.610415,687 5.968039,1000 grain}
+{5 1.169056,9 0.791552,26 1.123645,32 0.907152,44 3.198348,46 1.304151,47 2.722558,61 2.129962,62 2.101667,163 2.411009,487 2.368988,553 3.821359,560 3.035387,562 6.650589,581 2.023113,727 2.239222,738 3.15118,957 2.936197,1000 grain}
+{2 1.077855,6 1.187346,152 2.061278,491 6.86736,497 1.878415,514 1.340167,549 2.035603,940 3.290274,1000 grain}
+{5 1.169056,9 0.791552,26 1.780935,38 0.735266,1000 grain}
+{2 1.077855,28 2.087941,32 0.453576,38 0.735266,43 1.567868,118 2.38968,133 1.594028,518 2.891462,1000 grain}
+{2 1.077855,9 1.254581,21 2.324415,26 1.123645,42 3.655449,60 1.671516,61 2.129962,80 3.009533,86 3.130762,110 2.503566,216 6.616196,334 1.642326,1000 grain}
+{5 1.852911,32 1.273348,68 3.787553,198 3.464472,1000 grain}
+{5 3.021967,49 1.358902,50 1.621214,63 1.82062,198 5.491059,250 2.736791,315 2.58212,334 1.642326,358 3.090868,437 2.849441,720 5.995496,755 7.142643,771 2.891462,1000 grain}
+{21 1.466542,49 1.358902,69 1.909227,100 2.159462,151 2.455744,206 1.963834,330 2.610415,397 2.159462,535 2.736791,549 2.035603,1000 grain}
+{2 3.233564,5 1.169056,9 1.254581,26 3.370935,32 0.718901,38 0.735266,42 3.655449,53 1.434045,58 6.50822,79 2.144556,86 7.520634,124 2.433016,223 3.077161,322 1.839355,332 4.453462,415 2.936197,439 2.101667,440 2.610415,467 2.670727,542 2.329368,604 2.239222,632 5.220831,682 3.090868,884 3.571321,952 2.528774,1000 grain}
+{2 3.02592,9 1.254581,26 1.780935,39 1.291113,53 1.434045,58 4.083736,60 2.64929,63 1.82062,86 3.130762,223 1.941472,290 2.984019,439 3.331063,530 1.898804,1000 grain}
+{2 1.077855,5 1.169056,9 0.791552,27 1.202334,32 0.453576,39 1.291113,44 1.961058,80 1.898804,157 2.035603,380 4.332821,422 4.051774,581 3.206559,722 2.639915,1000 grain}
+{2 1.077855,32 0.718901,43 1.567868,61 2.129962,78 3.267048,115 2.329368,493 4.516257,656 2.503566,721 2.891462,1000 grain}
+{5 1.169056,9 0.791552,21 3.405206,26 2.24729,32 0.718901,38 1.470532,44 1.23729,47 1.717743,203 2.144556,315 2.58212,369 2.610415,514 1.340167,631 2.849441,718 3.035387,896 3.571321,1000 grain}
+{5 1.169056,6 1.187346,32 0.907152,34 1.500638,38 1.470532,62 4.879919,186 2.256338,328 3.661861,393 2.455744,484 1.839355,574 2.610415,1000 grain}
+{44 1.23729,152 2.061278,484 1.839355,562 3.754757,1000 grain}
+{5 1.169056,9 0.791552,25 1.607488,26 1.123645,42 1.574316,77 2.035603,147 2.411009,381 3.290274,509 2.772345,548 3.856239,756 2.849441,1000 grain}
+{5 2.714465,58 1.758769,147 2.411009,151 2.455744,201 4.394063,211 2.273887,313 2.190274,527 2.639915,554 3.697697,566 2.273887,577 3.290274,642 3.571321,957 2.936197,1000 grain}
+{5 3.705821,9 0.791552,26 1.123645,32 0.453576,42 2.495232,44 4.949159,58 6.50822,124 3.856239,147 2.411009,159 3.371915,179 2.129962,203 2.144556,255 2.936197,327 7.741592,343 3.371915,344 5.661776,466 2.411009,483 2.984019,484 1.839355,511 2.670727,527 2.639915,553 2.411009,568 3.090868,581 4.697524,584 2.479243,615 4.332821,629 4.994502,633 3.035387,681 2.849441,756 2.849441,985 3.852368,1000 grain}
+{5 2.338113,6 1.187346,32 0.718901,39 1.291113,50 1.621214,58 4.083736,135 3.077161,156 5.660411,178 2.528774,197 3.290274,305 2.58212,334 1.642326,343 3.371915,362 3.464472,413 2.849441,484 1.839355,581 3.206559,639 2.38968,713 3.571321,734 3.217244,916 5.619643,1000 grain}
+{2 1.708359,5 2.338113,18 1.477722,32 1.273348,38 1.470532,47 1.717743,55 1.392958,58 2.787584,61 4.259925,64 1.489086,115 2.329368,124 2.433016,493 2.849441,681 2.849441,1000 grain}
+{9 0.791552,21 2.324415,32 0.718901,38 0.735266,50 2.569563,58 3.517539,69 1.909227,237 3.090868,304 3.290274,322 1.839355,514 1.340167,600 3.892262,1000 grain}
+{5 3.021967,9 1.254581,18 1.477722,26 1.780935,32 1.172477,42 1.574316,44 1.961058,58 1.758769,124 3.856239,484 2.915308,1000 grain}
+{32 0.453576,61 3.375911,1000 grain}
+{1 1.397962,2 1.708359,14 2.11567,26 1.780935,32 0.718901,39 1.291113,44 2.872898,46 2.06703,80 4.908336,83 2.772345,100 5.58213,115 3.691962,157 4.726523,166 3.15118,203 2.144556,220 5.099211,302 2.702972,343 3.371915,347 2.503566,484 1.839355,512 3.290274,520 2.849441,526 3.15118,562 2.368988,565 2.670727,609 3.217244,634 2.023113,771 2.891462,942 2.809821,967 3.371915,969 3.090868,1000 grain}
+{2 1.077855,32 0.453576,38 0.735266,43 1.567868,53 1.434045,79 2.144556,133 1.594028,634 2.023113,1000 grain}
+{2 3.02592,9 0.791552,26 1.123645,32 0.718901,42 1.574316,153 4.051774,320 5.405945,578 3.632563,1000 grain}
+{5 1.852911,32 1.626052,34 1.500638,38 0.735266,62 3.331063,133 1.594028,152 2.061278,277 3.52261,649 2.610415,675 2.329368,958 3.852368,1000 grain}
+{21 1.466542,32 0.907152,38 0.735266,81 2.554934,133 2.526475,449 4.516257,578 2.291892,587 2.736791,773 6.421911,952 2.528774,1000 grain}
+{5 2.338113,32 1.569115,34 1.500638,62 3.331063,277 4.445039,449 2.849441,649 2.610415,675 2.329368,1000 grain}
+{5 1.169056,32 1.172477,34 1.500638,54 1.335561,62 3.331063,133 1.594028,277 2.222519,649 2.610415,675 2.329368,1000 grain}
+{21 2.324415,32 0.718901,38 0.735266,43 2.485013,110 3.968059,133 1.594028,202 3.371915,1000 grain}
+{2 2.155709,32 0.718901,54 1.335561,135 1.941472,294 2.38968,727 2.239222,1000 grain}
+{21 1.466542,32 0.453576,43 1.567868,293 2.891462,578 2.291892,587 2.736791,1000 grain}
+{21 1.466542,32 0.453576,38 0.735266,43 2.485013,81 2.554934,449 2.849441,725 2.936197,1000 grain}
+{32 0.907152,54 1.335561,62 4.203334,727 2.239222,1000 grain}
+{5 1.169056,9 0.791552,32 1.172477,38 0.735266,44 1.23729,57 2.174697,62 4.879919,77 2.035603,151 2.455744,313 4.380548,328 2.310377,484 1.839355,715 6.928945,807 3.090868,1000 grain}
+{2 1.077855,5 1.169056,21 1.466542,42 1.574316,44 1.23729,51 2.670727,110 2.503566,163 2.411009,307 3.15118,327 2.159462,344 5.085659,371 2.528774,487 2.368988,557 5.698881,587 2.736791,877 3.697697,1000 grain}
+{32 1.437801,38 1.470532,80 3.009533,135 1.941472,213 2.58212,514 2.124114,723 4.337711,1000 grain}
+{32 1.273348,38 1.470532,80 3.009533,135 1.941472,213 2.58212,514 2.124114,723 4.337711,1000 grain}
+{32 0.453576,44 1.961058,47 1.717743,80 3.009533,206 1.963834,514 1.340167,723 6.354632,728 2.984019,965 2.772345,1000 grain}
+{5 2.338113,25 3.732471,32 1.506746,44 2.47458,62 5.43273,110 5.813101,152 4.786139,178 2.528774,179 2.129962,242 5.214962,312 2.433016,341 2.936197,397 2.159462,439 3.331063,484 8.202476,549 5.261957,562 7.106963,934 2.849441,942 2.809821,1000 grain}
+{11 1.494838,55 1.392958,60 1.671516,64 2.978172,78 4.786139,115 2.329368,161 3.217244,511 2.670727,573 2.670727,624 3.15118,634 2.023113,757 3.571321,928 3.697697,1000 grain}
+{2 1.077855,5 1.169056,32 0.907152,38 1.165369,43 1.567868,54 1.335561,55 1.392958,61 3.375911,62 3.331063,64 2.978172,109 2.554934,421 2.310377,457 2.38968,542 2.329368,1000 grain}
+{2 1.708359,5 1.169056,32 1.437801,38 2.064153,47 1.717743,54 1.335561,61 3.375911,62 5.900125,64 2.978172,109 7.172607,118 3.787553,171 2.190274,258 5.214962,293 2.891462,294 3.787553,421 2.310377,457 4.77936,460 3.691962,514 1.340167,682 3.090868,1000 grain}
+{5 1.169056,32 0.718901,38 0.735266,43 1.567868,55 1.392958,61 2.129962,64 1.489086,78 2.061278,1000 grain}
+{5 1.852911,9 0.791552,21 2.933085,25 2.547808,26 1.123645,42 3.148633,46 2.06703,53 1.434045,216 5.698881,277 2.222519,431 2.736791,1000 grain}
+{2 1.708359,32 0.907152,38 0.735266,43 1.567868,118 3.787553,133 1.594028,135 1.941472,1000 grain}
+{5 1.169056,9 0.791552,26 1.780935,32 0.453576,38 1.165369,42 1.574316,53 1.434045,79 2.144556,80 1.898804,86 1.975291,472 2.411009,514 1.340167,1000 grain}
+{5 2.338113,6 1.187346,9 1.583105,31 3.951896,39 2.046366,88 4.394063,175 2.809821,190 2.849441,203 3.39904,206 1.963834,223 1.941472,226 2.936197,346 3.852368,365 3.035387,469 3.464472,557 2.849441,659 5.860711,682 3.090868,847 2.670727,848 6.10586,916 2.809821,1000 grain}
+{2 2.155709,18 1.477722,32 1.053171,38 1.470532,47 2.722558,61 4.259925,115 2.329368,213 2.58212,493 2.849441,681 2.849441,1000 grain}
+{2 1.708359,5 1.169056,32 1.172477,43 2.485013,55 1.392958,78 3.267048,115 2.329368,313 2.190274,493 4.516257,512 3.290274,604 2.239222,656 2.503566,771 2.891462,1000 grain}
+{2 2.155709,32 1.273348,38 1.470532,47 1.717743,61 4.259925,115 2.329368,213 2.58212,493 2.849441,514 1.340167,1000 grain}
+{2 3.02592,32 0.907152,53 2.272908,80 1.898804,115 2.329368,135 1.941472,334 1.642326,484 1.839355,1000 grain}
+{2 1.708359,5 1.169056,9 1.254581,26 1.123645,36 2.710002,38 1.165369,39 1.291113,42 3.148633,58 1.758769,79 2.144556,86 1.975291,418 4.137411,460 2.329368,530 1.898804,727 2.239222,742 3.290274,1000 grain}
+{9 0.791552,44 2.872898,53 1.434045,60 1.671516,189 5.34436,278 2.159462,371 4.008013,397 2.159462,717 3.090868,1000 grain}
+{5 1.169056,21 2.933085,42 2.495232,44 1.961058,50 1.621214,53 2.86809,55 1.392958,179 2.129962,211 2.273887,216 7.999391,466 2.411009,527 2.639915,721 4.582859,1000 grain}
+{5 1.169056,9 1.254581,21 5.994438,25 4.822463,26 2.24729,42 4.069549,44 3.198348,46 1.304151,53 4.302136,54 1.335561,100 7.741592,152 4.122556,171 2.190274,176 5.214962,177 4.394063,179 4.259925,203 2.144556,216 11.881954,305 2.58212,312 2.433016,328 2.310377,332 2.809821,344 2.190274,404 3.852368,415 4.653762,426 3.035387,482 3.15118,483 2.984019,509 2.772345,549 3.226354,581 2.023113,627 4.28411,644 6.070774,686 3.464472,734 3.217244,768 3.290274,1000 grain}
+{9 0.791552,21 4.117105,26 1.780935,32 1.172477,38 0.735266,275 3.217244,340 2.455744,925 2.936197,1000 grain}
+{5 1.169056,21 5.2575,38 0.735266,41 3.678709,53 2.86809,54 1.335561,60 4.320806,86 1.975291,100 2.159462,190 2.849441,317 2.772345,334 1.642326,362 3.464472,372 2.891462,439 4.203334,525 2.702972,530 1.898804,776 5.214962,777 3.852368,1000 grain}
+{5 3.705821,18 1.477722,21 4.399627,32 0.453576,38 1.470532,42 4.722949,53 2.272908,55 1.392958,58 3.517539,69 1.909227,77 2.035603,86 1.975291,100 2.159462,124 2.433016,186 2.256338,259 3.852368,262 2.639915,275 3.217244,313 3.471502,320 2.702972,327 2.159462,328 3.661861,334 1.642326,381 7.639781,426 3.035387,457 2.38968,511 4.233002,548 2.433016,581 2.023113,604 2.239222,627 2.702972,634 2.023113,636 2.849441,771 2.891462,916 6.524203,1000 grain}
+{21 2.324415,41 1.839355,49 1.358902,69 1.909227,86 1.975291,100 2.159462,190 2.849441,206 1.963834,212 3.371915,291 2.329368,302 2.702972,508 3.571321,687 2.984019,1000 grain}
+{2 1.708359,9 0.791552,27 1.905654,44 1.23729,60 3.88114,80 1.898804,89 2.58212,91 2.772345,203 3.39904,206 1.963834,209 2.174697,330 2.610415,334 2.603026,397 2.159462,472 2.411009,514 2.124114,530 3.009533,613 3.217244,895 3.571321,906 2.58212,931 3.852368,941 3.15118,1000 grain}
+{21 3.405206,27 2.404668,41 1.839355,53 2.272908,60 3.88114,69 1.909227,86 1.975291,100 2.159462,439 2.101667,448 2.96141,514 1.340167,1000 grain}
+{2 1.077855,9 1.583105,25 1.607488,26 1.123645,53 2.272908,60 1.671516,121 3.035387,147 2.411009,456 5.099211,497 1.878415,731 4.051774,1000 grain}
+{9 0.791552,21 2.324415,27 1.202334,36 3.970082,60 1.671516,63 2.885614,323 2.670727,329 3.571321,334 1.642326,457 2.38968,466 2.411009,722 2.639915,937 2.528774,1000 grain}
+{5 1.169056,21 3.405206,25 4.512788,42 2.495232,216 7.999391,1000 grain}
+{5 1.852911,277 3.52261,413 2.849441,514 2.124114,1000 grain}
+{5 1.169056,9 1.583105,26 1.780935,42 2.495232,44 1.23729,53 1.434045,60 2.64929,100 2.159462,102 3.496759,313 2.190274,403 3.290274,456 6.434488,497 1.878415,498 4.051774,530 1.898804,573 5.341454,721 2.891462,748 2.639915,906 2.58212,925 2.936197,1000 grain}
+{2 4.65841,5 2.714465,9 1.254581,26 1.780935,38 0.735266,39 1.291113,42 1.574316,53 1.434045,54 1.335561,58 6.084343,60 1.671516,63 1.82062,69 3.026053,79 2.144556,86 4.586484,100 2.159462,104 4.658737,124 3.856239,176 3.290274,177 5.54469,223 3.882945,290 2.984019,322 1.839355,393 2.455744,408 4.051774,439 4.879919,566 2.273887,574 2.610415,632 4.137411,934 2.849441,1000 grain}
+{1 1.397962,2 2.502701,5 2.338113,8 1.548877,9 2.222169,18 3.431165,20 2.129962,21 2.324415,26 1.123645,32 0.718901,38 1.165369,42 2.495232,53 4.025874,56 2.101667,58 2.787584,60 1.671516,71 4.28411,79 2.144556,82 2.291892,91 4.394063,135 3.077161,162 3.697697,177 2.772345,190 5.698881,203 5.543596,206 1.963834,208 5.619643,223 3.882945,235 3.464472,330 2.610415,342 2.772345,439 2.101667,448 1.868442,497 2.977218,530 3.009533,535 2.736791,544 3.15118,632 5.220831,781 3.217244,937 2.528774,999 3.852368,1000 grain}
+{2 2.502701,9 0.791552,21 2.324415,25 1.607488,27 1.202334,46 1.304151,53 2.272908,60 4.692538,100 2.159462,179 2.129962,188 2.736791,203 2.144556,208 2.809821,216 2.849441,312 2.433016,397 2.159462,441 3.217244,497 3.756831,581 2.023113,727 3.549084,895 5.660411,1000 grain}
+{2 1.708359,32 0.718901,49 2.153808,771 2.891462,1000 grain}
+{2 1.708359,5 1.169056,9 0.791552,25 3.214975,38 0.735266,80 3.009533,176 3.290274,328 2.310377,334 2.603026,497 1.878415,583 3.035387,634 2.023113,965 2.772345,1000 grain}
+{2 1.077855,9 0.791552,38 1.165369,58 2.787584,63 2.885614,86 3.130762,191 3.290274,302 2.702972,565 2.670727,895 3.571321,1000 grain}
+{9 0.791552,41 1.839355,44 1.23729,53 1.434045,60 2.64929,203 2.144556,216 2.849441,397 2.159462,467 2.670727,811 3.571321,1000 grain}
+{9 0.791552,21 1.466542,26 1.123645,27 1.202334,42 3.148633,53 1.434045,100 3.422667,110 2.503566,147 2.411009,186 2.256338,589 2.554934,754 3.464472,1000 grain}
+{9 0.791552,18 2.955445,38 1.165369,42 1.574316,49 1.358902,50 1.621214,63 1.82062,69 1.909227,71 5.405945,80 5.330616,104 5.408626,151 2.455744,208 2.809821,223 3.077161,389 3.371915,509 2.772345,542 2.329368,544 3.15118,968 3.035387,979 2.503566,1000 grain}
+{2 3.233564,5 2.714465,9 1.254581,26 1.123645,28 2.087941,32 0.453576,34 2.378456,38 1.165369,41 1.839355,42 4.990465,50 3.764342,53 2.272908,58 4.546353,79 3.39904,82 2.291892,86 5.106053,104 4.658737,147 2.411009,175 2.809821,206 1.963834,223 3.077161,300 3.464472,472 3.821359,477 4.233002,497 2.977218,514 1.340167,530 1.898804,578 2.291892,920 2.936197,979 2.503566,1000 grain}
+{2 1.077855,9 0.791552,26 1.780935,38 1.900635,53 2.86809,102 2.206209,105 2.222519,152 2.061278,337 4.810975,379 5.099211,992 5.619643,1000 grain}
+{2 3.02592,5 2.714465,6 1.187346,9 1.254581,11 3.470907,38 0.735266,44 1.23729,46 2.608302,49 2.153808,53 2.272908,60 1.671516,86 1.975291,104 2.329368,206 1.963834,223 1.941472,282 3.15118,328 2.310377,439 3.331063,448 1.868442,530 1.898804,682 4.898911,727 2.239222,950 3.217244,1000 grain}
+{2 2.155709,9 0.791552,11 1.494838,23 1.811439,26 2.24729,38 0.735266,39 2.997872,54 1.335561,58 2.787584,60 1.671516,206 1.963834,223 4.507959,322 2.915308,439 2.101667,448 1.868442,530 3.009533,567 3.464472,765 3.090868,891 3.852368,1000 grain}
+{2 1.708359,5 1.852911,9 0.791552,21 1.466542,38 0.735266,49 1.358902,53 1.434045,58 4.083736,64 1.489086,79 2.144556,104 2.329368,204 2.809821,223 1.941472,334 1.642326,439 2.101667,957 2.936197,1000 grain}
+{2 3.02592,5 1.852911,9 1.254581,21 1.466542,32 0.453576,38 0.735266,49 1.358902,50 1.621214,53 1.434045,58 3.517539,77 3.226354,79 2.144556,86 1.975291,120 3.15118,159 3.371915,332 2.809821,399 2.984019,637 3.571321,765 3.090868,1000 grain}
+{2 1.708359,5 2.338113,9 0.791552,21 4.117105,32 1.172477,49 3.51271,50 1.621214,58 4.083736,104 6.02133,223 1.941472,289 4.994502,290 2.984019,320 5.405945,682 3.090868,968 3.035387,979 2.503566,1000 grain}
+{33 1.733863,44 1.23729,80 1.898804,135 1.941472,152 2.061278,157 2.035603,259 3.852368,313 2.190274,344 3.471502,407 3.571321,415 2.936197,423 4.332821,474 3.571321,578 2.291892,651 3.852368,920 4.653762,1000 grain}
+{2 2.155709,9 0.791552,26 1.123645,32 0.907152,38 1.165369,42 1.574316,53 1.434045,57 2.174697,79 2.144556,82 3.632563,133 1.594028,1000 grain}
+{2 2.155709,5 1.852911,6 1.187346,9 0.791552,26 1.123645,32 1.360728,38 1.165369,46 1.304151,53 1.434045,79 2.144556,82 5.321608,102 3.496759,118 2.38968,327 3.422667,472 2.411009,604 2.239222,675 3.691962,1000 grain}
+{5 1.169056,9 1.254581,26 1.123645,42 1.574316,53 2.86809,60 3.88114,80 1.898804,211 2.273887,317 2.772345,322 1.839355,334 1.642326,399 2.984019,475 4.729559,574 2.610415,578 3.632563,866 3.090868,1000 grain}
+{5 2.338113,9 0.791552,26 1.123645,42 1.574316,80 3.009533,349 4.332821,512 3.290274,514 1.340167,1000 grain}
+{2 1.708359,5 2.714465,9 0.791552,26 1.780935,54 2.671122,68 2.38968,206 3.112603,474 10.713964,578 2.291892,1000 grain}
+{2 1.708359,5 1.169056,8 1.548877,9 0.791552,21 1.466542,25 3.214975,26 2.24729,32 1.626052,38 0.735266,47 4.822314,49 1.358902,124 3.856239,277 2.222519,446 2.772345,483 2.984019,509 4.394063,514 3.111771,573 2.670727,681 4.516257,723 2.736791,847 2.670727,1000 grain}
+{2 1.708359,8 1.548877,9 0.791552,21 1.466542,25 3.214975,26 2.90458,32 1.67843,47 5.445116,61 2.129962,110 2.503566,124 2.433016,201 2.772345,337 3.035387,483 2.984019,509 4.394063,514 2.680333,723 4.337711,754 3.464472,836 3.217244,847 2.670727,885 3.697697,925 2.936197,1000 grain}
+{5 1.169056,9 0.791552,21 1.466542,26 1.123645,42 3.148633,77 4.726523,147 2.411009,178 2.528774,347 2.503566,381 3.290274,600 2.455744,1000 grain}
+{2 2.155709,9 0.791552,21 2.324415,25 1.607488,26 1.123645,42 3.148633,44 3.198348,53 3.32975,61 2.129962,80 1.898804,110 2.503566,186 2.256338,211 2.273887,216 11.397763,371 2.528774,534 2.772345,616 3.464472,1000 grain}
+{2 1.708359,9 0.791552,26 1.123645,32 1.273348,38 1.165369,44 1.23729,1000 grain}
+{2 1.708359,5 1.169056,9 0.791552,26 1.123645,32 1.506746,38 1.165369,44 1.23729,1000 grain}
+{2 1.708359,5 1.852911,9 0.791552,26 1.123645,32 1.853974,42 1.574316,44 1.961058,58 3.517539,124 2.433016,1000 grain}
+{5 2.714465,9 0.791552,26 1.780935,39 2.046366,389 3.371915,418 4.137411,589 2.554934,742 3.290274,862 4.332821,1000 grain}
+{5 2.714465,9 1.254581,21 2.324415,26 1.780935,39 2.046366,41 1.839355,42 4.990465,47 1.717743,53 2.272908,55 1.392958,77 3.226354,262 2.639915,313 3.471502,381 6.580549,402 3.15118,426 3.035387,470 3.15118,511 2.670727,548 2.433016,578 2.291892,581 3.206559,748 2.639915,916 5.619643,1000 grain}
+{5 1.852911,9 0.791552,26 1.123645,39 1.291113,42 2.495232,53 1.434045,102 2.206209,152 2.061278,177 2.772345,313 3.471502,484 1.839355,565 2.670727,1000 grain}
+{2 1.708359,5 2.714465,9 0.791552,21 1.466542,26 1.123645,32 1.172477,42 3.148633,47 1.717743,58 3.517539,88 2.772345,124 4.866032,186 2.256338,209 2.174697,327 2.159462,344 2.190274,514 1.340167,548 2.433016,549 3.226354,780 3.15118,1000 grain}
+{2 1.708359,9 0.791552,26 2.609023,32 0.718901,34 1.500638,35 2.239222,42 1.574316,118 2.38968,343 3.371915,431 2.736791,477 2.670727,542 2.329368,627 2.702972,1000 grain}
+{9 0.791552,20 2.129962,21 4.117105,26 1.123645,27 1.202334,42 2.495232,53 4.025874,60 3.343032,82 3.632563,100 2.159462,179 2.129962,211 4.547774,213 2.58212,216 12.104217,239 3.15118,255 2.936197,371 4.008013,514 1.340167,604 2.239222,644 3.035387,721 2.891462,1000 grain}
+{9 0.791552,21 2.324415,26 1.123645,32 0.453576,133 1.594028,1000 grain}
+{5 1.169056,9 0.791552,21 4.117105,26 1.780935,32 1.172477,42 1.574316,47 1.717743,49 2.153808,58 1.758769,124 3.856239,133 2.526475,337 3.035387,446 4.394063,514 1.340167,1000 grain}
+{2 1.077855,5 1.169056,9 0.791552,21 3.405206,26 1.123645,32 1.172477,49 2.717803,58 1.758769,124 2.433016,277 2.222519,337 3.035387,446 4.394063,514 1.340167,1000 grain}
+{9 0.791552,21 2.324415,26 1.780935,42 1.574316,53 2.272908,82 4.583784,100 2.159462,104 4.658737,211 3.604026,223 1.941472,371 2.528774,550 2.984019,1000 grain}
+{2 1.708359,9 0.791552,26 1.780935,32 0.907152,47 1.717743,118 2.38968,327 3.422667,448 3.736884,1000 grain}
+{2 1.708359,9 0.791552,26 1.123645,53 1.434045,171 2.190274,278 2.159462,327 3.422667,431 2.736791,467 2.670727,477 2.670727,508 3.571321,553 2.411009,634 2.023113,1000 grain}
+{25 3.214975,42 2.495232,44 1.23729,60 1.671516,69 1.909227,80 3.797607,100 2.159462,213 2.58212,334 3.284653,514 1.340167,520 2.849441,530 1.898804,609 3.217244,627 2.702972,1000 grain}
+{9 1.254581,21 2.324415,32 0.718901,58 2.787584,497 1.878415,1000 grain}
+{5 1.852911,9 0.791552,21 4.871748,32 1.360728,38 1.470532,58 4.083736,135 3.882945,448 1.868442,581 2.023113,1000 grain}
+{2 2.786214,5 1.852911,9 0.791552,21 4.648829,26 1.780935,32 1.172477,38 0.735266,42 2.495232,44 1.23729,49 1.358902,54 1.335561,58 6.305123,77 2.035603,82 2.291892,86 1.975291,124 2.433016,313 2.190274,323 2.670727,327 2.159462,403 3.290274,553 2.411009,565 2.670727,682 3.090868,925 2.936197,1000 grain}
+{2 2.502701,9 1.583105,26 1.780935,36 1.709821,38 0.735266,39 1.291113,54 1.335561,58 4.546353,79 2.144556,86 4.586484,147 2.411009,418 2.610415,448 1.868442,511 2.670727,530 3.009533,973 3.571321,1000 grain}
+{2 3.233564,5 1.852911,9 1.583105,11 1.494838,26 1.123645,32 0.453576,38 0.735266,42 1.574316,58 4.083736,79 2.144556,86 3.130762,104 2.329368,147 2.411009,206 1.963834,223 1.941472,308 3.571321,448 1.868442,467 2.670727,477 2.670727,550 2.984019,583 3.035387,937 2.528774,973 3.571321,1000 grain}
+{32 0.718901,39 1.291113,44 1.23729,54 2.116814,80 1.898804,344 2.190274,727 2.239222,749 6.86736,780 3.15118,1000 grain}
+{2 2.502701,9 0.791552,44 2.47458,54 1.335561,62 2.101667,157 2.035603,166 3.15118,323 4.233002,327 4.318925,340 2.455744,344 5.085659,553 2.411009,579 3.371915,581 3.206559,587 2.736791,780 3.15118,1000 grain}
+{5 1.169056,44 1.23729,47 1.717743,55 1.392958,61 2.129962,106 2.702972,192 3.217244,327 3.422667,357 2.610415,584 2.479243,587 2.736791,678 3.090868,891 3.852368,1000 grain}
+{2 1.708359,6 1.881899,7 2.074481,8 1.548877,9 0.791552,34 1.500638,96 2.772345,244 3.090868,312 4.866032,457 2.38968,497 1.878415,548 2.433016,605 2.736791,1000 grain}
+{2 1.077855,9 0.791552,61 4.259925,171 2.190274,304 3.290274,323 4.233002,327 5.014117,344 2.190274,357 2.610415,397 2.159462,440 4.137411,572 2.849441,574 2.610415,629 3.15118,936 3.290274,1000 grain}
+{2 2.502701,5 2.714465,47 1.717743,161 3.217244,216 2.849441,415 2.936197,482 3.15118,487 2.368988,507 4.051774,651 3.852368,866 3.090868,1000 grain}
+{2 1.708359,5 1.169056,9 1.254581,26 1.123645,44 1.961058,327 3.422667,551 2.849441,631 2.849441,1000 grain}
+{9 0.791552,26 1.780935,32 0.453576,49 2.153808,80 3.797607,135 1.941472,518 2.891462,560 3.035387,565 2.670727,1000 grain}
+{9 0.791552,29 2.11567,32 0.718901,54 1.335561,62 3.331063,152 2.061278,484 1.839355,514 1.340167,527 4.184167,1000 grain}
+{9 0.791552,23 2.871063,27 1.905654,36 1.709821,53 1.434045,56 2.101667,60 1.671516,72 5.782925,214 2.503566,278 2.159462,530 1.898804,578 2.291892,1000 livestock}
+{6 1.187346,27 1.905654,36 1.709821,54 2.116814,72 5.782925,874 3.571321,1000 livestock}
+{27 1.202334,32 0.718901,38 2.064153,51 2.670727,71 6.987082,88 4.394063,135 1.941472,186 2.256338,209 2.174697,461 3.371915,501 2.455744,514 1.340167,538 3.090868,578 2.291892,616 3.464472,700 3.371915,1000 livestock}
+{9 0.791552,26 1.123645,38 1.165369,51 5.341454,53 1.434045,79 2.144556,82 3.632563,91 5.54469,102 3.496759,133 1.594028,472 2.411009,487 4.737975,604 2.239222,1000 livestock}
+{9 0.791552,26 1.780935,38 1.165369,51 5.341454,53 1.434045,79 2.144556,82 3.632563,91 4.394063,102 2.206209,472 2.411009,487 4.737975,604 2.239222,1000 livestock}
+{9 0.791552,26 2.24729,38 0.735266,51 5.341454,53 1.434045,79 2.144556,82 3.632563,91 4.394063,102 3.496759,472 2.411009,487 3.754757,604 2.239222,675 2.329368,1000 livestock}
+{9 0.791552,26 2.24729,38 1.165369,46 1.304151,51 5.341454,53 1.434045,79 2.144556,82 4.583784,91 4.394063,102 3.496759,472 2.411009,487 4.737975,604 2.239222,675 2.329368,1000 livestock}
+{6 1.187346,9 0.791552,26 1.780935,38 0.735266,46 1.304151,51 5.341454,53 1.434045,82 3.632563,91 4.394063,102 3.496759,387 4.898911,472 2.411009,487 4.737975,604 2.239222,675 2.329368,1000 livestock}
+{1 2.215718,32 0.453576,51 8.012181,71 5.405945,371 2.528774,387 3.090868,484 1.839355,487 5.500619,505 3.852368,552 3.090868,562 2.368988,578 2.291892,581 3.206559,973 3.571321,1000 livestock}
+{44 1.23729,51 2.670727,53 1.434045,60 4.320806,64 4.467257,71 2.702972,115 3.691962,179 2.129962,188 2.736791,190 2.849441,221 4.453462,226 2.936197,249 3.852368,270 3.697697,299 3.852368,302 2.702972,328 4.620754,334 1.642326,342 2.772345,371 2.528774,397 2.159462,487 2.368988,527 2.639915,572 2.849441,578 2.291892,613 3.217244,621 2.256338,717 3.090868,766 3.852368,785 3.290274,906 2.58212,1000 livestock}
+{9 0.791552,26 1.123645,53 1.434045,80 1.898804,387 3.090868,443 5.660411,520 2.849441,1000 livestock}
+{9 0.791552,11 1.494838,39 1.291113,51 5.341454,178 2.528774,192 3.217244,322 1.839355,338 4.332821,427 3.090868,526 3.15118,535 2.736791,897 3.290274,975 3.691962,1000 livestock}
+{6 1.881899,30 3.661861,34 1.500638,54 1.335561,574 2.610415,598 3.035387,627 2.702972,727 2.239222,1000 livestock}
+{9 0.791552,14 2.11567,18 2.955445,32 0.718901,33 3.467727,38 0.735266,39 1.291113,46 2.608302,54 2.671122,60 1.671516,71 11.482031,78 4.122556,88 7.166408,91 2.772345,104 2.329368,137 4.898911,208 2.809821,210 7.704737,223 1.941472,302 2.702972,317 2.772345,357 2.610415,426 3.035387,503 4.337711,516 4.051774,527 4.184167,530 1.898804,544 3.15118,551 2.849441,599 3.290274,624 3.15118,717 7.176774,807 4.898911,1000 livestock}
+{5 1.169056,6 1.187346,9 1.254581,14 2.11567,18 1.477722,27 1.202334,39 1.291113,46 1.304151,54 3.452375,60 1.671516,71 9.690054,72 6.713768,78 4.122556,91 2.772345,137 7.176774,317 5.54469,334 1.642326,357 5.220831,535 2.736791,551 2.849441,556 2.809821,1000 livestock}
+{18 2.342135,32 0.718901,43 3.135737,54 1.335561,71 6.276107,497 1.878415,551 2.849441,1000 livestock}
+{42 1.574316,46 1.304151,47 1.717743,55 1.392958,72 4.582859,88 5.54469,154 4.332821,186 2.256338,290 2.984019,313 5.085659,372 2.891462,589 4.049475,1000 livestock}
+{23 2.871063,27 1.905654,36 1.709821,42 1.574316,72 6.713768,223 1.941472,330 2.610415,530 1.898804,1000 livestock}
+{9 0.791552,18 1.477722,32 0.453576,54 1.335561,60 1.671516,71 8.108917,104 2.329368,147 2.411009,206 3.927668,223 1.941472,323 2.670727,393 2.455744,497 1.878415,566 2.273887,568 3.090868,724 3.571321,925 2.936197,1000 livestock}
+{9 1.254581,26 1.123645,49 2.153808,51 2.670727,53 3.32975,54 1.335561,60 1.671516,91 4.394063,104 3.691962,206 1.963834,221 2.809821,223 1.941472,332 2.809821,632 4.137411,748 2.639915,968 3.035387,1000 livestock}
+{23 3.622878,27 1.905654,36 1.709821,42 1.574316,53 4.545816,72 5.782925,475 2.984019,530 1.898804,535 2.736791,566 2.273887,1000 livestock}
+{27 1.905654,53 2.272908,60 1.671516,72 6.713768,334 1.642326,1000 livestock}
+{5 1.169056,23 4.206031,27 2.791733,36 2.710002,53 1.434045,60 3.88114,72 8.117361,214 3.968059,330 2.610415,335 4.332821,336 2.58212,389 3.371915,467 2.670727,535 2.736791,621 2.256338,765 3.090868,1000 livestock}
+{5 1.169056,21 1.466542,42 2.495232,51 8.012181,55 1.392958,69 1.909227,162 3.697697,167 3.035387,204 2.809821,250 2.736791,305 2.58212,334 3.284653,345 4.051774,465 3.697697,578 2.291892,686 3.464472,879 3.852368,965 2.772345,1000 livestock}
+{143 3.852368,163 2.411009,167 3.035387,217 10.429923,304 3.290274,312 3.856239,327 4.318925,344 3.471502,346 3.852368,562 3.754757,600 6.894145,725 2.936197,865 4.051774,941 6.30236,942 2.809821,1000 livestock}
+{8 1.548877,20 2.129962,40 2.38968,47 1.717743,277 2.222519,1000 livestock}
+{9 0.791552,49 1.358902,52 2.291892,60 1.671516,64 2.360145,88 6.437185,203 3.39904,1000 livestock}
+{9 0.791552,26 1.123645,33 1.733863,34 1.500638,42 3.655449,60 1.671516,64 1.489086,72 4.582859,88 9.938752,155 11.201261,178 2.528774,203 3.39904,322 2.915308,392 10.083338,403 3.290274,556 2.809821,678 3.090868,756 2.849441,1000 livestock}
+{46 2.06703,47 2.722558,213 4.092563,514 2.680333,1000 livestock}
+{9 0.791552,33 2.748108,71 4.28411,104 4.658737,208 2.809821,223 1.941472,544 3.15118,1000 livestock}
+{9 0.791552,26 1.780935,33 1.733863,40 2.38968,41 1.839355,42 2.495232,71 4.28411,88 4.394063,294 2.38968,530 1.898804,897 3.290274,1000 livestock}
+{9 0.791552,26 2.609023,38 1.165369,51 6.201236,53 2.86809,88 4.394063,91 5.54469,277 2.222519,487 4.737975,1000 livestock}
+{9 0.791552,26 1.780935,33 1.733863,203 2.144556,467 2.670727,636 2.849441,702 3.852368,832 3.697697,897 3.290274,1000 livestock}
+{9 0.791552,32 0.453576,38 1.165369,71 4.28411,88 4.394063,167 3.035387,223 1.941472,293 2.891462,320 2.702972,322 1.839355,397 2.159462,758 6.928945,832 5.860711,1000 livestock}
+{9 1.254581,25 5.560993,38 0.735266,42 3.655449,44 1.23729,53 2.272908,60 1.671516,100 2.159462,214 3.968059,223 1.941472,334 1.642326,448 1.868442,718 3.035387,748 2.639915,906 2.58212,1000 oilseed}
+{8 1.548877,9 0.791552,40 2.38968,56 3.331063,64 1.489086,68 5.548665,175 2.809821,334 2.603026,458 3.604026,506 3.090868,566 2.273887,755 3.571321,1000 oilseed}
+{2 2.502701,5 1.169056,25 2.547808,32 1.273348,106 2.702972,255 2.936197,277 2.222519,387 3.090868,1000 oilseed}
+{8 1.548877,9 1.254581,20 2.129962,23 2.871063,25 2.547808,27 1.202334,39 1.291113,40 2.38968,49 1.358902,56 4.203334,63 1.82062,64 2.360145,209 2.174697,322 1.839355,334 1.642326,347 2.503566,556 4.453462,565 2.670727,621 2.256338,632 2.610415,724 3.571321,748 2.639915,1000 oilseed}
+{19 1.679009,25 1.607488,27 1.202334,184 4.994502,482 3.15118,484 2.915308,557 2.849441,944 5.660411,1000 oilseed}
+{34 1.500638,39 1.291113,50 2.569563,54 1.335561,68 2.38968,164 2.849441,278 2.159462,600 2.455744,720 2.58212,1000 oilseed}
+{34 1.500638,50 1.621214,63 1.82062,68 2.38968,164 2.849441,720 2.58212,1000 oilseed}
+{34 2.378456,50 2.569563,68 3.787553,214 2.503566,358 3.090868,796 4.051774,934 2.849441,1000 oilseed}
+{34 1.500638,50 1.621214,68 3.787553,202 3.371915,293 2.891462,441 3.217244,720 2.58212,1000 oilseed}
+{34 1.500638,50 1.621214,54 1.335561,68 3.787553,164 2.849441,202 3.371915,358 3.090868,589 2.554934,1000 oilseed}
+{34 1.500638,50 1.621214,54 1.335561,68 2.38968,70 2.554934,552 3.090868,557 2.849441,720 2.58212,1000 oilseed}
+{2 1.708359,21 2.324415,25 2.547808,38 1.707235,42 1.574316,55 2.207786,100 6.478387,186 2.256338,305 2.58212,1000 oilseed}
+{9 0.791552,26 1.780935,38 0.735266,68 3.787553,102 2.206209,105 2.222519,514 1.340167,847 4.233002,992 2.809821,1000 oilseed}
+{9 1.254581,26 1.780935,42 1.574316,53 1.434045,102 2.206209,105 2.222519,135 1.941472,1000 oilseed}
+{24 2.310377,32 0.718901,37 2.329368,55 1.392958,131 3.290274,132 3.290274,133 1.594028,449 2.849441,952 2.528774,1000 oilseed}
+{8 1.548877,9 0.791552,25 2.547808,26 1.123645,32 1.172477,38 1.165369,44 1.23729,186 2.256338,294 3.787553,1000 oilseed}
+{44 1.23729,106 2.702972,179 2.129962,217 3.290274,497 1.878415,1000 oilseed}
+{5 1.169056,9 1.837928,19 1.679009,21 1.466542,25 7.27157,26 1.780935,27 1.202334,38 0.735266,39 1.291113,42 4.722949,44 1.23729,46 1.304151,49 1.358902,53 4.302136,54 1.335561,60 2.64929,64 2.360145,100 2.159462,102 3.496759,157 2.035603,190 2.849441,206 3.112603,223 1.941472,334 3.284653,342 2.772345,393 2.455744,405 3.464472,421 2.310377,439 3.331063,469 5.491059,497 2.977218,568 3.090868,681 4.516257,748 2.639915,906 5.16424,952 2.528774,1000 oilseed}
+{8 4.003789,9 0.791552,27 1.202334,32 0.453576,33 1.733863,38 1.165369,40 3.787553,44 1.23729,49 1.358902,50 1.621214,53 1.434045,56 6.662126,60 5.014548,64 5.669478,68 2.38968,86 3.130762,93 2.528774,157 2.035603,163 2.411009,169 3.15118,186 2.256338,221 5.619643,266 4.051774,328 3.661861,330 2.610415,347 2.503566,362 3.464472,403 3.290274,448 2.96141,493 2.849441,530 1.898804,581 2.023113,584 2.479243,621 3.576211,632 2.610415,738 3.15118,845 3.571321,870 3.15118,1000 oilseed}
+{8 1.548877,9 0.791552,23 1.811439,32 0.453576,39 2.046366,56 3.331063,60 2.64929,63 3.64124,64 2.978172,68 2.38968,211 2.273887,315 2.58212,330 2.610415,397 2.159462,501 3.892262,632 4.137411,633 3.035387,656 2.503566,957 2.936197,1000 oilseed}
+{9 0.791552,25 4.155295,32 1.172477,39 1.291113,179 3.375911,226 2.936197,305 2.58212,500 2.936197,511 2.670727,556 2.809821,566 2.273887,621 2.256338,727 2.239222,847 2.670727,1000 oilseed}
+{32 0.453576,106 2.702972,133 1.594028,1000 oilseed}
+{32 0.453576,38 0.735266,106 2.702972,125 3.371915,133 1.594028,1000 oilseed}
+{19 4.340177,25 1.607488,32 1.273348,125 6.743831,133 4.782084,322 1.839355,358 3.090868,634 2.023113,1000 oilseed}
+{25 3.732471,32 1.172477,44 1.961058,125 3.371915,133 3.701218,145 3.852368,277 2.222519,328 2.310377,449 4.516257,511 5.341454,514 1.340167,634 2.023113,1000 oilseed}
+{25 2.547808,32 0.718901,53 1.434045,125 5.34436,133 2.526475,135 1.941472,501 2.455744,847 2.670727,1000 oilseed}
+{19 3.358019,25 3.214975,32 0.907152,69 1.909227,100 2.159462,125 5.34436,133 2.526475,135 1.941472,484 1.839355,497 1.878415,566 2.273887,634 2.023113,1000 oilseed}
+{32 0.453576,38 0.735266,106 2.702972,125 3.371915,133 1.594028,1000 oilseed}
+{9 1.254581,25 6.570546,26 1.123645,27 1.202334,42 3.655449,100 3.422667,104 2.329368,147 3.821359,223 1.941472,334 2.603026,402 3.15118,437 2.849441,470 3.15118,525 2.702972,906 2.58212,927 6.421911,1000 oilseed}
+{25 1.607488,32 1.172477,38 0.735266,43 1.567868,133 2.526475,578 2.291892,1000 oilseed}
+{209 3.446813,509 2.772345,1000 oilseed}
+{8 3.596381,9 0.791552,20 3.375911,25 1.607488,32 0.907152,38 1.900635,56 4.879919,64 3.45755,66 2.702972,169 3.15118,223 1.941472,303 3.090868,320 4.28411,341 2.936197,847 2.670727,1000 oilseed}
+{32 0.907152,38 0.735266,1000 oilseed}
+{25 1.607488,68 2.38968,106 2.702972,294 2.38968,458 2.273887,484 1.839355,1000 oilseed}
+{9 1.254581,25 5.095615,26 1.123645,27 1.202334,39 1.291113,42 4.419665,60 1.671516,104 2.329368,157 2.035603,223 1.941472,324 3.090868,327 2.159462,334 1.642326,448 1.868442,604 2.239222,906 2.58212,1000 oilseed}
+{25 1.607488,32 0.718901,38 0.735266,133 1.594028,1000 oilseed}
+{5 1.169056,25 3.214975,32 0.907152,54 1.335561,133 1.594028,649 2.610415,675 2.329368,727 2.239222,1000 oilseed}
+{25 3.732471,32 1.172477,43 1.567868,54 1.335561,649 2.610415,1000 oilseed}
+{8 3.097754,20 2.129962,23 1.811439,25 4.155295,27 2.791733,38 0.735266,39 1.291113,40 3.787553,49 1.358902,50 1.621214,56 6.305,64 4.72029,68 2.38968,86 1.975291,173 3.571321,203 2.144556,320 2.702972,323 2.670727,330 4.137411,341 2.936197,357 2.610415,397 2.159462,409 4.332821,448 1.868442,477 2.670727,514 1.340167,542 2.329368,578 3.632563,583 3.035387,598 3.035387,600 2.455744,636 2.849441,748 2.639915,766 3.852368,867 3.217244,1000 oilseed}
+{9 0.791552,25 3.214975,38 0.735266,42 1.574316,46 1.304151,104 3.691962,223 3.077161,320 2.702972,328 2.310377,567 3.464472,979 2.503566,1000 oilseed}
+{5 1.169056,9 1.583105,25 4.155295,42 1.574316,60 2.64929,317 2.772345,497 1.878415,1000 oilseed}
+{5 1.169056,8 5.358234,9 0.791552,20 4.94562,24 4.620754,25 5.095615,27 1.202334,32 1.626052,44 1.23729,46 3.371181,53 2.86809,60 1.671516,68 8.266935,102 2.206209,147 2.411009,157 2.035603,179 2.129962,233 3.571321,277 2.222519,296 3.697697,325 3.290274,328 5.364529,334 1.642326,435 2.849441,440 2.610415,446 2.772345,514 1.340167,548 2.433016,549 3.226354,565 2.670727,612 3.464472,847 2.670727,942 2.809821,1000 oilseed}
+{1 2.795925,31 1.701989,34 3.484375,49 1.358902,83 2.772345,151 2.455744,179 2.129962,235 3.464472,267 4.332821,303 3.090868,551 2.849441,565 2.670727,678 3.090868,721 2.891462,1000 sugar}
+{1 2.215718,32 0.718901,38 0.735266,45 2.329368,58 3.517539,133 2.526475,135 1.941472,322 1.839355,413 2.849441,649 2.610415,1000 sugar}
+{1 2.215718,27 1.202334,44 3.198348,244 3.090868,315 2.58212,344 2.190274,484 1.839355,562 4.737975,581 3.206559,584 2.479243,587 4.337711,644 3.035387,1000 sugar}
+{1 2.795925,32 1.273348,46 1.304151,47 2.722558,277 2.222519,738 3.15118,1000 sugar}
+{1 5.59185,27 2.791733,32 1.172477,34 1.500638,38 2.205798,43 2.485013,49 1.358902,55 2.207786,64 4.467257,78 7.13085,93 2.528774,109 8.098949,206 1.963834,237 4.898911,238 2.639915,302 2.702972,324 7.176774,372 2.891462,421 2.310377,428 3.852368,497 1.878415,636 2.849441,675 3.691962,952 2.528774,1000 sugar}
+{1 4.193887,27 3.107988,32 0.718901,38 1.165369,46 2.608302,64 3.849231,77 2.035603,78 4.786139,109 2.554934,323 2.670727,324 4.898911,440 2.610415,530 1.898804,542 2.329368,566 4.547774,621 2.256338,952 2.528774,1000 sugar}
+{1 4.193887,6 1.187346,27 4.159392,32 0.718901,38 1.470532,43 1.567868,64 4.946636,70 2.554934,78 4.786139,109 5.109868,164 2.849441,313 2.190274,324 6.181737,421 2.310377,437 2.849441,514 1.340167,530 1.898804,565 2.670727,574 2.610415,627 2.702972,722 2.639915,952 2.528774,1000 sugar}
+{1 2.215718,44 2.47458,90 2.849441,113 7.470209,315 2.58212,344 3.471502,350 2.610415,527 2.639915,549 2.035603,656 3.968059,1000 sugar}
+{1 5.322539,5 1.169056,6 1.187346,9 1.254581,18 1.477722,32 1.506746,33 2.748108,39 2.046366,44 1.961058,45 2.329368,46 3.371181,47 2.722558,55 3.234348,58 1.758769,90 6.616196,146 3.697697,152 2.061278,157 2.035603,163 2.411009,186 2.256338,312 2.433016,340 2.455744,448 2.96141,457 2.38968,477 2.670727,501 2.455744,563 4.810975,702 3.852368,717 3.090868,1000 sugar}
+{1 2.795925,9 0.791552,26 1.780935,32 0.907152,44 1.23729,45 2.329368,47 3.435486,90 4.516257,152 2.061278,484 1.839355,514 3.464281,527 2.639915,1000 sugar}
+{1 2.215718,35 2.239222,43 1.567868,45 2.329368,55 1.392958,133 1.594028,649 2.610415,725 2.936197,744 3.090868,1000 sugar}
+{1 3.613681,9 0.791552,18 1.477722,27 1.202334,32 1.053171,38 1.165369,58 4.083736,80 3.009533,135 3.077161,178 2.528774,201 2.772345,413 2.849441,589 2.554934,1000 sugar}
+{1 2.795925,32 1.053171,94 6.354632,142 4.051774,157 2.035603,312 2.433016,333 3.852368,387 3.090868,392 3.035387,484 4.754663,514 2.124114,557 2.849441,562 2.368988,603 3.852368,719 3.464472,738 3.15118,811 3.571321,965 2.772345,1000 sugar}
+{1 3.613681,6 1.187346,11 1.494838,32 1.891377,38 2.205798,44 3.198348,45 2.329368,124 2.433016,277 3.52261,399 2.984019,415 2.936197,446 2.772345,497 1.878415,581 2.023113,1000 sugar}
+{1 3.245968,6 1.187346,19 1.679009,28 2.087941,38 1.470532,39 1.291113,43 2.485013,44 1.23729,45 2.329368,55 3.234348,58 2.787584,81 2.554934,133 1.594028,203 2.144556,272 2.936197,393 2.455744,527 2.639915,548 2.433016,581 2.023113,1000 sugar}
+{1 2.215718,32 1.360728,38 1.165369,45 3.691962,47 1.717743,54 1.335561,58 1.758769,124 3.856239,560 3.035387,1000 sugar}
+{1 1.397962,10 1.725756,28 3.309308,32 0.718901,64 1.489086,77 2.035603,124 3.856239,170 3.571321,179 4.259925,458 2.273887,1000 sugar}
+{1 2.795925,32 0.718901,36 2.710002,201 2.772345,512 3.290274,1000 sugar}
+{1 3.924577,27 2.404668,32 1.172477,38 1.165369,43 1.567868,46 1.304151,55 4.415572,64 2.360145,78 4.122556,105 2.222519,458 2.273887,530 3.009533,1000 sugar}
+{1 2.795925,32 0.907152,38 0.735266,64 2.360145,78 5.328326,250 2.736791,313 3.471502,341 2.936197,539 2.772345,574 2.610415,1000 sugar}
+{1 1.397962,28 2.087941,32 1.053171,38 1.165369,55 1.392958,64 1.489086,109 2.554934,157 2.035603,421 2.310377,458 2.273887,1000 sugar}
+{1 3.613681,32 0.907152,39 1.291113,43 1.567868,46 2.608302,55 3.910527,64 3.45755,78 4.786139,340 2.455744,477 2.670727,568 3.090868,638 3.464472,722 4.184167,1000 sugar}
+{1 4.193887,18 1.477722,27 3.375378,32 1.053171,38 1.900635,41 1.839355,43 3.640478,46 1.304151,53 1.434045,55 2.207786,64 4.467257,77 2.035603,78 5.786738,171 2.190274,209 2.174697,214 2.503566,302 4.28411,313 2.190274,339 3.852368,364 4.898911,435 2.849441,458 2.273887,511 2.670727,530 1.898804,544 4.994502,604 2.239222,675 2.329368,688 3.371915,870 3.15118,945 3.035387,957 2.936197,1000 sugar}
+{1 2.795925,28 3.309308,45 4.658737,179 2.129962,262 4.184167,278 2.159462,364 3.090868,514 2.124114,1000 sugar}
+{1 4.193887,27 1.905654,31 1.701989,32 1.053171,38 0.735266,43 2.485013,47 1.717743,54 1.335561,55 2.207786,60 1.671516,64 4.180392,78 4.122556,109 7.664802,186 2.256338,252 4.051774,324 4.898911,350 2.610415,403 3.290274,421 3.661861,514 1.340167,530 3.009533,542 2.329368,566 2.273887,627 2.702972,952 2.528774,963 3.290274,991 2.984019,1000 sugar}
+{1 3.613681,27 3.107988,32 0.453576,38 0.735266,43 2.485013,63 1.82062,64 3.849231,78 4.786139,109 5.932373,206 1.963834,313 2.190274,324 4.898911,421 2.310377,433 3.852368,627 2.702972,952 2.528774,1000 sugar}
+{1 3.613681,27 2.791733,32 0.453576,38 0.735266,43 2.485013,54 1.335561,64 4.180392,78 4.786139,109 5.932373,289 3.15118,313 2.190274,324 4.898911,421 3.661861,514 1.340167,574 2.610415,581 2.023113,627 2.702972,952 2.528774,1000 sugar}
+{1 6.491937,6 1.187346,9 1.583105,18 4.433167,27 2.791733,28 6.263822,32 1.772071,34 1.500638,38 1.165369,39 2.046366,44 1.23729,45 2.329368,46 1.304151,47 2.722558,54 1.335561,58 2.787584,60 2.64929,64 4.946636,77 2.035603,78 3.267048,86 1.975291,90 10.848832,148 3.290274,157 2.035603,176 3.290274,178 2.528774,179 6.751821,186 3.576211,213 2.58212,214 2.503566,249 3.852368,264 3.035387,272 2.936197,277 2.222519,282 3.15118,291 2.329368,294 5.548665,305 4.092563,312 2.433016,325 3.290274,334 1.642326,337 3.035387,344 2.190274,415 2.936197,439 3.331063,458 4.547774,466 2.411009,468 3.464472,483 4.729559,514 2.124114,530 3.009533,548 2.433016,549 3.226354,656 3.968059,659 3.697697,681 2.849441,722 2.639915,727 3.549084,743 3.464472,757 3.571321,773 4.051774,774 3.290274,852 3.290274,870 3.15118,920 4.653762,952 2.528774,965 2.772345,980 3.571321,991 2.984019,1000 sugar}
+{1 3.613681,90 5.698881,151 2.455744,206 1.963834,223 1.941472,340 2.455744,365 3.035387,393 2.455744,439 2.101667,468 3.464472,535 2.736791,565 2.670727,656 5.007133,785 3.290274,1000 sugar}
+{1 3.245968,28 4.175881,32 1.506746,64 1.489086,78 2.061278,90 4.516257,294 2.38968,458 2.273887,514 1.340167,920 2.936197,952 5.057549,1000 sugar}
+{1 3.613681,28 2.087941,32 1.273348,38 0.735266,46 2.06703,64 1.489086,1000 sugar}
+{1 2.795925,32 1.053171,64 1.489086,78 5.328326,157 2.035603,466 2.411009,525 2.702972,748 2.639915,1000 sugar}
+{1 1.397962,28 2.087941,32 0.453576,43 1.567868,55 1.392958,64 1.489086,274 3.852368,1000 sugar}
+{1 2.215718,32 0.907152,90 6.616196,179 2.129962,371 2.528774,484 1.839355,530 1.898804,548 2.433016,549 2.035603,852 3.290274,870 3.15118,940 3.290274,1000 sugar}
+{1 2.795925,28 2.087941,32 0.718901,43 3.640478,55 2.207786,81 5.109868,133 2.526475,425 3.852368,634 2.023113,649 2.610415,744 4.898911,934 2.849441,975 4.658737,1000 sugar}
+{1 2.795925,6 1.187346,28 2.087941,32 0.453576,43 1.567868,55 3.234348,81 5.932373,133 1.594028,870 3.15118,975 4.658737,1000 sugar}
+{1 1.397962,6 1.187346,28 2.087941,31 1.701989,32 0.453576,43 1.567868,55 3.600744,81 7.172607,133 2.526475,178 2.528774,425 6.10586,497 1.878415,608 4.332821,634 2.023113,975 3.691962,1000 sugar}
+{1 1.397962,28 3.309308,31 1.701989,32 0.453576,43 2.485013,55 1.392958,81 6.604409,133 2.526475,175 4.453462,497 1.878415,649 4.137411,870 3.15118,975 3.691962,1000 sugar}
+{1 1.397962,28 2.087941,32 0.453576,43 1.567868,55 1.392958,81 4.049475,133 1.594028,151 2.455744,289 3.15118,649 4.137411,656 2.503566,916 2.809821,975 2.329368,1000 sugar}
+{1 1.397962,28 2.087941,43 1.567868,55 1.392958,81 2.554934,133 1.594028,425 3.852368,975 2.329368,1000 sugar}
+{1 2.215718,32 1.360728,38 1.165369,46 1.304151,47 1.717743,625 3.852368,975 3.691962,1000 sugar}
+{1 3.245968,9 1.254581,32 1.437801,46 2.608302,47 1.717743,313 2.190274,484 1.839355,1000 sugar}
+{1 3.245968,9 0.791552,27 1.202334,32 0.907152,44 1.23729,45 4.658737,53 1.434045,209 2.174697,294 2.38968,545 3.217244,551 2.849441,991 2.984019,1000 sugar}
+{1 3.245968,6 1.881899,11 1.494838,19 1.679009,23 2.871063,31 1.701989,36 3.419642,38 0.735266,39 1.291113,49 1.358902,54 3.452375,58 3.517539,77 3.226354,171 3.471502,175 2.809821,188 2.736791,214 2.503566,330 2.610415,334 1.642326,604 2.239222,605 7.074502,621 4.512676,937 2.528774,1000 sugar}
+{1 3.613681,9 0.791552,32 1.506746,1000 sugar}
+{1 2.795925,28 2.087941,32 0.453576,81 4.049475,133 1.594028,975 2.329368,1000 sugar}
+{1 1.397962,28 2.087941,32 0.718901,43 1.567868,55 2.207786,81 4.049475,133 1.594028,497 1.878415,916 2.809821,1000 sugar}
+{1 1.397962,28 2.087941,32 0.453576,55 1.392958,81 2.554934,133 1.594028,203 2.144556,916 2.809821,1000 sugar}
+{1 3.613681,32 1.172477,44 1.23729,45 2.329368,47 1.717743,64 1.489086,90 6.616196,124 2.433016,177 2.772345,179 4.259925,258 3.290274,312 3.856239,325 3.290274,344 2.190274,458 2.273887,475 2.984019,922 4.332821,1000 sugar}
+{1 4.193887,29 5.939437,32 0.453576,81 2.554934,175 2.809821,852 9.236968,975 3.691962,1000 sugar}
+{1 1.397962,28 4.175881,32 1.053171,43 2.485013,45 2.329368,69 1.909227,305 2.58212,521 3.852368,538 3.090868,572 2.849441,639 2.38968,934 2.849441,975 2.329368,1000 sugar}
+{1 2.215718,28 4.175881,31 1.701989,32 0.907152,43 1.567868,45 4.658737,54 2.116814,262 2.639915,305 2.58212,334 2.603026,369 2.610415,401 4.332821,449 2.849441,517 4.051774,538 3.090868,553 2.411009,565 2.670727,572 4.516257,975 2.329368,1000 sugar}
+{1 1.397962,28 2.087941,32 0.453576,43 1.567868,55 1.392958,1000 sugar}
+{1 2.795925,9 0.791552,32 1.360728,38 0.735266,45 2.329368,46 2.06703,135 1.941472,244 4.898911,277 2.222519,294 2.38968,639 2.38968,698 5.660411,1000 sugar}
+{5 1.169056,18 1.477722,21 3.790957,27 1.905654,39 1.291113,69 1.909227,118 2.38968,135 1.941472,282 3.15118,307 4.994502,421 2.310377,489 4.332821,503 2.736791,556 2.809821,721 2.891462,952 2.528774,1000 sugar}
+{1 3.245968,6 1.881899,11 1.494838,19 1.679009,27 1.202334,49 1.358902,50 1.621214,187 4.051774,199 2.984019,201 2.772345,330 2.610415,427 3.090868,440 2.610415,497 1.878415,514 2.124114,605 4.337711,636 2.849441,937 4.008013,1000 sugar}
+{1 3.245968,32 0.718901,34 1.500638,38 1.470532,39 1.291113,47 1.717743,277 2.222519,1000 sugar}
+{1 3.613681,32 0.453576,45 2.329368,55 1.392958,69 1.909227,302 2.702972,369 2.610415,396 4.332821,448 1.868442,497 1.878415,538 3.090868,679 3.852368,756 2.849441,1000 sugar}
+{1 3.924577,6 1.187346,32 0.453576,45 2.329368,55 1.392958,58 2.787584,69 1.909227,81 4.049475,133 1.594028,435 2.849441,497 3.756831,503 2.736791,572 2.849441,656 2.503566,728 2.984019,1000 sugar}
+{1 2.215718,28 2.087941,32 1.172477,133 1.594028,497 4.361546,600 2.455744,1000 sugar}
+{1 1.397962,28 2.087941,32 0.718901,43 1.567868,81 2.554934,649 2.610415,981 3.371915,1000 sugar}
+{1 1.397962,32 0.453576,135 1.941472,344 2.190274,347 2.503566,413 2.849441,584 3.929507,1000 sugar}
+{1 1.397962,9 0.791552,26 1.123645,32 0.453576,45 2.329368,47 2.722558,484 1.839355,514 1.340167,562 2.368988,584 2.479243,629 3.15118,1000 sugar}
+{1 5.71412,6 1.187346,8 1.548877,9 0.791552,18 3.819857,19 1.679009,21 2.324415,26 1.123645,27 2.791733,32 1.506746,44 1.961058,47 3.435486,49 2.717803,54 2.671122,60 1.671516,69 5.359878,161 3.217244,186 3.576211,204 2.809821,211 2.273887,287 4.332821,305 4.092563,334 1.642326,350 2.610415,362 3.464472,393 2.455744,437 2.849441,503 6.354632,534 2.772345,535 2.736791,591 3.697697,721 2.891462,727 3.549084,765 3.090868,806 3.852368,968 3.035387,1000 sugar}
+{1 3.245968,9 0.791552,18 3.819857,26 1.123645,32 0.907152,42 3.148633,199 2.984019,201 6.437185,372 2.891462,454 3.371915,675 3.691962,738 4.994502,1000 sugar}
+{1 3.613681,27 2.791733,31 1.701989,32 1.569115,38 2.064153,44 2.47458,45 2.329368,46 2.608302,47 1.717743,54 1.335561,58 3.517539,64 1.489086,78 2.061278,81 2.554934,133 2.526475,176 3.290274,178 2.528774,179 2.129962,201 2.772345,204 2.809821,209 2.174697,328 3.661861,426 3.035387,457 3.787553,497 1.878415,549 3.226354,578 2.291892,611 4.332821,612 3.464472,728 4.729559,861 5.860711,925 2.936197,1000 sugar}
+{1 4.836156,14 4.912434,26 3.370935,32 1.053171,46 3.371181,49 2.153808,86 1.975291,147 3.821359,221 2.809821,392 3.035387,574 2.610415,756 2.849441,775 3.464472,1000 sugar}
+{1 3.924577,6 1.187346,28 6.263822,32 1.506746,43 2.485013,45 3.691962,53 1.434045,55 3.234348,58 4.546353,64 1.489086,81 5.109868,133 2.526475,151 3.892262,203 2.144556,250 2.736791,260 4.332821,264 3.035387,278 2.159462,372 2.891462,435 2.849441,457 2.38968,514 2.124114,521 3.852368,539 2.772345,625 6.10586,634 3.206559,728 5.968039,916 4.453462,975 3.691962,984 3.852368,1000 sugar}
+{1 3.245968,9 0.791552,27 1.202334,32 0.718901,38 0.735266,46 1.304151,55 1.392958,64 2.360145,78 4.786139,722 2.639915,764 3.852368,1000 sugar}
+{1 6.140295,6 3.069246,9 0.791552,11 1.494838,18 2.955445,19 4.713575,27 3.107988,32 1.273348,35 2.239222,38 2.205798,39 2.582227,44 1.23729,45 2.329368,49 2.153808,52 4.583784,63 1.82062,64 3.45755,69 4.93528,77 2.035603,80 4.408886,135 1.941472,152 2.061278,171 2.190274,181 5.660411,188 2.736791,201 2.772345,203 2.144556,209 2.174697,211 2.273887,255 2.936197,305 2.58212,310 3.035387,311 3.217244,325 3.290274,336 2.58212,344 2.190274,397 2.159462,399 2.984019,437 2.849441,439 2.101667,448 3.736884,457 3.787553,484 1.839355,518 2.891462,525 2.702972,527 4.184167,549 2.035603,552 3.090868,557 2.849441,590 3.371915,605 2.736791,621 2.256338,718 3.035387,727 2.239222,734 3.217244,743 3.464472,760 3.697697,768 3.290274,771 2.891462,776 3.290274,781 3.217244,887 4.051774,937 2.528774,956 3.464472,982 3.852368,994 3.15118,1000 sugar}
+{1 1.397962,9 0.791552,18 4.684269,19 1.679009,26 1.123645,32 0.453576,35 2.239222,45 2.329368,80 1.898804,103 2.809821,199 8.377201,243 3.035387,263 3.697697,412 3.852368,442 3.217244,443 3.571321,475 2.984019,606 3.217244,723 2.736791,758 3.464472,849 3.852368,955 3.15118,956 3.464472,975 2.329368,994 3.15118,997 3.090868,1000 sugar}
+{1 1.397962,31 2.697588,32 1.053171,38 0.735266,43 1.567868,55 3.234348,64 3.45755,77 2.035603,109 4.049475,340 2.455744,421 3.661861,501 2.455744,618 4.516257,675 4.658737,1000 sugar}
+{1 1.397962,28 2.087941,32 0.718901,43 1.567868,55 1.392958,133 1.594028,1000 sugar}
+{1 2.215718,6 1.187346,9 0.791552,11 1.494838,32 1.273348,38 0.735266,44 1.961058,45 2.329368,46 1.304151,581 2.023113,723 2.736791,728 4.729559,1000 sugar}
+{1 2.215718,6 1.187346,9 0.791552,11 1.494838,32 1.273348,38 1.165369,45 2.329368,46 1.304151,47 1.717743,177 2.772345,277 3.52261,514 2.124114,711 4.332821,728 5.968039,1000 sugar}
+{9 0.791552,32 0.718901,47 1.717743,179 2.129962,514 1.340167,723 2.736791,1000 sugar}
+{1 2.795925,28 2.087941,31 2.697588,32 0.907152,38 1.165369,43 1.567868,55 3.234348,64 4.180392,78 3.267048,109 4.049475,163 2.411009,340 2.455744,421 3.661861,466 2.411009,564 3.852368,618 4.516257,675 2.329368,1000 sugar}
+{1 4.431436,18 1.477722,28 3.309308,31 1.701989,32 1.273348,38 1.470532,43 1.567868,44 1.23729,45 2.329368,47 1.717743,55 1.392958,133 1.594028,393 2.455744,514 1.340167,744 3.090868,981 3.371915,1000 sugar}
+{1 2.795925,18 1.477722,28 2.087941,32 0.718901,38 0.735266,43 1.567868,1000 sugar}
+{1 2.215718,28 3.309308,31 1.701989,32 1.273348,38 1.470532,43 1.567868,47 1.717743,55 3.234348,64 3.849231,78 2.061278,86 1.975291,109 4.049475,157 2.035603,262 2.639915,323 2.670727,421 2.310377,458 2.273887,675 2.329368,1000 sugar}
+{1 2.215718,9 0.791552,26 1.780935,27 1.905654,39 1.291113,41 2.915308,42 3.655449,60 5.014548,91 2.772345,162 3.697697,171 4.380548,190 4.516257,203 2.144556,279 5.491059,342 2.772345,426 3.035387,440 2.610415,459 3.852368,467 2.670727,497 1.878415,724 3.571321,742 3.290274,1000 sugar}
+{1 2.795925,9 0.791552,18 3.431165,26 1.780935,32 1.172477,54 1.335561,262 2.639915,277 2.222519,342 2.772345,514 1.340167,1000 sugar}
+{1 3.245968,9 0.791552,18 3.819857,26 1.780935,32 1.053171,54 1.335561,262 2.639915,277 2.222519,342 2.772345,514 1.340167,1000 sugar}
+{1 6.041893,5 1.169056,9 0.791552,18 2.342135,21 5.2575,25 1.607488,26 1.123645,27 1.202334,32 1.053171,34 1.500638,44 1.23729,49 1.358902,50 2.569563,53 4.545816,60 1.671516,64 1.489086,90 2.849441,151 4.911488,197 3.290274,199 2.984019,206 1.963834,209 2.174697,290 2.984019,291 3.691962,334 3.284653,342 2.772345,365 4.810975,393 3.892262,403 3.290274,439 5.43273,441 6.434488,460 2.329368,487 2.368988,497 2.977218,530 3.009533,578 2.291892,598 3.035387,663 4.332821,718 3.035387,752 4.332821,772 2.891462,784 3.217244,979 2.503566,1000 sugar}
+{1 6.140295,9 1.254581,18 1.477722,21 3.405206,26 1.123645,27 1.202334,32 1.273348,33 2.748108,42 3.655449,44 1.961058,45 3.691962,53 4.025874,69 1.909227,86 1.975291,90 4.516257,163 2.411009,206 1.963834,223 1.941472,238 2.639915,239 4.994502,271 3.217244,291 2.329368,317 2.772345,334 2.603026,439 6.662126,466 2.411009,497 2.977218,503 2.736791,522 3.290274,557 2.849441,560 4.810975,574 2.610415,609 3.217244,621 2.256338,686 3.464472,727 5.199314,807 3.090868,906 5.16424,1000 sugar}
+{1 5.011643,9 0.791552,18 5.626214,26 1.123645,27 1.202334,32 0.907152,42 3.148633,53 2.272908,173 3.571321,206 3.927668,208 2.809821,322 1.839355,334 1.642326,393 3.892262,439 3.331063,446 2.772345,466 3.821359,497 1.878415,530 1.898804,806 3.852368,895 3.571321,979 2.503566,1000 sugar}
+{1 4.431436,5 1.169056,9 0.791552,11 1.494838,25 1.607488,42 2.495232,44 2.47458,47 1.717743,53 2.86809,69 1.909227,90 9.032513,151 2.455744,167 3.035387,179 2.129962,186 4.512676,206 3.112603,209 2.174697,216 2.849441,327 2.159462,336 4.092563,344 3.471502,350 2.610415,439 5.900125,484 2.915308,497 1.878415,501 2.455744,503 2.736791,553 4.822019,556 4.453462,599 3.290274,722 4.184167,756 2.849441,965 2.772345,1000 sugar}
+{1 2.795925,27 1.202334,28 4.175881,32 1.053171,38 1.165369,43 1.567868,54 1.335561,55 2.785916,64 2.978172,78 2.061278,86 1.975291,109 4.049475,275 3.217244,339 3.852368,421 3.661861,501 2.455744,545 3.217244,618 2.849441,633 3.035387,675 2.329368,722 2.639915,1000 sugar}
+{1 2.795925,9 1.254581,32 1.053171,90 4.516257,277 2.222519,294 2.38968,514 1.340167,678 3.090868,1000 sugar}
+{6 1.187346,15 6.830339,26 1.123645,32 0.718901,38 0.735266,49 2.153808,119 5.491059,208 2.809821,310 3.035387,315 2.58212,328 2.310377,347 2.503566,1000 tin}
+{10 7.196274,15 8.416852,18 5.468223,19 1.679009,22 2.101667,26 1.780935,27 1.202334,30 3.661861,32 1.891377,34 2.378456,36 1.709821,37 4.658737,38 3.066005,46 1.304151,54 2.116814,56 2.101667,74 2.736791,96 2.772345,108 3.035387,119 12.820071,122 3.464472,130 3.571321,192 3.217244,193 5.660411,199 5.968039,213 2.58212,226 2.936197,310 3.035387,311 3.217244,328 2.310377,334 1.642326,340 2.455744,357 4.137411,359 3.697697,397 2.159462,454 3.371915,514 1.340167,520 2.849441,527 2.639915,569 7.704737,610 3.852368,613 3.217244,639 3.787553,723 6.354632,728 5.968039,870 3.15118,906 2.58212,957 2.936197,985 3.852368,1000 tin}
+{6 1.187346,10 1.725756,11 1.494838,15 2.433016,30 7.323721,53 1.434045,63 2.885614,66 2.702972,89 2.58212,130 5.660411,148 3.290274,164 2.849441,223 1.941472,291 2.329368,358 3.090868,368 3.697697,446 2.772345,460 2.329368,599 3.290274,621 2.256338,671 4.332821,720 8.185126,725 4.653762,981 5.34436,999 3.852368,1000 tin}
+{6 1.187346,10 2.735259,15 2.433016,30 5.364529,39 1.291113,63 1.82062,66 2.702972,130 3.571321,322 2.915308,431 2.736791,460 2.329368,530 1.898804,634 2.023113,720 5.995496,1000 tin}
+{6 1.187346,10 2.735259,15 3.856239,30 6.486048,66 2.702972,130 5.660411,167 3.035387,223 1.941472,278 2.159462,460 2.329368,583 3.035387,720 5.16424,790 4.332821,815 3.852368,845 3.571321,1000 tin}
+{6 1.187346,15 6.830339,18 2.342135,22 2.101667,27 1.905654,32 0.907152,36 1.709821,37 3.691962,38 1.165369,46 1.304151,193 7.142643,227 3.697697,357 4.137411,545 3.217244,564 3.852368,568 3.090868,612 3.464472,614 4.332821,631 2.849441,887 4.051774,1000 tin}
+{0 3.012976,1 3.924577,2 2.502701,4 5.419757,5 1.169056,6 4.107543,8 1.548877,9 0.791552,11 2.369262,13 4.046227,14 7.028104,15 7.299048,16 2.310377,18 3.431165,19 3.358019,23 3.622878,24 2.310377,26 1.780935,27 3.994067,31 3.951896,32 0.453576,33 5.496217,36 1.709821,37 5.408626,38 2.330739,39 1.291113,41 1.839355,46 4.332296,49 4.871611,50 2.569563,54 1.335561,57 3.446813,58 1.758769,63 3.64124,64 1.489086,66 2.702972,74 4.337711,77 3.226354,78 2.061278,87 6.434488,96 2.772345,119 5.491059,157 2.035603,163 2.411009,172 4.332821,175 2.809821,188 2.736791,192 5.099211,195 3.571321,200 8.044256,235 12.820071,238 2.639915,240 3.571321,272 2.936197,273 3.852368,303 3.090868,304 3.290274,305 2.58212,311 3.217244,317 4.394063,319 3.035387,322 1.839355,328 2.310377,334 3.813364,359 5.860711,365 3.035387,369 2.610415,378 4.332821,383 3.697697,392 3.035387,394 3.290274,399 4.729559,403 3.290274,410 6.10586,418 2.610415,427 3.090868,446 2.772345,448 3.736884,454 3.371915,458 3.604026,471 4.051774,475 2.984019,487 2.368988,492 3.371915,500 2.936197,514 2.124114,522 3.290274,525 2.702972,530 3.009533,540 4.051774,548 6.830339,550 2.984019,557 2.849441,566 2.273887,577 5.214962,598 3.035387,605 11.412214,618 2.849441,624 3.15118,629 3.15118,656 2.503566,717 3.090868,718 3.035387,744 3.090868,747 3.571321,765 4.898911,772 2.891462,792 3.852368,816 3.090868,822 4.051774,837 4.332821,839 4.332821,891 6.10586,925 2.936197,928 3.697697,966 3.290274,969 3.090868,983 6.10586,1000 tin}
+{6 2.756933,15 2.433016,19 1.679009,34 1.500638,38 1.165369,39 1.291113,49 3.51271,53 2.272908,54 1.335561,56 2.101667,63 2.885614,66 2.702972,69 1.909227,130 8.292352,161 3.217244,163 2.411009,164 2.849441,178 2.528774,202 5.34436,204 2.809821,209 2.174697,211 2.273887,221 4.453462,262 2.639915,282 3.15118,317 4.394063,368 3.697697,372 2.891462,448 3.736884,456 3.217244,461 3.371915,492 3.371915,565 2.670727,573 5.341454,604 2.239222,613 3.217244,618 5.698881,636 2.849441,639 2.38968,700 3.371915,860 4.051774,913 7.704737,939 3.371915,965 2.772345,969 6.181737,1000 tin}
+{10 1.725756,11 1.494838,15 2.433016,30 5.972238,63 1.82062,130 3.571321,164 2.849441,223 1.941472,262 2.639915,358 3.090868,461 3.371915,518 2.891462,599 3.290274,720 6.674683,937 2.528774,969 3.090868,1000 tin}
+{10 1.725756,15 6.830339,27 1.905654,30 2.310377,32 1.053171,37 3.691962,49 1.358902,310 6.070774,634 2.023113,698 7.142643,723 2.736791,737 3.852368,784 5.099211,1000 tin}
+{6 1.881899,10 1.725756,15 4.866032,18 2.342135,27 1.202334,32 0.718901,33 1.733863,36 1.709821,38 0.735266,49 2.153808,54 2.116814,152 2.061278,291 2.329368,334 1.642326,383 3.697697,605 4.337711,1000 tin}
+{15 2.433016,22 2.101667,26 1.123645,30 2.310377,32 0.907152,38 0.735266,96 2.772345,514 1.340167,723 2.736791,1000 tin}
+{15 2.433016,22 2.101667,26 1.123645,30 2.310377,32 0.453576,37 2.329368,38 0.735266,84 3.035387,96 2.772345,723 2.736791,1000 tin}
+{6 1.187346,14 2.11567,15 5.649288,22 4.203334,31 1.701989,34 2.378456,36 3.970082,41 3.678709,46 1.304151,66 2.702972,87 10.198423,178 2.528774,186 2.256338,206 1.963834,212 9.466163,213 2.58212,291 2.329368,427 3.090868,440 2.610415,487 2.368988,514 1.340167,634 2.023113,659 3.697697,675 3.691962,687 5.968039,720 2.58212,951 4.051774,1000 tin}
+{6 1.881899,14 2.11567,15 4.866032,22 2.101667,23 2.871063,34 1.500638,36 3.970082,41 3.678709,46 1.304151,49 1.358902,54 2.116814,87 9.031946,171 2.190274,212 3.371915,213 4.092563,251 4.332821,365 6.070774,477 2.670727,605 2.736791,648 3.852368,659 3.697697,675 2.329368,687 6.928678,968 3.035387,1000 tin}
+{6 1.187346,14 2.11567,15 2.433016,23 2.871063,36 2.710002,46 1.304151,54 2.116814,87 5.099211,171 2.190274,221 2.809821,278 2.159462,334 1.642326,492 3.371915,605 2.736791,648 3.852368,968 3.035387,1000 tin}
+{10 1.725756,15 6.830339,26 1.780935,27 1.202334,30 2.310377,32 0.718901,37 2.329368,49 1.358902,148 3.290274,310 4.810975,322 3.678709,340 2.455744,427 3.090868,539 2.772345,698 3.571321,737 3.852368,784 6.434488,1000 tin}
+{15 5.649288,18 2.342135,27 1.202334,32 1.273348,37 2.329368,38 1.900635,119 10.393417,199 2.984019,328 2.310377,569 3.852368,723 2.736791,1000 tin}
+{5 1.169056,8 1.548877,19 1.679009,20 2.129962,25 2.547808,32 1.273348,58 1.758769,62 3.331063,255 2.936197,277 2.222519,975 2.329368,1000 veg-oil}
+{6 1.187346,8 1.548877,32 0.453576,43 2.485013,431 2.736791,1000 veg-oil}
+{8 1.548877,9 0.791552,20 2.129962,33 1.733863,40 2.38968,45 2.329368,56 4.203334,497 1.878415,656 2.503566,1000 veg-oil}
+{34 1.500638,50 2.569563,68 2.38968,214 2.503566,557 2.849441,720 2.58212,934 2.849441,1000 veg-oil}
+{8 2.454912,9 0.791552,20 3.375911,26 2.24729,38 0.735266,102 2.206209,105 2.222519,243 3.035387,514 1.340167,847 4.233002,955 3.15118,991 2.984019,992 4.453462,1000 veg-oil}
+{8 4.003789,20 3.375911,31 1.701989,32 0.907152,40 2.38968,55 2.207786,133 1.594028,238 2.639915,514 1.340167,1000 veg-oil}
+{8 1.548877,9 1.254581,20 2.129962,23 1.811439,25 1.607488,36 2.710002,38 1.165369,49 1.358902,50 1.621214,56 3.331063,63 2.885614,64 3.45755,86 3.130762,164 2.849441,169 3.15118,171 2.190274,174 3.852368,175 2.809821,206 1.963834,270 3.697697,448 1.868442,487 2.368988,530 1.898804,632 4.137411,722 4.184167,765 3.090868,778 3.571321,781 3.217244,1000 veg-oil}
+{8 1.548877,20 2.129962,23 1.811439,25 3.214975,27 1.202334,40 2.38968,56 5.43273,60 1.671516,64 3.45755,157 2.035603,293 2.891462,460 2.329368,542 3.691962,674 3.697697,722 4.184167,1000 veg-oil}
+{8 3.097754,32 1.053171,43 1.567868,55 1.392958,94 2.736791,566 2.273887,634 2.023113,916 2.809821,1000 veg-oil}
+{8 3.097754,20 2.129962,43 1.567868,55 1.392958,204 2.809821,371 2.528774,457 2.38968,542 3.691962,721 2.891462,1000 veg-oil}
+{8 1.548877,25 5.762783,32 0.453576,38 1.165369,44 1.23729,50 1.621214,54 1.335561,55 2.207786,69 4.433088,100 5.014117,278 3.422667,305 4.092563,327 2.159462,350 2.610415,353 3.035387,393 2.455744,404 3.852368,413 2.849441,426 7.04795,441 3.217244,448 1.868442,556 7.263283,568 4.898911,578 2.291892,581 2.023113,713 5.660411,847 5.341454,937 5.057549,1000 veg-oil}
+{8 2.454912,20 2.129962,24 2.310377,32 1.172477,43 1.567868,55 1.392958,81 5.109868,101 3.15118,106 2.702972,133 1.594028,277 2.222519,460 2.329368,634 2.023113,649 2.610415,975 2.329368,1000 veg-oil}
+{8 3.596381,20 2.129962,24 2.310377,32 0.718901,43 1.567868,55 2.207786,81 2.554934,106 2.702972,133 1.594028,634 2.023113,649 2.610415,975 2.329368,1000 veg-oil}
+{8 3.097754,20 2.129962,24 3.661861,32 1.273348,37 3.691962,43 1.567868,101 4.994502,106 2.702972,449 2.849441,460 2.329368,634 2.023113,975 2.329368,1000 veg-oil}
+{8 1.548877,20 2.129962,24 2.310377,32 0.718901,37 2.329368,43 1.567868,55 1.392958,81 2.554934,101 3.15118,131 3.290274,132 3.290274,133 1.594028,975 2.329368,1000 veg-oil}
+{8 2.454912,24 4.620754,25 1.607488,32 1.172477,43 2.485013,55 1.392958,101 4.994502,133 2.526475,542 2.329368,634 2.023113,975 2.329368,1000 veg-oil}
+{2 1.077855,8 3.097754,24 4.620754,32 0.453576,37 4.658737,375 3.697697,975 5.408626,1000 veg-oil}
+{8 1.548877,20 2.129962,24 2.310377,32 0.907152,43 1.567868,55 2.207786,81 5.932373,101 3.15118,975 2.329368,1000 veg-oil}
+{8 3.097754,24 4.620754,27 1.202334,31 1.701989,32 0.453576,55 1.392958,563 3.035387,1000 veg-oil}
+{8 5.145258,18 1.477722,24 7.323721,32 0.718901,37 2.329368,46 1.304151,55 2.207786,94 2.736791,101 3.15118,135 1.941472,196 3.571321,343 3.371915,347 2.503566,383 3.697697,413 2.849441,1000 veg-oil}
+{8 2.454912,24 3.661861,32 0.453576,43 1.567868,84 3.035387,94 4.337711,312 2.433016,387 3.090868,584 2.479243,1000 veg-oil}
+{8 4.003789,20 3.375911,24 4.620754,27 1.202334,32 0.718901,38 1.165369,64 3.849231,94 2.736791,308 3.571321,475 2.984019,1000 veg-oil}
+{8 4.909824,24 6.931131,27 1.202334,31 1.701989,32 0.907152,37 2.329368,38 0.735266,55 2.207786,94 2.736791,163 2.411009,514 1.340167,520 2.849441,847 2.670727,1000 veg-oil}
+{6 1.187346,8 3.097754,9 0.791552,24 4.620754,32 1.437801,38 1.707235,56 2.101667,94 2.736791,1000 veg-oil}
+{8 1.548877,9 2.046133,20 2.129962,23 3.622878,25 3.732471,27 2.404668,39 1.291113,40 2.38968,56 6.305,64 4.180392,68 2.38968,104 2.329368,157 2.035603,179 2.129962,223 1.941472,289 3.15118,330 5.220831,448 2.96141,477 2.670727,487 2.368988,530 1.898804,542 2.329368,874 3.571321,979 2.503566,980 5.660411,1000 veg-oil}
+{8 2.454912,24 4.620754,32 1.053171,38 1.470532,94 2.736791,193 10.025967,213 2.58212,294 3.787553,1000 veg-oil}
+{8 3.097754,24 4.620754,32 1.053171,37 2.329368,46 2.06703,94 2.736791,105 2.222519,342 2.772345,1000 veg-oil}
+{8 1.548877,24 4.620754,32 0.718901,37 2.329368,46 1.304151,105 2.222519,634 2.023113,1000 veg-oil}
+{8 3.097754,9 0.791552,20 2.129962,21 1.466542,26 1.780935,94 2.736791,106 2.702972,470 3.15118,539 2.772345,621 2.256338,727 2.239222,1000 veg-oil}
+{8 2.454912,9 0.791552,20 2.129962,32 0.453576,39 2.046366,40 2.38968,56 3.331063,60 1.671516,64 3.849231,238 2.639915,330 4.137411,632 2.610415,656 2.503566,1000 veg-oil}
+{8 3.596381,20 2.129962,24 3.661861,32 0.718901,37 2.329368,49 1.358902,131 3.290274,132 3.290274,1000 veg-oil}
+{8 2.454912,24 3.661861,32 0.453576,55 1.392958,131 3.290274,132 3.290274,133 1.594028,278 2.159462,1000 veg-oil}
+{8 1.548877,24 2.310377,32 0.453576,43 1.567868,55 1.392958,131 3.290274,132 3.290274,278 2.159462,1000 veg-oil}
+{24 2.310377,32 0.453576,43 2.485013,55 1.392958,101 3.15118,131 3.290274,132 3.290274,168 3.371915,278 3.422667,649 2.610415,1000 veg-oil}
+{8 5.145258,24 4.620754,32 1.506746,37 7.737994,38 1.707235,41 1.839355,46 2.06703,179 4.94562,279 5.491059,454 3.371915,466 2.411009,539 2.772345,549 2.035603,562 2.368988,573 4.233002,581 2.023113,639 2.38968,718 3.035387,963 3.290274,965 2.772345,1000 veg-oil}
+{24 2.310377,32 0.718901,43 1.567868,55 1.392958,101 3.15118,131 3.290274,132 3.290274,133 1.594028,916 2.809821,1000 veg-oil}
+{8 1.548877,9 0.791552,25 1.607488,56 4.203334,104 3.691962,157 3.226354,223 1.941472,315 2.58212,466 2.411009,470 3.15118,748 2.639915,1000 veg-oil}
+{2 1.708359,8 2.454912,9 0.791552,20 3.375911,26 1.780935,102 2.206209,152 2.061278,337 3.035387,514 2.124114,956 3.464472,992 2.809821,1000 veg-oil}
+{8 1.548877,9 1.254581,20 2.129962,23 1.811439,25 4.155295,27 1.905654,38 0.735266,39 1.291113,40 2.38968,49 1.358902,56 5.900125,63 1.82062,64 3.45755,104 2.329368,136 4.810975,164 2.849441,223 1.941472,239 3.15118,278 2.159462,302 2.702972,321 4.332821,334 1.642326,336 2.58212,340 3.892262,390 4.051774,397 2.159462,556 5.619643,605 2.736791,632 2.610415,686 3.464472,1000 veg-oil}
+{8 2.454912,9 0.791552,20 3.375911,26 1.123645,32 0.907152,38 0.735266,42 3.148633,53 1.434045,79 2.144556,86 1.975291,467 2.670727,530 3.009533,542 2.329368,1000 veg-oil}
+{2 1.708359,8 2.454912,9 0.791552,20 3.375911,26 1.780935,38 0.735266,102 2.206209,337 3.035387,405 5.491059,514 1.340167,992 2.809821,1000 veg-oil}
+{8 3.596381,20 4.94562,39 2.582227,40 2.38968,56 4.203334,60 1.671516,64 3.45755,159 3.371915,206 3.927668,223 1.941472,530 1.898804,589 2.554934,942 2.809821,1000 veg-oil}
+{8 6.579517,9 0.791552,20 4.259925,24 9.02639,25 3.732471,26 1.780935,27 1.202334,33 4.481972,36 1.709821,37 4.658737,40 9.336219,41 1.839355,52 2.291892,71 2.702972,100 2.159462,111 3.035387,171 2.190274,192 8.316455,203 2.144556,223 1.941472,250 2.736791,277 3.52261,303 3.090868,334 1.642326,340 3.892262,439 4.203334,467 2.670727,483 2.984019,534 2.772345,678 6.181737,866 3.090868,897 7.639781,925 2.936197,1000 veg-oil}
+{8 1.548877,20 2.129962,40 2.38968,49 1.358902,56 3.331063,156 3.571321,214 3.968059,238 2.639915,330 4.137411,340 2.455744,393 2.455744,577 3.290274,1000 veg-oil}
+{8 3.097754,20 2.129962,25 1.607488,40 3.787553,94 2.736791,1000 veg-oil}
+{25 3.214975,32 0.907152,38 0.735266,100 5.014117,514 1.340167,556 2.809821,847 2.670727,1000 veg-oil}
+{8 3.097754,9 0.791552,20 3.375911,32 0.453576,36 1.709821,39 2.046366,40 3.787553,42 1.574316,56 3.331063,60 1.671516,64 2.978172,290 2.984019,632 2.610415,656 2.503566,1000 veg-oil}
+{8 3.097754,9 1.254581,20 4.259925,25 3.732471,36 1.709821,38 0.735266,40 2.38968,50 1.621214,56 5.43273,64 3.45755,206 3.112603,214 2.503566,322 1.839355,397 2.159462,466 2.411009,557 2.849441,567 3.464472,577 3.290274,688 3.371915,867 3.217244,950 3.217244,1000 veg-oil}
+{5 1.169056,8 2.454912,20 2.129962,25 1.607488,36 1.709821,38 0.735266,56 4.203334,64 2.978172,136 3.035387,206 1.963834,238 2.639915,542 2.329368,631 2.849441,748 2.639915,1000 veg-oil}
